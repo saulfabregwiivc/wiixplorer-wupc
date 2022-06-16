@@ -1,0 +1,2358 @@
+# WiiXplorer language source file.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WiiXplorer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-28 19:02+0200\n"
+"PO-Revision-Date: 2009-07-18 15:18+0200\n"
+"Last-Translator:kavid\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, c-format
+msgid "%i error(s) encountered. Check MD5.log for more details."
+msgstr "%i 错误冲突。关于更多信息检查MD5.log。"
+
+msgid "(Best compression)"
+msgstr "最好压缩"
+
+msgid "(Best speed)"
+msgstr "最快速度"
+
+msgid "(Default)"
+msgstr "缺省"
+
+msgid "(Store)"
+msgstr "存储"
+
+msgid "(only this session)"
+msgstr "只有在此线程中"
+
+msgid "(read only)"
+msgstr "只读"
+
+msgid "--------------------------------------------------\n"
+msgstr "--------------------------------------------------\n"
+
+msgid ""
+"--------------------------------------------------\n"
+"\n"
+msgstr ""
+"--------------------------------------------------\n"
+"\n"
+"--------------------------------------------------\n"
+"\n"
+
+msgid "12H"
+msgstr "12小时"
+
+msgid "24H"
+msgstr "24小时"
+
+msgid "7z decompression failed:"
+msgstr "7z解压缩失败:"
+
+msgid "A task is in progress. Can't run update check right now."
+msgstr "有任务正在处理中。无法立刻运行更新检查。"
+
+msgid "ASDFGHJKL:\""
+msgstr "ASDFGHJKL:\""
+
+msgid "Accept"
+msgstr "同意"
+
+msgid "Action cancelled."
+msgstr "动作取消。"
+
+msgid "Active (Bootable):"
+msgstr "激活（可运行）："
+
+msgid "Add Link"
+msgstr "添加链接"
+
+msgid "Add to Playlist"
+msgstr "添加播放列表"
+
+msgid "Add to zip"
+msgstr "添加到ZIP"
+
+msgid "Alpha Blending"
+msgstr "透明光影效果"
+
+msgid "App Default"
+msgstr "程序缺省"
+
+msgid "Apps"
+msgstr "程序"
+
+msgid "Archive Files"
+msgstr "档案文件"
+
+msgid "Are you sure you have that IOS installed?"
+msgstr "是否确认IOS已经安装？"
+
+msgid "Audio Files"
+msgstr "音频文件"
+
+msgid "Auto Connect"
+msgstr "自动连接"
+
+msgid "Auto Start:"
+msgstr "自动运行："
+
+msgid "BMP Compression"
+msgstr "BMP压缩"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Back Button"
+msgstr "返回按钮"
+
+msgid "Back in Directory Button"
+msgstr "目录返回按钮"
+
+msgid "Background Bottom/Left"
+msgstr "背景按钮下或左"
+
+msgid "Background Bottom/Right"
+msgstr "背景按钮下或右"
+
+msgid "Background Upper/Left"
+msgstr "背景按钮上或左"
+
+msgid "Background Upper/Right"
+msgstr "背景按钮上或右"
+
+msgid "Blue"
+msgstr "蓝色"
+
+msgid "Boot IOS"
+msgstr "运行IOS"
+
+msgid "Boot Settings"
+msgstr "运行设置"
+
+msgid "BootMii"
+msgstr "BootMii"
+
+msgid "Both"
+msgstr "全部"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid "Browser Mode"
+msgstr "浏览模式"
+
+msgid "Button Hold Scroll"
+msgstr "按住按钮滚动"
+
+msgid "CRC of extracted file does not match. Wrong password?"
+msgstr "CRC校验文件错误。密码错误？"
+
+msgid "Calculating MD5"
+msgstr "正在计算MD5数值"
+
+msgid "Calculating delete size..."
+msgstr "正在计算删除大小..."
+
+msgid "Calculating extract size..."
+msgstr "正在计算提取大小..."
+
+msgid "Calculating total size..."
+msgstr "正在计算全部大小。。。"
+
+msgid "Calculating transfer size..."
+msgstr "正在计算机传输大小..."
+
+msgid "Can not open the file"
+msgstr ""
+
+msgid "Can't browse that path."
+msgstr "无法找到路径。"
+
+msgid "Can't connect to update server"
+msgstr "无法连接更新服务器"
+
+msgid "Can't find the right partition."
+msgstr "无法找到正确的分区。"
+
+msgid "Can't load page."
+msgstr "无法读取页码。"
+
+msgid "Can't open file."
+msgstr "文件无法打开。"
+
+msgid "Cancel"
+msgstr "取消"
+
+#, c-format
+msgid "Cannot close file %s"
+msgstr "无法关闭文件 %s"
+
+msgid "Cannot create directory: "
+msgstr "无法创建目录："
+
+#, c-format
+msgid "Cannot open file %s"
+msgstr "无法打开文件 %s"
+
+msgid "Cannot read from the drive."
+msgstr "无法从分区读取数据。"
+
+msgid "Cannot write to destination."
+msgstr "目的地址无法写入"
+
+msgid "Cannot write to the drive."
+msgstr "无法向分区写入数据"
+
+msgid "Cannot write to the file."
+msgstr "无法写入文件。"
+
+msgid "Cannot write to this path:"
+msgstr "无法写入到此为止："
+
+msgid "Caps"
+msgstr "大写"
+
+msgid "Channels"
+msgstr "频道"
+
+#, c-format
+msgid "Checked %i file(s) in %i folder(s).\n"
+msgstr "已检查到 %i 个文件在 %i 文件夹中。\n"
+
+msgid "Checking directory:"
+msgstr ""
+"正在检查目录：%s\n"
+"\n"
+
+msgid "Checking file:"
+msgstr ""
+"正在检查文件：%s\n"
+"\n"
+
+msgid "Checking for updates"
+msgstr "正在检测更新"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Clear List"
+msgstr "清楚列表"
+
+msgid "Click Button"
+msgstr "点击按钮"
+
+#, c-format
+msgid "Client %i"
+msgstr "客户端 %i"
+
+msgid "Client:"
+msgstr "客户端"
+
+msgid "Clock Mode"
+msgstr "时钟模式"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Coders:"
+msgstr "作者"
+
+msgid "Color Settings"
+msgstr "颜色设置"
+
+msgid "Compressed Size:"
+msgstr "已压缩大小"
+
+msgid "Compressing item(s):"
+msgstr "正在压缩中项目："
+
+msgid "Console Default"
+msgstr "主机缺省"
+
+msgid "Context Menu Button"
+msgstr "右键菜单按钮"
+
+msgid "Controls Settings"
+msgstr "主机设置"
+
+msgid "Convert"
+msgstr "转换"
+
+msgid "Converting image"
+msgstr "正在转换图片"
+
+msgid "Converting image..."
+msgstr "图片转换中...."
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Copy Thread Background Priority"
+msgstr "复制线程后台优先级"
+
+msgid "Copy Thread Priority"
+msgstr "复制线程优先级"
+
+msgid "Copy current marked item(s)?"
+msgstr "是否复制已标记的项目？"
+
+msgid "Copy of "
+msgstr "复制的"
+
+msgid "Copying item(s):"
+msgstr "复制项目中:"
+
+msgid "Could not connect to the server."
+msgstr "无法连接到服务器"
+
+msgid "Could not convert image."
+msgstr "无法转换图片"
+
+msgid "Could not decompress the file."
+msgstr "此文件无法解压缩。"
+
+msgid "Could not download file."
+msgstr "文件无法下载。"
+
+#, c-format
+msgid "Could not find IOS %i"
+msgstr "没有找到IOS %i"
+
+msgid "Could not load file."
+msgstr "文件无法读取。"
+
+msgid "Could not load image."
+msgstr "图片无法读取。"
+
+msgid "Could not load text file."
+msgstr "文本文件无法读取。"
+
+msgid "Could not parse directory."
+msgstr "无法解析目录。"
+
+msgid "Credits"
+msgstr "感谢"
+
+msgid "Currently a process is running."
+msgstr "当前已有一进程运行中。"
+
+msgid "Customfont Path"
+msgstr "自定义字体路径"
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Cut current marked item(s)?"
+msgstr "是否剪切已标记项目？"
+
+msgid "Default"
+msgstr "缺省"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete Temp Path on Exit"
+msgstr "退出时删除临时路径"
+
+msgid "Delete the selected item(s) and its content?"
+msgstr "删除已选择的项目和内容？"
+
+msgid "Deleting item(s):"
+msgstr "删除选项:"
+
+msgid "Demark All Items Button"
+msgstr "取消全部标记选项按钮"
+
+msgid "Demark Item Button"
+msgstr "取消选项按钮"
+
+msgid "Designer:"
+msgstr "设计者："
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Directory .."
+msgstr "目录.."
+
+msgid "Disconnect Client"
+msgstr "断开客户端"
+
+msgid "Disconnect NFS"
+msgstr "断开NFS"
+
+msgid "Disconnect SMB"
+msgstr "断开网络共享"
+
+msgid "Disk is Full"
+msgstr "磁盘空间已满"
+
+msgid "Do you want to add an URL?"
+msgstr "是否要添加URL？"
+
+msgid "Do you want to append this delete to the queue?"
+msgstr "是否要添加此文件到删除队列中？"
+
+msgid "Do you want to append this paste to the queue?"
+msgstr "是否要增加粘贴项目到队列中？"
+
+msgid "Do you want to append this process to the queue?"
+msgstr "是否要添加此进程到粘贴队列中？"
+
+msgid "Do you want to boot file now?"
+msgstr "是否立刻运行此文件？"
+
+msgid "Do you want to boot:"
+msgstr "是否重新启动:"
+
+msgid "Do you want to change the font?"
+msgstr "是否要更改字体？"
+
+msgid "Do you want to delete this file:"
+msgstr "是否要删除此文件："
+
+msgid "Do you want to disconnect the FTP client?"
+msgstr "是否断开FTP客户端"
+
+msgid "Do you want to disconnect this NFS?"
+msgstr "是否要断开NFS？"
+
+msgid "Do you want to disconnect this SMB?"
+msgstr "是否断开网络共享"
+
+msgid "Do you want to download new language files?"
+msgstr "是否下载新语言文件？"
+
+msgid "Do you want to exit WiiXplorer?"
+msgstr "是否退出WiiXplorer?"
+
+#, c-format
+msgid "Do you want to load file from: %s ?"
+msgstr "是否想要运行文件来自:%s ?"
+
+msgid "Do you want to load the default language?"
+msgstr "是否要读取缺省语言？"
+
+msgid "Do you want to load this language ?"
+msgstr "是否读取这个语言包"
+
+msgid "Do you want to open this file in TextEditor?"
+msgstr "是否用文本编辑器打开此文件？"
+
+msgid "Do you want to playback this file?"
+msgstr "是否播放此文件？"
+
+msgid "Do you want to reboot WiiXplorer?"
+msgstr "是否重新启动WiiXplorer?"
+
+msgid "Do you want to reboot now ?"
+msgstr "是否现在重新启动？"
+
+msgid "Do you want to reconnect this NFS?"
+msgstr "是否要重新连接NFS？"
+
+msgid "Do you want to reconnect this SMB?"
+msgstr "是否重新连接网络共享"
+
+msgid "Do you want to reconnect to the FTP client?"
+msgstr "是否重新连接FTP客户端"
+
+msgid "Do you want to remount all devices?"
+msgstr "是否重新挂载所有设备？"
+
+msgid "Do you want to replace this file?"
+msgstr "是否替换此文件？"
+
+msgid "Do you want to reset the control settings?"
+msgstr "是否复位控制设置？"
+
+msgid "Do you want to reset the settings?"
+msgstr "是否复位此设置？"
+
+msgid "Do you want to save changes?"
+msgstr "是否保存更改？"
+
+msgid "Do you want to start BootMii?"
+msgstr "是否运行BootMii？"
+
+msgid "Do you want to start the app?"
+msgstr "是否运行此程序？"
+
+msgid "Do you want to start the channel?"
+msgstr "是否运行此频道？"
+
+msgid "Do you want to update now ?"
+msgstr "是否现在更新？"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Down Button"
+msgstr "下载按钮"
+
+msgid "Download Link"
+msgstr "下载链接"
+
+msgid "Downloading file..."
+msgstr "正在下载文件..."
+
+msgid "Downloading files..."
+msgstr "正在下载文件..."
+
+msgid "Edit Textline Button"
+msgstr "编辑文本行按钮"
+
+#, c-format
+msgid "Encountered %i error(s).\n"
+msgstr "冲突%i个错误。\n"
+
+msgid "Enter"
+msgstr "进入"
+
+msgid "Error"
+msgstr "错误"
+
+#, c-format
+msgid "Error - %s is not a file\n"
+msgstr "错误 - %s 不是一个文件\n"
+
+#, c-format
+msgid "Error - Could not open file: %s\n"
+msgstr "错误 - 无法打开文件：%s\n"
+
+#, c-format
+msgid "Error - Could not parse directory: %s\n"
+msgstr "错误 - 无法解析当前路径：%s\n"
+
+#, c-format
+msgid "Error - Not enough memory on: %s\n"
+msgstr "错误 - 内存不足： %s\n"
+
+#, c-format
+msgid "Error opening %s"
+msgstr "正在打开 %s 错误"
+
+#, c-format
+msgid "Error opening %s in %s"
+msgstr "打开错误 %s 在 %s 中"
+
+#, c-format
+msgid "Error received from %s in %s"
+msgstr "接错错误从 %s 在 %s中"
+
+msgid "Error while reading file."
+msgstr "读取文件错误"
+
+msgid "Error:"
+msgstr "错误"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Exit WiiXplorer?"
+msgstr "退出WiiXplorer？"
+
+msgid "Explorer Settings"
+msgstr "浏览器设置"
+
+msgid "Extract"
+msgstr "提取"
+
+msgid "Extract All"
+msgstr "提取全部"
+
+msgid "Extract error code:"
+msgstr "提取错误代码："
+
+msgid "Extract file to temp path and execute?"
+msgstr "提取文件到临时路径并执行？"
+
+msgid "Extract full archive?"
+msgstr "提取所有文件？"
+
+msgid "Extract the selected item(s)?"
+msgstr "提取已选择的项目？"
+
+msgid "Extracting file..."
+msgstr "正在提取文件..."
+
+msgid "Extracting item(s):"
+msgstr "提取项目中："
+
+msgid "FAT32 must have at least 65536 clusters"
+msgstr "FAT32分区必须至少65536个簇"
+
+msgid "FTP Client Settings"
+msgstr "FTP客户端设置"
+
+msgid "FTP Path:"
+msgstr "FTP路径："
+
+msgid "FTP Port:"
+msgstr "FTP端口"
+
+msgid "FTP Server"
+msgstr "FTP服务器"
+
+msgid "FTP Server Settings"
+msgstr "FTP服务设置"
+
+msgid "FTP Server is running and listening on port"
+msgstr "FTP服务器正在运行并侦听端口"
+
+msgid "FTP Started.\n"
+msgstr "FTP已开启。\n"
+
+msgid "Fade Speed"
+msgstr "减速"
+
+msgid "Failed adding some item(s)."
+msgstr "正在添加某些项目失败。"
+
+msgid "Failed copying some item(s)."
+msgstr "正在复制某些项目失败。"
+
+msgid "Failed deleting some item(s)."
+msgstr "正在删除的某些项目失败。"
+
+msgid "Failed extracting some item(s)."
+msgstr "提取一些项目有些错误。"
+
+msgid "Failed extracting the item(s)."
+msgstr "提取这些项目失败。"
+
+msgid "Failed formatting the partition."
+msgstr "格式化分区失败。"
+
+msgid "Failed loading the file."
+msgstr "读取文件失败。"
+
+msgid "Failed moving some item(s)."
+msgstr "移动某些项目失败。"
+
+msgid "Failed reading from network"
+msgstr "从网络接收错误"
+
+msgid "Failed renaming item"
+msgstr "重命名项目失败。"
+
+msgid "Failed to get the Changelog."
+msgstr "更新日志失败"
+
+msgid "Failed to initialize network."
+msgstr "网络初始化失败。"
+
+msgid "Failed to load the channel."
+msgstr "运行频道失败！"
+
+msgid "Failed to read file data."
+msgstr "读取文件数据失败。"
+
+msgid "Failed to write EBR."
+msgstr "写EBR失败。"
+
+msgid "Failed to write MBR."
+msgstr "写MBR失败。"
+
+#, c-format
+msgid "Fatal error: %i."
+msgstr "致命错误：%i。"
+
+msgid "File Extensions"
+msgstr "文件扩展"
+
+msgid "File Extensions Settings"
+msgstr "文件扩展设置"
+
+msgid "File System:"
+msgstr "文件系统："
+
+msgid "File already exists:"
+msgstr "文件已存在："
+
+msgid "File could not be deleted."
+msgstr "文件无法删除。"
+
+msgid "File is corrupt (CRC mismatch)."
+msgstr "文件损坏（CRC不匹配）"
+
+msgid "File is corrupt."
+msgstr "文件已损坏"
+
+msgid "File is too big."
+msgstr "文件过大。"
+
+msgid "File uses too high of compression settings (dictionary size is too large)."
+msgstr "文件使用了高压缩比设置（字典尺寸过大。）"
+
+msgid "File uses unsupported compression settings."
+msgstr "文件使用了不支持的压缩设置。"
+
+msgid "File was edited."
+msgstr "文件被编辑。"
+
+msgid "Filepath:"
+msgstr "文件路径："
+
+#, c-format
+msgid "Filepath:  %s"
+msgstr "文件路径"
+
+msgid "Files:"
+msgstr "文件："
+
+msgid "Filesize doesn't match."
+msgstr "文件尺寸不匹配"
+
+msgid "Filesize is 0 Byte."
+msgstr "0字节文件"
+
+msgid "Filetype:"
+msgstr "文件类型："
+
+msgid "Flip Mode"
+msgstr "快捷模式"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Folder(s)"
+msgstr "文件夹"
+
+msgid "Font Files"
+msgstr "字体文件"
+
+msgid "Fontpath changed."
+msgstr "字体路径已更改"
+
+msgid "Format"
+msgstr "格式化"
+
+msgid "Format Partition?"
+msgstr "格式化分区？"
+
+msgid "Formatter"
+msgstr "格式化程序"
+
+msgid "Formatting partition!"
+msgstr "正在格式化分区"
+
+msgid "Free Space:"
+msgstr "空余空间："
+
+msgid "GC Homebrew"
+msgstr "GC自制程序"
+
+msgid "GC PAD BUTTON A"
+msgstr "GC手柄A键"
+
+msgid "GC PAD BUTTON B"
+msgstr "GC手柄B键"
+
+msgid "GC PAD BUTTON DOWN"
+msgstr "GC手柄下键"
+
+msgid "GC PAD BUTTON LEFT"
+msgstr "GC手柄左键"
+
+msgid "GC PAD BUTTON NONE"
+msgstr "GC手柄空键"
+
+msgid "GC PAD BUTTON RIGHT"
+msgstr "GC手柄右键"
+
+msgid "GC PAD BUTTON START"
+msgstr "GC手柄开始键"
+
+msgid "GC PAD BUTTON UP"
+msgstr "GC手柄上键"
+
+msgid "GC PAD BUTTON X"
+msgstr "GC手柄X键"
+
+msgid "GC PAD BUTTON Y"
+msgstr "GC手柄Y键"
+
+msgid "GC PAD TRIGGER L"
+msgstr "GC手柄L键"
+
+msgid "GC PAD TRIGGER R"
+msgstr "GC手柄R键"
+
+msgid "GC PAD TRIGGER Z"
+msgstr "GC手柄Z键"
+
+msgid "GC Pad Buttons Setup"
+msgstr "GC手柄按键设置"
+
+msgid "GC-SD A"
+msgstr "GC_SD A键"
+
+msgid "GC-SD B"
+msgstr "GC-SD B键"
+
+msgid "GD2 Compression"
+msgstr "GD2压缩"
+
+msgid "GUID"
+msgstr "GUID"
+
+msgid "General Settings"
+msgstr "全局设置"
+
+msgid "Getting Changelog..."
+msgstr "正在提取更新日志信息......"
+
+msgid "Getting file list..."
+msgstr "正在获取文件列表..."
+
+msgid "Go Back"
+msgstr "返回"
+
+msgid "Green"
+msgstr "绿色"
+
+msgid "Hashing complete."
+msgstr "校验完成。"
+
+msgid "Hashing successfully finished."
+msgstr "哈希校验成功完成。"
+
+msgid "Hide System Files/Folders"
+msgstr "隐藏系统文件或者文件夹"
+
+msgid "High"
+msgstr "高"
+
+msgid "Highest"
+msgstr "最高"
+
+msgid "Home Button"
+msgstr "Home键"
+
+msgid "Home Menu"
+msgstr "Home菜单"
+
+msgid "Homebrew Apps Path"
+msgstr ""
+
+msgid "Homebrew Channel"
+msgstr "Hombrew 频道"
+
+msgid "Homebrew Files"
+msgstr "自制文件"
+
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "Host:"
+msgstr "主机："
+
+msgid "How do you want to change the path?"
+msgstr "是否要更改路径？"
+
+msgid "How do you want to launch this file?"
+msgstr "如何运行此文件？"
+
+msgid "How do you want to load this language file?"
+msgstr "是否想要加载此语言文件？"
+
+msgid "How do you want to open the file?"
+msgstr "你想要采取哪种方式打开此文件？"
+
+msgid "How do you want to proceed?"
+msgstr "你想要如何执行？"
+
+msgid "How should this URL be opened?"
+msgstr "如何打开此网址？"
+
+msgid "Icon Mode"
+msgstr "图标模式"
+
+msgid "Idle"
+msgstr "空闲"
+
+msgid "Image Converter"
+msgstr "图片转换器"
+
+msgid "Image Files"
+msgstr "图片文件"
+
+msgid "Image Heigth"
+msgstr "图片高度"
+
+msgid "Image Settings"
+msgstr "图片设置"
+
+msgid "Image Width"
+msgstr "图片宽度"
+
+msgid "Image successfully converted."
+msgstr "图片转换成功。"
+
+msgid "ImageConverter"
+msgstr "图片转换器"
+
+msgid "ImageViewer"
+msgstr "图片查看器"
+
+msgid "Incomming connection."
+msgstr "接入链接。"
+
+msgid "Input File"
+msgstr "输入文件"
+
+msgid "Interlace"
+msgstr "交织"
+
+msgid "Internet Channel"
+msgstr "互联网频道"
+
+msgid "JPEG Quality"
+msgstr "JPEG图片质量"
+
+msgid "Keyboard Backspace Button"
+msgstr "键盘退格按钮"
+
+msgid "Keyboard Delete Delay"
+msgstr "键盘删除延迟"
+
+msgid "Keyboard Shift Button"
+msgstr "键盘上档按钮"
+
+msgid "Lang."
+msgstr "语言。"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Language Files"
+msgstr "语言文件"
+
+msgid "Language Path"
+msgstr "语言路径"
+
+msgid "Language Settings"
+msgstr "语言设置"
+
+msgid "Last access:"
+msgstr "最近读取"
+
+msgid "Last change:"
+msgstr "最近更改："
+
+msgid "Last modified:"
+msgstr "最近修改："
+
+msgid "Left Button"
+msgstr "左键"
+
+msgid "List Mode"
+msgstr "列表模式"
+
+msgid "Listening on TCP port"
+msgstr "监听TCP端口"
+
+msgid "Load"
+msgstr "读取"
+
+msgid "Load Music to Memory"
+msgstr "音乐载入内存中"
+
+msgid "Loading file:"
+msgstr "正在读取文件:"
+
+msgid "Log was saved in MD5.log"
+msgstr "日志保存在md5.log文件中"
+
+msgid "Logical"
+msgstr "逻辑分区"
+
+msgid "Loop"
+msgstr "循环"
+
+msgid "Loop Playlist"
+msgstr "循环播放列表"
+
+msgid "Low"
+msgstr "低"
+
+msgid "MD5 Check"
+msgstr "MD5 检查"
+
+msgid "MD5 log file can't be created."
+msgstr "无法创建MD5 日志文件。"
+
+msgid "MPlayerCE"
+msgstr "MPlayerCE"
+
+msgid "MPlayerCE DOL Path"
+msgstr ""
+
+msgid "Mark Item Button"
+msgstr "标记项目按钮"
+
+msgid "Memory Buffer"
+msgstr "内存缓冲"
+
+msgid "Menu"
+msgstr "菜单"
+
+#, c-format
+msgid "Mount %i"
+msgstr "挂载 %i"
+
+msgid "Mount NAND (ISFS) on boot"
+msgstr "运行时自动挂载NAND（ISFS）"
+
+msgid "Mounted as:"
+msgstr "以挂载成："
+
+msgid "Mounting DVD"
+msgstr "正在挂载DVD"
+
+msgid "Mountpoint:"
+msgstr "挂载点："
+
+msgid "Moving item(s):"
+msgstr "正在移动项目："
+
+msgid "Multiple Items"
+msgstr "多选项"
+
+msgid "Music Loop Mode"
+msgstr "音乐循环模式"
+
+msgid "Music Volume"
+msgstr "音乐音量"
+
+msgid "NAND write access"
+msgstr "NAND写操作允许"
+
+msgid "NFS Settings"
+msgstr "NFS设置"
+
+msgid "NONE"
+msgstr "无"
+
+msgid "Name might already exists."
+msgstr "文件名可能重复。"
+
+msgid "Network Settings"
+msgstr "网络设置"
+
+msgid "Network initialising..."
+msgstr "网络正在初始化"
+
+msgid "New Folder"
+msgstr "新文件夹"
+
+msgid "NewZip.zip"
+msgstr "NewZip.zip"
+
+msgid "No"
+msgstr "否"
+
+msgid "No URL or Path specified."
+msgstr "无网址或路径使用"
+
+msgid "No files found."
+msgstr "没有找到任何文件。"
+
+msgid "No homebrew in the zip."
+msgstr "Zip压缩包中无自制程序。"
+
+msgid "No network connection."
+msgstr "无网络连接"
+
+msgid "No new updates available"
+msgstr "没有新的可用更新"
+
+msgid "No to all"
+msgstr "全选否"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Not a valid URL"
+msgstr "无效的URL"
+
+msgid "Not a valid URL path"
+msgstr "无线电URL路径"
+
+msgid "Not a valid domain"
+msgstr "无效的域名"
+
+msgid "Not enough memory"
+msgstr "内存不足"
+
+msgid "Not enough memory to resize."
+msgstr "内存不足以修正图片尺寸"
+
+msgid "Not enough memory to rotate."
+msgstr "内存不足以修正图片旋转"
+
+msgid "Not enough memory."
+msgstr "内存不足"
+
+msgid "Not enought memory."
+msgstr "内存不足。"
+
+msgid "Not mounted"
+msgstr "没挂载"
+
+msgid "OFF"
+msgstr "关闭"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "ON"
+msgstr "打开"
+
+msgid "Open the file in the PDF Viewer?"
+msgstr "是否用PDF查看器？"
+
+msgid "Opera Channel not found on the system."
+msgstr "系统中没有安装Opera频道。"
+
+msgid "Out of memory: too many files!"
+msgstr "内存不足：文件过多！"
+
+msgid "Output File"
+msgstr "输出文件"
+
+msgid "Output Type"
+msgstr "输出类型"
+
+msgid "Override Priiloader"
+msgstr ""
+
+msgid "PDF Files"
+msgstr "PDF文件"
+
+msgid "PDF Processing Zoom"
+msgstr "PDF缩放中"
+
+msgid "Parse Directory"
+msgstr "解析目录"
+
+msgid "Partition"
+msgstr "分区"
+
+msgid "Partition Formatter"
+msgstr "分区格式化程序"
+
+msgid "Partition Nr."
+msgstr "分区NR。"
+
+msgid "Partition Size:"
+msgstr "分区大小："
+
+msgid "Partition Type:"
+msgstr "分区类型："
+
+msgid "Partition is too small."
+msgstr "分区过小："
+
+msgid "Passive Mode:"
+msgstr "被动模式"
+
+msgid "Password is needed."
+msgstr "必须要密码。"
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Paste item(s) into current directory?"
+msgstr "是否在当前目录中粘贴项目"
+
+msgid "Paste the item(s) into this directory?"
+msgstr "是否粘贴文件到此目录？"
+
+msgid "Pasting files is currently only supported on ZIP archives."
+msgstr "粘贴文件仅仅支持ZIP格式。"
+
+msgid "Path Settings"
+msgstr "路径设置："
+
+msgid "Path Setup"
+msgstr "路径设置"
+
+msgid "Path changed."
+msgstr "路径已更改。"
+
+msgid "Play File"
+msgstr "播放文件"
+
+msgid "Play Once"
+msgstr "只播放一次"
+
+msgid "Please enter a path."
+msgstr "输入一个路径"
+
+msgid "Please enter first the URL-Name."
+msgstr "是输入第一次的URL网址。"
+
+msgid "Please enter now the URL."
+msgstr "请立刻输入URL。"
+
+msgid "Please enter the password."
+msgstr "请输入密码。"
+
+msgid "Please wait..."
+msgstr "请等待..."
+
+msgid "Possible unsupported format."
+msgstr "可能不支持此文件格式。"
+
+msgid "Press Startup FTP to start the server on port"
+msgstr "按开启FTP按钮启动FTP服务"
+
+msgid "Press any button(s)"
+msgstr "按任意键"
+
+msgid "Primary"
+msgstr "主"
+
+msgid "Process canceled."
+msgstr "进程已取消"
+
+msgid "ProgressBar Bottom/Left"
+msgstr "程序条下或左"
+
+msgid "ProgressBar Bottom/Right"
+msgstr "程序条下或右"
+
+msgid "ProgressBar Empty Bottom/Left"
+msgstr "程序条空按钮或左"
+
+msgid "ProgressBar Empty Bottom/Right"
+msgstr "程序条空按钮或右"
+
+msgid "ProgressBar Empty Upper/Left"
+msgstr "程序条空上或左"
+
+msgid "ProgressBar Empty Upper/Right"
+msgstr "程序条空上或右"
+
+msgid "ProgressBar Upper/Left"
+msgstr "程序条上或左"
+
+msgid "ProgressBar Upper/Right"
+msgstr "程序条上或右"
+
+msgid "Properties"
+msgstr "属性"
+
+msgid "QWERTYUIOP{}|"
+msgstr "QWERTYUIOP{}|"
+
+#, c-format
+msgid "R: %i G: %i B: %i"
+msgstr "红: %i 绿: %i 蓝: %i"
+
+msgid "Random"
+msgstr "随机"
+
+#, c-format
+msgid "Read Error in %s"
+msgstr "读取错误在 %s 中"
+
+#, c-format
+msgid "Read Error in file: %s"
+msgstr "读取错误在文件：%s"
+
+#, c-format
+msgid "Read error from %s in %s"
+msgstr "读取错误来自 %s 在 %s 中"
+
+msgid "Reading archive."
+msgstr "正在读取文档。"
+
+msgid "Receiving file..."
+msgstr "文件接收中..."
+
+msgid "Reconnect FTP"
+msgstr "重连FTP"
+
+msgid "Reconnect NFS"
+msgstr "重新连接NFS"
+
+msgid "Reconnect SMB"
+msgstr "重新连接网络共享"
+
+msgid "Red"
+msgstr "红"
+
+msgid "Remount"
+msgstr "重新挂载"
+
+msgid "Remounting FTP client."
+msgstr "重新挂载FTP客户端。"
+
+msgid "Remounting NFS client."
+msgstr "重新挂载NFS客户端。"
+
+msgid "Remounting SMB client."
+msgstr "重新挂载SMB客户端。"
+
+msgid "Remounting all devices."
+msgstr "正在重新挂载所有设备。"
+
+msgid "Remove Link"
+msgstr "移除链接"
+
+msgid "Remove from list"
+msgstr "删除列表"
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "Resample to 48 kHz"
+msgstr ""
+
+msgid "Reset"
+msgstr "复位"
+
+msgid "Restart"
+msgstr "重启动"
+
+msgid "Retry?"
+msgstr "重试？"
+
+msgid "Right Button"
+msgstr "右键"
+
+msgid "Rotate"
+msgstr "旋转"
+
+msgid "Rumble"
+msgstr "震动"
+
+msgid "Running a Video could slowdown the process or freeze the app. Do you want to continue?"
+msgstr "正在播放的视频将会降低运行速度或使此程序死机。是否要继续？"
+
+msgid "SD-Card"
+msgstr "SD卡"
+
+msgid "SMB Name:"
+msgstr "网络共享名"
+
+msgid "SMB Settings"
+msgstr "网络共享设置"
+
+msgid "Save Alpha"
+msgstr "保存透明效果"
+
+msgid "Screen Pointer Speed"
+msgstr "屏幕指针速度"
+
+msgid "Screenshot Format"
+msgstr "截屏格式"
+
+msgid "Screenshot Hold Button"
+msgstr "截屏按住键"
+
+msgid "Screenshot Path"
+msgstr "截屏保存路径"
+
+msgid "Screenshot Press Button"
+msgstr "截屏按键"
+
+msgid "Scrolling Speed"
+msgstr "滑动速度"
+
+#, c-format
+msgid "Seek Error in %s"
+msgstr "搜索错误在 %s 中"
+
+msgid "Server was shutdown...\n"
+msgstr "服务已关闭...\n"
+
+msgid "Set Active"
+msgstr "设置活动"
+
+msgid "Set the pressed buttons?"
+msgstr "设置按键？"
+
+msgid "Set this Partition as Active?"
+msgstr "是否设置此分区为活动分区？"
+
+msgid "Settings"
+msgstr "设置"
+
+#, c-format
+msgid "Share %i"
+msgstr "共享 %i"
+
+msgid "Share:"
+msgstr "共享："
+
+msgid "Shift"
+msgstr "Shift键"
+
+msgid "Show Changelog"
+msgstr "显示更新日志"
+
+msgid "Show Partition Formatter"
+msgstr "显示分区格式"
+
+msgid "Shutdown"
+msgstr "关闭"
+
+msgid "Shutdown FTP"
+msgstr "关闭FTP"
+
+msgid "Shutdown the Wii?"
+msgstr "关闭Wii？"
+
+msgid "Size:"
+msgstr "尺寸："
+
+msgid "Slide Show Button"
+msgstr "幻灯片按钮"
+
+msgid "Slideshow Delay"
+msgstr "幻灯片延时"
+
+msgid "Sound Settings"
+msgstr "声音设置"
+
+msgid "Soundblock Size"
+msgstr "声音锁大小"
+
+msgid "Soundblocks"
+msgstr "声音锁"
+
+msgid "Special thanks to:"
+msgstr "特别感谢：Kavid"
+
+msgid "Startup FTP"
+msgstr "开启FTP"
+
+msgid "Successfully formated the partition."
+msgstr "格式化分区成功。"
+
+msgid "System error received"
+msgstr "系统错误已接收"
+
+msgid "Tab"
+msgstr "标签"
+
+msgid "Temporary Path"
+msgstr "临时路径"
+
+msgid "Text Editor"
+msgstr "文本编辑器"
+
+msgid "The buffer size is really high. If the app doesn't start after this delete your config files."
+msgstr "删除设置文件后，程序依然没有开始，因为缓存大小设置过高。"
+
+msgid "The developers cannot be hold responsible for any damage you do to your Wii by activating this option. Are you sure you want to continue?"
+msgstr "作者不因为使用开启此选项破坏了你的系统而负责。你是否要继续？"
+
+msgid "The effect will take with next music load. It might break music playback."
+msgstr "此次设置将会在下次生效。可能会终止音乐播放。"
+
+msgid "The file will be downloaded to this path."
+msgstr "下载文件到此位置。"
+
+msgid "The new font could not be loaded."
+msgstr "无法读取新字库。"
+
+msgid "The new font is loaded."
+msgstr "新字库已读取"
+
+msgid "The whole devkitPro & libogc staff."
+msgstr "此程序是由Devkitpro和libogc开发。"
+
+msgid "This drive has more than 2^28 clusters. Partition might be too small."
+msgstr "此分区超过2的28次方的簇。分区可能过小。"
+
+msgid "This drive is too big"
+msgstr "分区过大。"
+
+msgid "This link will be used in Opera or as a Download Link."
+msgstr "此链接将会在Opera中使用或者作为下载连接。"
+
+msgid "This name will be shown in the Start Menu"
+msgstr "名称将会在开始菜单显示。"
+
+msgid "This option could mess up the pdf view."
+msgstr "此选项会造成pdf查看混乱。"
+
+msgid "This will delete all the data on this partition. Do you want to continue?"
+msgstr "这样会删除所有此分区上的数据。是否继续？"
+
+msgid "Time left:"
+msgstr "时间剩余："
+
+msgid "To Idle"
+msgstr "到空闲"
+
+msgid "To Standby"
+msgstr "到待机"
+
+msgid "Tooltip Delay"
+msgstr "提示框延迟"
+
+msgid "Total Space:"
+msgstr "总计空间："
+
+msgid "Transfer cancelled."
+msgstr "传输取消"
+
+msgid "Transfer failed"
+msgstr "传输失败"
+
+msgid "Transfer failed."
+msgstr "传输失败。"
+
+msgid "URL List"
+msgstr "URL列表"
+
+msgid "URL List Path"
+msgstr "URL列表路径"
+
+msgid "URL is empty."
+msgstr "URL是空"
+
+msgid "USB Device Port 0"
+msgstr "USB设备端口0"
+
+msgid "USB Device Port 1"
+msgstr "USB设备端口1"
+
+msgid "Uknown format. Open this file in the TextEditor?"
+msgstr "无法识别格式。是否用文本编辑器打开此文件？"
+
+msgid "Unable to create folder."
+msgstr "不能建立文件夹"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unsupported format!"
+msgstr "不支持的格式！"
+
+msgid "Up Button"
+msgstr "向上按钮"
+
+msgid "Update (App) Path"
+msgstr "更新程序路径"
+
+msgid "Update App"
+msgstr "更新程序"
+
+msgid "Update Icon.png"
+msgstr "更新Icon.png"
+
+msgid "Update Meta.xml"
+msgstr "更新Meta.xml"
+
+msgid "Update failed"
+msgstr "更新失败。"
+
+msgid "Update successfully finished"
+msgstr "更新成功！"
+
+#, c-format
+msgid "Update to Rev%i available"
+msgstr "更新到版本Rev%i"
+
+msgid "Use Both USB Ports"
+msgstr "使用全部USB端口"
+
+msgid "Username:"
+msgstr "用户名"
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "Video Files"
+msgstr "视频文件"
+
+msgid "WARNING"
+msgstr "警告"
+
+msgid "WARNING/DISCLAIMER"
+msgstr "警告或者否认声明"
+
+msgid "WARNING:"
+msgstr "警告："
+
+msgid "WPAD BUTTON 1"
+msgstr "Wiimote 1键"
+
+msgid "WPAD BUTTON 2"
+msgstr "Wiimote 2键"
+
+msgid "WPAD BUTTON A"
+msgstr "Wiimote A键"
+
+msgid "WPAD BUTTON B"
+msgstr "Wiimote B键"
+
+msgid "WPAD BUTTON DOWN"
+msgstr "Wiimote 下键"
+
+msgid "WPAD BUTTON HOME"
+msgstr "Wiimote Home键"
+
+msgid "WPAD BUTTON LEFT"
+msgstr "Wiimote 左键"
+
+msgid "WPAD BUTTON MINUS"
+msgstr "Wiimote 减号键"
+
+msgid "WPAD BUTTON PLUS"
+msgstr "Wiimote 加号键"
+
+msgid "WPAD BUTTON RIGHT"
+msgstr "Wiimote 1又键"
+
+msgid "WPAD BUTTON UP"
+msgstr "Wiimote 上键"
+
+msgid "WPAD CLASSIC BUTTON A"
+msgstr "Wii经典手柄 A键"
+
+msgid "WPAD CLASSIC BUTTON B"
+msgstr "Wii经典手柄 B键"
+
+msgid "WPAD CLASSIC BUTTON DOWN"
+msgstr "Wii经典手柄 下键"
+
+msgid "WPAD CLASSIC BUTTON FULL L"
+msgstr "Wii经典手柄 L键"
+
+msgid "WPAD CLASSIC BUTTON FULL R"
+msgstr "Wii经典手柄 R键"
+
+msgid "WPAD CLASSIC BUTTON HOME"
+msgstr "Wii经典手柄 Home键"
+
+msgid "WPAD CLASSIC BUTTON LEFT"
+msgstr "Wii经典手柄 左键"
+
+msgid "WPAD CLASSIC BUTTON MINUS"
+msgstr "Wii经典手柄 减号键"
+
+msgid "WPAD CLASSIC BUTTON PLUS"
+msgstr "Wii经典手柄 加号键"
+
+msgid "WPAD CLASSIC BUTTON RIGHT"
+msgstr "Wii经典手柄 右键"
+
+msgid "WPAD CLASSIC BUTTON UP"
+msgstr "Wii经典手柄 上键"
+
+msgid "WPAD CLASSIC BUTTON X"
+msgstr "Wii经典手柄 X键"
+
+msgid "WPAD CLASSIC BUTTON Y"
+msgstr "Wii经典手柄 Y键"
+
+msgid "WPAD CLASSIC BUTTON ZL"
+msgstr "Wii经典手柄 ZL键"
+
+msgid "WPAD CLASSIC BUTTON ZR"
+msgstr "Wii经典手柄 ZR键"
+
+msgid "WPAD CLASSIC NONE BUTTON"
+msgstr "Wii经典手柄 无键"
+
+msgid "WPAD NONE BUTTON"
+msgstr "Wiimote 无键"
+
+msgid "WPAD NUNCHUCK BUTTON C"
+msgstr "鸡腿按键C"
+
+msgid "WPAD NUNCHUCK BUTTON Z"
+msgstr "鸡腿按键Z"
+
+msgid "Warning:"
+msgstr "警告："
+
+msgid "Wii Binary Files"
+msgstr "Wii程序文件"
+
+msgid "Wii Classic Buttons Setup"
+msgstr "Wii经典手柄按键设置"
+
+msgid "Wii Homebrew"
+msgstr "Wii自制程序"
+
+msgid "Wii Menu"
+msgstr "Wii菜单"
+
+msgid "WiiMC"
+msgstr "WiiMC"
+
+msgid "WiiMC DOL Path"
+msgstr ""
+
+msgid "WiiMote Buttons Setup"
+msgstr "Wiimote手柄按键设置"
+
+msgid "WiiXplorer Default Music"
+msgstr "WiiXplorer缺省音乐"
+
+msgid "WiiXplorer MD5 Calculator\n"
+msgstr "WiiXplorer MD5 计算器\n"
+
+msgid "WiiXplorer Movies"
+msgstr "Wiixplorer电影"
+
+msgid "Would you like to add/append the selected item(s) to a zip?"
+msgstr "你是否想要把所选择的文件压缩成zip文件。"
+
+#, c-format
+msgid "Write Error from %s to %s"
+msgstr "写错误从 %s 到 %s"
+
+#, c-format
+msgid "Write Error in file: %s. %s"
+msgstr "写错误在文件中：%s. %s"
+
+msgid "Write access to NAND is dangerous if you do not know what you do! Are you sure you want to activate NAND write access?"
+msgstr "写NAND是十分危险的操作，你必须了解你所做的！你是否要开启Nand写允许？"
+
+#, c-format
+msgid "Write error to %s in %s"
+msgstr "写错误到%s在 %s中"
+
+msgid "Yes"
+msgstr "确定"
+
+msgid "Yes to all"
+msgstr "全部是"
+
+msgid "You can't set a logical partition as active."
+msgstr "你不能设置逻辑分区为活动分区"
+
+msgid "You can't set this partition as active."
+msgstr "此分区不能设置为活动分区。"
+
+msgid "You cant use this operation on:"
+msgstr "无法使用此功能在："
+
+msgid "You have a GUID Partition Table (GPT). Formatting partitions in a GPT is not supported yet."
+msgstr "你使用的GUID分区表目前正在格式化的分区格式还不支持。"
+
+msgid "ZXCVBNM<>?"
+msgstr "ZXCVBNM<>?"
+
+msgid "Zip Compression Mode"
+msgstr "Zip压缩模式"
+
+msgid "ZoomIn Button"
+msgstr "缩小按钮"
+
+msgid "ZoomOut Button"
+msgstr "放大按钮"
+
+msgid "`1234567890-="
+msgstr "`1234567890-="
+
+msgid "and all the translators."
+msgstr "和所有的翻译者。"
+
+msgid "asdfghjkl;'"
+msgstr "asdfghjkl;'"
+
+msgid "devices"
+msgstr "设备"
+
+msgid "files"
+msgstr "文件"
+
+msgid "for his FTP Server source."
+msgstr "用于FTP服务资源"
+
+msgid "for his great tool libwiigui."
+msgstr "他的伟大的工具libwiigui。"
+
+msgid "qwertyuiop[]\\"
+msgstr "qwertyuiop[]\\"
+
+msgid "requires d2x cIOS v9+"
+msgstr "需要d2x cIOS v9以上版本"
+
+msgid "revs"
+msgstr "版本号"
+
+msgid "zxcvbnm,./"
+msgstr "zxcvbnm,./"
+
+msgid "~!@#$%^&*()_+"
+msgstr "~!@#$%^&*()_+"
+
+#~ msgid "Apps Path"
+#~ msgstr "程序路径"
+
+#~ msgid "Can not open the file."
+#~ msgstr "文件无法打开。"
+
+#~ msgid "MPlayerCE Path"
+#~ msgstr "MPlayerCE路径"
+
+#~ msgid "WiiMC Path"
+#~ msgstr "WiiMC路径"
+
+#~ msgid "Can't load file"
+#~ msgstr "无法读取文件"
+
+#~ msgid "Reboot failed"
+#~ msgstr "重启失败"
+
+#~ msgid "Standard"
+#~ msgstr "标准"
+
+#~ msgid "Mount NAND (ISFS)"
+#~ msgstr "挂载 NAND （ISFS）"
+
+#~ msgid "ASDFGHJKL:\"+"
+#~ msgstr "ASDFGHJKL:\"+"
+
+#~ msgid "Cannot open image"
+#~ msgstr "无法打开图片程序"
+
+#~ msgid "Could not extract file:"
+#~ msgstr "文件无法提取。"
+
+#~ msgid "Downloaded %d files."
+#~ msgstr "下载%d 文件。"
+
+#~ msgid "Extracting files..."
+#~ msgstr "提取文件中......"
+
+#~ msgid "FTP Client reconnected successfull."
+#~ msgstr "FTP客户端重新连接成功。"
+
+#~ msgid "Failed extracting the archive."
+#~ msgstr "正在提取文件失败。"
+
+#~ msgid "Image Viewer"
+#~ msgstr "图片查看器"
+
+#~ msgid "Linebreak"
+#~ msgstr "换行符"
+
+#~ msgid "Loading image..."
+#~ msgstr "读取图片中..."
+
+#~ msgid "No image found at index %d."
+#~ msgstr "索引%d 中没有发现图片。"
+
+#~ msgid "Reconnect failed. No client connected."
+#~ msgstr "重新连接失败。没有客户端连接。"
+
+#~ msgid "Reconnect failed. No share connected."
+#~ msgstr "连接失败。没有共享连接"
+
+#~ msgid "Retry"
+#~ msgstr "重试"
+
+#~ msgid "SMB is connecting..."
+#~ msgstr "正在连接网络共享"
+
+#~ msgid "SMB reconnected successfull."
+#~ msgstr "网络共享连接成功。"
+
+#~ msgid "To Loader"
+#~ msgstr "到HBC"
+
+#~ msgid "To Menu"
+#~ msgstr "到菜单"
+
+#~ msgid "Unable to load path:"
+#~ msgstr "不能读取路径："
+
+#~ msgid "`1234567890-"
+#~ msgstr "`1234567890-"
+
+#~ msgid "asdfghjkl;'="
+#~ msgstr "asdfghjkl;'="
+
+#~ msgid "~!@#$%^&*()_"
+#~ msgstr "~!@#$%^&*()_"
+
+#~ msgid "Copy of"
+#~ msgstr "复制其中"
+
+#~ msgid "Do you want to remount the devices?"
+#~ msgstr "是否再次加载设备？"
+
+#~ msgid "ERROR: %i"
+#~ msgstr "错误：%i"
+
+#~ msgid "Failed adding the item(s)"
+#~ msgstr "添加项目失败"
+
+#~ msgid "Failed adding the item(s)."
+#~ msgstr "添加项目失败"
+
+#~ msgid "Reloading file list..."
+#~ msgstr "重新读取文件列表。。。"
+
+#~ msgid "Unable to load path."
+#~ msgstr "不能找到路径。"
+
+#~ msgid "Unknown error occured."
+#~ msgstr "出现未知错误。"
+
+#~ msgid "Listing files in"
+#~ msgstr "监听文件在"
+
+#~ msgid "Remounting devices..."
+#~ msgstr "重新挂载设备中..."
+
+#~ msgid "Error - Could not open directory: %s\n"
+#~ msgstr "错误 - 无法打开目录：%s\n"
+
+#~ msgid "Deleting files:"
+#~ msgstr "文件删除中..."
+
+#~ msgid "Directory couldn't be deleted."
+#~ msgstr "不能删除目录。"
+
+#~ msgid "Failed copying item(s)."
+#~ msgstr "复制项目失败。"
+
+#~ msgid "Failed moving item(s)."
+#~ msgstr "移动项目失败。"
+
+#~ msgid "File couldn't be deleted."
+#~ msgstr "文件不能删除"
+
+#~ msgid "Transfering files:"
+#~ msgstr "文件传输中："
+
+#~ msgid "You can not cut into the directory itself."
+#~ msgstr "无法在此目录中删除自己"
+
+#~ msgid "AppPath changed"
+#~ msgstr "程序路径已更改"
+
+#~ msgid "Browsing for font files must be done in the main browser."
+#~ msgstr "在主浏览器中必须查找字体文件。"
+
+#~ msgid "Calculating MD5..."
+#~ msgstr "正在计算MD5.。。"
+
+#~ msgid "Change"
+#~ msgstr "更改"
+
+#~ msgid "Change Language Path?"
+#~ msgstr "更改语言文件路径？"
+
+#~ msgid "Continue"
+#~ msgstr "继续"
+
+#~ msgid "Could not connect to the network"
+#~ msgstr "网络无法连接"
+
+#~ msgid "Do you want to load the default language."
+#~ msgstr "是否读取缺省语言。"
+
+#~ msgid "Do you want to reset the color settings?"
+#~ msgstr "是否要还原默认颜色设置？"
+
+#~ msgid "File Extensions Assignment"
+#~ msgstr "文件扩展排列"
+
+#~ msgid "Formating partition..."
+#~ msgstr "正在格式化分区。。。"
+
+#~ msgid "Language Path changed."
+#~ msgstr "语言文件路径已更改"
+
+#~ msgid "MPlayerCE path changed"
+#~ msgstr "MPlayerCE路径已更改"
+
+#~ msgid "Minimize"
+#~ msgstr "最小化"
+
+#~ msgid "Mounting disc"
+#~ msgstr "正在挂载光盘"
+
+#~ msgid "No language files found."
+#~ msgstr "没有发现语言文件。"
+
+#~ msgid "Notice:"
+#~ msgstr "注意："
+
+#~ msgid "Please wait:"
+#~ msgstr "请等待："
+
+#~ msgid "Setting partition as active."
+#~ msgstr "正在设置活动分区."
+
+#~ msgid "Update Path changed."
+#~ msgstr "更新路径已更改"
+
+#~ msgid "Updating/Downloading Languagefiles."
+#~ msgstr "更新或下载语言文件中。"
+
+#~ msgid "WiiMC path changed"
+#~ msgstr "WiiMC路径已更改"
+
+#~ msgid "Reload"
+#~ msgstr "重新运行"
+
+#~ msgid "You do not have BootMii installed!"
+#~ msgstr "你没有安装BootMii！"
+
+#~ msgid "USB Device"
+#~ msgstr "USB设备"
+
+#~ msgid "Do you want to load this language file?"
+#~ msgstr "是否读取此语言文件？"
+
+#~ msgid "Do you want to launch file with MPlayerCE?"
+#~ msgstr "是否要运行MplayerCE？"
+
+#~ msgid "MPlayerPath changed"
+#~ msgstr "MPlayerCE路径已更改"
+
+#~ msgid "Mount NTFS"
+#~ msgstr "挂载NTFS分区"
+
+#~ msgid "Do you want to open this URL?"
+#~ msgstr "是否要打开此URL？"
+
+#~ msgid "Please enter the a path."
+#~ msgstr "请输入路径。"
+
+#~ msgid "This link will be used in Opera."
+#~ msgstr "在Opera中使用此链接。"
+
+#~ msgid "Bootup Mount"
+#~ msgstr "开始挂载"
+
+#~ msgid "Unable to load the device."
+#~ msgstr "设备无法读取"
+
+#~ msgid ""
+#~ "Checking directory: %s\n"
+#~ "\n"
+#~ msgstr ""
+#~ "正在检查目录：%s\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "Checking file: %s\n"
+#~ "\n"
+#~ msgstr ""
+#~ "正在检查文件：%s\n"
+#~ "\n"
+
+#~ msgid "The whole DevkitPro & libogc staff."
+#~ msgstr "基于Devkitpro和libogc开发"
+
+#~ msgid "for his great tool LibWiiGui."
+#~ msgstr "使用了LibWiiGui这个图形工具"
+
+#~ msgid "Download Files"
+#~ msgstr "下载文件"
+
+#~ msgid "Not enough memory 2."
+#~ msgstr "内存不足2."
+
+#~ msgid "Priority High"
+#~ msgstr "高优先级"
+
+#~ msgid "Priority Highest"
+#~ msgstr "最高优先级"
+
+#~ msgid "Priority Idle"
+#~ msgstr "空闲优先级"
+
+#~ msgid "Priority Low"
+#~ msgstr "低优先级"
+
+#~ msgid "Priority Normal"
+#~ msgstr "正常优先级"
+
+#~ msgid "Extract first and open than."
+#~ msgstr "提取并打开"
+
+#~ msgid "Open"
+#~ msgstr "打开"
+
+#~ msgid "Opening is not yet implemented"
+#~ msgstr "开启还没有提供"
+
+#~ msgid "Can't read file:"
+#~ msgstr "文件无法读取"
+
+#~ msgid "User %i"
+#~ msgstr "用户 %i"
+
+#~ msgid "Play Directory"
+#~ msgstr "播放目录"
+
+#~ msgid "User:"
+#~ msgstr "用户："
+
+#~ msgid "Do you want to reconnect the SMB?"
+#~ msgstr "再次连接到网络共享？"
+
+#~ msgid "Do you want to reconnect to FTP server?"
+#~ msgstr "再次开启FTP服务器？"
+
+#~ msgid "App Path"
+#~ msgstr "程序路径"
+
+#~ msgid "Do you want to open this file in TextViewer?"
+#~ msgstr "是否用文本查看器打开此文件吗？"
+
+#~ msgid "Do you want to exit to the system menu?"
+#~ msgstr "是否退出并返回系统菜单"
+
+#~ msgid "Do you want to load app default language ?"
+#~ msgstr "是否读取程序缺省语言模式吗？"
+
+#~ msgid "Do you want to load console default language."
+#~ msgstr "是否读取主机缺省语言模式。"
+
+#~ msgid "Loader"
+#~ msgstr "读取"
+
+#~ msgid "Fontpath changed"
+#~ msgstr "字体路径已改变"
+
+#~ msgid "Restart the app to load the new font."
+#~ msgstr "复位程序读取新字体"
+
+#~ msgid "Enable Create dir:"
+#~ msgstr "开启创建目录："
+
+#~ msgid "Enable Delete dir:"
+#~ msgstr "开启删除目录："
+
+#~ msgid "Enable Delete file:"
+#~ msgstr "开启删除文件："
+
+#~ msgid "Enable Write file:"
+#~ msgstr "开启写文件："
+
+#~ msgid "Enable Zip Mode:"
+#~ msgstr "开启Zip模式："
+
+#~ msgid "Enable list file:"
+#~ msgstr "开启文件列表："
+
+#~ msgid "Enable read file:"
+#~ msgstr "开启读取文件:"
+
+#~ msgid "FTP Data Port:"
+#~ msgstr "FTP数据端口："
+
+#~ msgid ""
+#~ "A client has changed its working directory:\n"
+#~ "\tFull path: \"%s\"\n"
+#~ "\tWorking directory: \"%s\"\n"
+#~ msgstr ""
+#~ "客户端更改工作目录:\n"
+#~ "\t完整路径: \"%s\"\n"
+#~ "\t工作目录: \"%s\"\n"
+
+#~ msgid "A client has disconnected.\n"
+#~ msgstr "客户端断开链接。\n"
+
+#~ msgid "A client has logged-in.\n"
+#~ msgstr "客户端已登录。\n"
+
+#~ msgid "A client is being deleted.\n"
+#~ msgstr "客户端进行删除操作。\n"
+
+#~ msgid "A client is downloading a file: \"%s\"\n"
+#~ msgstr "客户端正下载文件:\"%s\"\n"
+
+#~ msgid "A client is listing a directory: \"%s\"\n"
+#~ msgstr "客户端正列表目录:\"%s\"\n"
+
+#~ msgid "A client is uploading a file: \"%s\"\n"
+#~ msgstr "客户端正上传文件： \"%s\"\n"
+
+#~ msgid "A new client has been created:\n"
+#~ msgstr "新客户端已建立:\n"
+
+#~ msgid "CLIENT_SOCK_ERROR \n"
+#~ msgstr "客户端套接字错误 \n"
+
+#~ msgid "CLIENT_SOFTWARE\n"
+#~ msgstr "客户端软件\n"
+
+#~ msgid "Cmd received: %s\n"
+#~ msgstr "Cmd接收:%s\n"
+
+#~ msgid "Connected"
+#~ msgstr "已链接"
+
+#~ msgid "Connected with: %s)"
+#~ msgstr "已链接与：%s"
+
+#~ msgid "Ftp stopped"
+#~ msgstr "FTP停止"
+
+#~ msgid "Internal error"
+#~ msgstr "内部错误"
+
+#~ msgid "Launch Ftp"
+#~ msgstr "运行FTP"
+
+#~ msgid "NO_LOGIN_TIMEOUT\n"
+#~ msgstr "无登录超时\n"
+
+#~ msgid "Reply sent: %s\n"
+#~ msgstr "回复发送：%s\n"
+
+#~ msgid "Server at: %s"
+#~ msgstr "服务在：%s"
+
+#~ msgid "Server started"
+#~ msgstr "服务已开启"
+
+#~ msgid "Server stopped"
+#~ msgstr "服务已停止"
+
+#~ msgid "Server waits for client"
+#~ msgstr "服务等待客户端链接"
+
+#~ msgid "Stop Ftp "
+#~ msgstr "停止FTP"
+
+#~ msgid "Too many pass tries for (%s)\n"
+#~ msgstr "密码登录错误次数过多：(%s)\n"
+
+#~ msgid "Do you want to open this file with ImageViewer?"
+#~ msgstr "是否用图片查看器打开此文件吗？"
+
+#~ msgid "FTP Settings"
+#~ msgstr "FTP设置"
+
+#~ msgid "Update Settings"
+#~ msgstr "更新设置"
+
+#~ msgid "~!@#$%%^&*()_"
+#~ msgstr "~!@#$%%^&*()_"
+
+#~ msgid "You cannot read/write from/to the same file."
+#~ msgstr "无法读取相当文件。"
+
+#~ msgid "Failed copying file."
+#~ msgstr "复制失败"
+
+#~ msgid "Failed copying files."
+#~ msgstr "复制失败"
+
+#~ msgid "NewFolder"
+#~ msgstr "新文件夹"
+
+#~ msgid "Preparing Network..."
+#~ msgstr "网络准备中..."
+
+#~ msgid "Archive successfully extracted."
+#~ msgstr "文件提取成功。"
+
+#~ msgid "Extract this file?"
+#~ msgstr "提取此文件？"
+
+#~ msgid "Extract this folder?"
+#~ msgstr "提取此文件夹？"
+
+#~ msgid "Extracting file:"
+#~ msgstr "文件提取中："
+
+#~ msgid "Extracting folder:"
+#~ msgstr "文件夹提取中："
+
+#~ msgid "Failed extracting file."
+#~ msgstr "提取失败。"
+
+#~ msgid "Failed extracting the folder."
+#~ msgstr "正在提取文件夹失败。"
+
+#~ msgid "File successfully extracted."
+#~ msgstr "文件已提取成功。"
+
+#~ msgid "Folder successfully extracted."
+#~ msgstr "文件夹成功提取。"
+
+#~ msgid "Directory successfully deleted."
+#~ msgstr "目录成功删除。"
+
+#~ msgid "Copy directory?"
+#~ msgstr "复制目录？"
+
+#~ msgid "Copy file?"
+#~ msgstr "复制文件？"
+
+#~ msgid "Copying file:"
+#~ msgstr "复制文件："
+
+#~ msgid "Copying files:"
+#~ msgstr "复制文件中："
+
+#~ msgid "Cut directory?"
+#~ msgstr "剪切目录"
+
+#~ msgid "Cut file?"
+#~ msgstr "剪切文件"
+
+#~ msgid "Delete directory and its content?"
+#~ msgstr "删除目录及其内容"
+
+#~ msgid "Delete this file?"
+#~ msgstr "确定删除此文件吗？"
+
+#~ msgid "Directory successfully copied."
+#~ msgstr "目录成功复制。"
+
+#~ msgid "Directory successfully moved."
+#~ msgstr "目录成功移动。"
+
+#~ msgid "Failed renaming file"
+#~ msgstr "更名失败"
+
+#~ msgid "File does not exist anymore!"
+#~ msgstr "此文件不存在"
+
+#~ msgid "File successfully copied."
+#~ msgstr "文件复制成功"
+
+#~ msgid "File successfully moved."
+#~ msgstr "文件移动成功"
+
+#~ msgid "Moving files:"
+#~ msgstr "正在移动文件："
+
+#~ msgid "Name already exists."
+#~ msgstr "文件名已经存在。"
+
+#~ msgid "Paste into current directory?"
+#~ msgstr "是否粘贴到当前目录？"
+
+#~ msgid "Device Free Space:"
+#~ msgstr "设备剩余空间："
+
+#~ msgid "Device Total Space:"
+#~ msgstr "设备总计空间："
+
+#~ msgid "Last status change:"
+#~ msgstr "最近状态改变："

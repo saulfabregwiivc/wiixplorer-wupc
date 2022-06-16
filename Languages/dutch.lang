@@ -1,0 +1,2037 @@
+# WiiXplorer language source file.
+#
+# don't remove this line (é)
+msgid ""
+msgstr ""
+"Project-Id-Version: WiiXplorer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-28 19:02+0200\n"
+"PO-Revision-Date: 2013-01-09 03:05+0100\n"
+"Last-Translator: Etheboss\n"
+"Language-Team: Etheboss\n"
+"Language: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, c-format
+msgid "%i error(s) encountered. Check MD5.log for more details."
+msgstr "%i fout(en) tegengekomen. Controleer MD5.log voor meer details."
+
+msgid "(Best compression)"
+msgstr "(Beste compressie)"
+
+msgid "(Best speed)"
+msgstr "(Beste snelheid)"
+
+msgid "(Default)"
+msgstr "(Standaard)"
+
+msgid "(Store)"
+msgstr "(Opslaan)"
+
+msgid "(only this session)"
+msgstr ""
+
+msgid "(read only)"
+msgstr ""
+
+msgid "--------------------------------------------------\n"
+msgstr ""
+
+msgid ""
+"--------------------------------------------------\n"
+"\n"
+msgstr ""
+
+msgid "12H"
+msgstr ""
+
+msgid "24H"
+msgstr ""
+
+msgid "7z decompression failed:"
+msgstr "7z decompressie mislukt:"
+
+msgid "A task is in progress. Can't run update check right now."
+msgstr ""
+
+msgid "ASDFGHJKL:\""
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Action cancelled."
+msgstr "Actie geannuleerd."
+
+msgid "Active (Bootable):"
+msgstr "Actief (Opstartbaar):"
+
+msgid "Add Link"
+msgstr "Link Toevoegen"
+
+msgid "Add to Playlist"
+msgstr "Aan Playlist Toevoegen"
+
+msgid "Add to zip"
+msgstr "Aan zip Toevoegen"
+
+msgid "Alpha Blending"
+msgstr ""
+
+msgid "App Default"
+msgstr "App Standaard"
+
+msgid "Apps"
+msgstr ""
+
+msgid "Archive Files"
+msgstr "Archief Bestanden"
+
+msgid "Are you sure you have that IOS installed?"
+msgstr ""
+
+msgid "Audio Files"
+msgstr "Audio Bestanden"
+
+msgid "Auto Connect"
+msgstr "Auto Verbinden"
+
+msgid "Auto Start:"
+msgstr ""
+
+msgid "BMP Compression"
+msgstr "BMP Compressie"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Back Button"
+msgstr "Terug Knop"
+
+msgid "Back in Directory Button"
+msgstr "Terug in Map Knop"
+
+msgid "Background Bottom/Left"
+msgstr "Achtergrond Onder/Links"
+
+msgid "Background Bottom/Right"
+msgstr "Achtergrond Onder/Rechts"
+
+msgid "Background Upper/Left"
+msgstr "Achtergrond Boven/Links"
+
+msgid "Background Upper/Right"
+msgstr "Achtergrond Boven/Rechts"
+
+msgid "Blue"
+msgstr "Blauw"
+
+msgid "Boot IOS"
+msgstr "Start IOS"
+
+msgid "Boot Settings"
+msgstr "Opstart Instellingen"
+
+msgid "BootMii"
+msgstr ""
+
+msgid "Both"
+msgstr "Beide"
+
+msgid "Browse"
+msgstr "Blader"
+
+msgid "Browser Mode"
+msgstr "Blader Modus"
+
+msgid "Button Hold Scroll"
+msgstr "Scrollen met Knop ingedrukt"
+
+msgid "CRC of extracted file does not match. Wrong password?"
+msgstr "CRC van uitgepakte bestand komt niet overeen. Verkeerd wachtwoord?"
+
+msgid "Calculating MD5"
+msgstr "Berekenen MD5"
+
+msgid "Calculating delete size..."
+msgstr "Berekenen verwijder grootte"
+
+msgid "Calculating extract size..."
+msgstr ""
+
+msgid "Calculating total size..."
+msgstr "Berekenen totale grootte"
+
+msgid "Calculating transfer size..."
+msgstr "Berekenen overdracht grootte"
+
+msgid "Can not open the file"
+msgstr "Kan bestand niet openen"
+
+msgid "Can't browse that path."
+msgstr "Kan niet bladeren naar pad"
+
+msgid "Can't connect to update server"
+msgstr ""
+
+msgid "Can't find the right partition."
+msgstr "Kan de juiste partitie niet vinden"
+
+msgid "Can't load page."
+msgstr "Kan pagina niet laden"
+
+msgid "Can't open file."
+msgstr "Kan bestand niet openen"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+#, c-format
+msgid "Cannot close file %s"
+msgstr ""
+
+msgid "Cannot create directory: "
+msgstr "Kan map niet maken:"
+
+#, c-format
+msgid "Cannot open file %s"
+msgstr ""
+
+msgid "Cannot read from the drive."
+msgstr "Kan niet lezen van schijf"
+
+msgid "Cannot write to destination."
+msgstr "Kan niet schrijven naar bestemming"
+
+msgid "Cannot write to the drive."
+msgstr "Kan niet schrijven naar schijf"
+
+msgid "Cannot write to the file."
+msgstr "Kan niet schrijven naar bestand"
+
+msgid "Cannot write to this path:"
+msgstr "Kan niet schrijven naar dit pad:"
+
+msgid "Caps"
+msgstr ""
+
+msgid "Channels"
+msgstr "Kanalen"
+
+#, c-format
+msgid "Checked %i file(s) in %i folder(s).\n"
+msgstr "%i bestand(en) gecontroleerd in %i map(pen).\n"
+
+msgid "Checking directory:"
+msgstr "Controle map:"
+
+msgid "Checking file:"
+msgstr "Controle bestand:"
+
+msgid "Checking for updates"
+msgstr ""
+
+msgid "Clear"
+msgstr "Wissen"
+
+msgid "Clear List"
+msgstr "Wissen Lijst"
+
+msgid "Click Button"
+msgstr "Klik op Knop"
+
+#, c-format
+msgid "Client %i"
+msgstr "Cliënt %i"
+
+msgid "Client:"
+msgstr "Cliënt:"
+
+msgid "Clock Mode"
+msgstr "Klok Modus"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Coders:"
+msgstr "Programmeur(s):"
+
+msgid "Color Settings"
+msgstr "Kleur Instellingen"
+
+msgid "Compressed Size:"
+msgstr "Gecomprimeerde Grootte:"
+
+msgid "Compressing item(s):"
+msgstr "Comprimeren item(s)"
+
+msgid "Console Default"
+msgstr "Console Standaard"
+
+msgid "Context Menu Button"
+msgstr "Context Menu Knop"
+
+msgid "Controls Settings"
+msgstr "Besturings Instellingen"
+
+msgid "Convert"
+msgstr "Converteren"
+
+msgid "Converting image"
+msgstr ""
+
+msgid "Converting image..."
+msgstr ""
+
+msgid "Copy"
+msgstr "Kopieren"
+
+msgid "Copy Thread Background Priority"
+msgstr "Kopieer op achtergrond Prioriteit"
+
+msgid "Copy Thread Priority"
+msgstr "Kopieer Prioriteit"
+
+msgid "Copy current marked item(s)?"
+msgstr "Kopieer huidige gemarkeerde item(s)?"
+
+msgid "Copy of "
+msgstr "Kopie van"
+
+msgid "Copying item(s):"
+msgstr "Bezig Kopiëren item(s):"
+
+msgid "Could not connect to the server."
+msgstr "Kan geen verbinding maken met server"
+
+msgid "Could not convert image."
+msgstr "Kan afbeelding niet converteren"
+
+msgid "Could not decompress the file."
+msgstr "Kan bestand niet decomprimeren"
+
+msgid "Could not download file."
+msgstr "Kan bestand niet downloaden."
+
+#, c-format
+msgid "Could not find IOS %i"
+msgstr ""
+
+msgid "Could not load file."
+msgstr "Kan bestand niet laden"
+
+msgid "Could not load image."
+msgstr "Kan afbeelding niet laden"
+
+msgid "Could not load text file."
+msgstr "Kan tekst bestand niet laden"
+
+msgid "Could not parse directory."
+msgstr "Kon map niet parsen"
+
+msgid "Credits"
+msgstr "Met Dank Aan"
+
+msgid "Currently a process is running."
+msgstr "Er draait een proces op dit moment."
+
+msgid "Customfont Path"
+msgstr "Maatwerk lettertype Pad"
+
+msgid "Cut"
+msgstr "Knippen"
+
+msgid "Cut current marked item(s)?"
+msgstr "Knip huidig gemarkeerde item(s)?"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "Delete Temp Path on Exit"
+msgstr "Verwijder Temp Pad bij sluiten"
+
+msgid "Delete the selected item(s) and its content?"
+msgstr "Verwijder geselecteerde item(s) en inhoud?"
+
+msgid "Deleting item(s):"
+msgstr "Verwijder item(s):"
+
+msgid "Demark All Items Button"
+msgstr "Demarkeer Alle Items Knop"
+
+msgid "Demark Item Button"
+msgstr "Demarkeer Item Knop"
+
+msgid "Designer:"
+msgstr "Ontwerper:"
+
+msgid "Device"
+msgstr "Apparaat"
+
+msgid "Directory .."
+msgstr "Map .."
+
+msgid "Disconnect Client"
+msgstr "Ontkoppel Cliënt"
+
+msgid "Disconnect NFS"
+msgstr "Ontkoppel NFS"
+
+msgid "Disconnect SMB"
+msgstr "Ontkoppel SMB"
+
+msgid "Disk is Full"
+msgstr ""
+
+msgid "Do you want to add an URL?"
+msgstr ""
+
+msgid "Do you want to append this delete to the queue?"
+msgstr "Wil je deze verwijdering aan de wachtrij toevoegen?"
+
+msgid "Do you want to append this paste to the queue?"
+msgstr "Wil je deze plakactie aan de wachtrij toevoegen?"
+
+msgid "Do you want to append this process to the queue?"
+msgstr "Wil je dit proces aan de wachtrij toevoegen?"
+
+msgid "Do you want to boot file now?"
+msgstr "Wil je het bestand nu starten?"
+
+msgid "Do you want to boot:"
+msgstr "Wil je starten:"
+
+msgid "Do you want to change the font?"
+msgstr "Wil je het lettertype wijzigen?"
+
+msgid "Do you want to delete this file:"
+msgstr "Wil je dit bestand verwijderen:"
+
+msgid "Do you want to disconnect the FTP client?"
+msgstr "Wil je de FTP cliënt verbinding verbreken?"
+
+msgid "Do you want to disconnect this NFS?"
+msgstr "Wil je deze NFS verbinding verbreken?"
+
+msgid "Do you want to disconnect this SMB?"
+msgstr "Wil je deze SMB verbinding verbreken?"
+
+msgid "Do you want to download new language files?"
+msgstr "Wil je nieuwe taal bestanden downloaden?"
+
+msgid "Do you want to exit WiiXplorer?"
+msgstr "Wil je WiiXplorer sluiten?"
+
+#, c-format
+msgid "Do you want to load file from: %s ?"
+msgstr "Wil je een bestand laden van: %s ?"
+
+msgid "Do you want to load the default language?"
+msgstr "Wil je de standaard taal laden?"
+
+msgid "Do you want to load this language ?"
+msgstr "Wil je deze taal laden?"
+
+msgid "Do you want to open this file in TextEditor?"
+msgstr "Wil je dit bestand openen in de Tekst Bewerker?"
+
+msgid "Do you want to playback this file?"
+msgstr "Wil je dit bestand afspelen?"
+
+msgid "Do you want to reboot WiiXplorer?"
+msgstr "Wil je WiiXplorer herstarten?"
+
+msgid "Do you want to reboot now ?"
+msgstr "Wil je nu herstarten?"
+
+msgid "Do you want to reconnect this NFS?"
+msgstr ""
+
+msgid "Do you want to reconnect this SMB?"
+msgstr "Wil je deze SMB verbinding herstellen?"
+
+msgid "Do you want to reconnect to the FTP client?"
+msgstr "Wil je de FTP cliënt verbinding herstellen?"
+
+msgid "Do you want to remount all devices?"
+msgstr "Wil je alle apparaten opnieuw koppelen?"
+
+msgid "Do you want to replace this file?"
+msgstr "Wil je dit bestand vervangen?"
+
+msgid "Do you want to reset the control settings?"
+msgstr "Wil je de besturings instellingen terugzetten?"
+
+msgid "Do you want to reset the settings?"
+msgstr "Wil je de instellingen terugzetten?"
+
+msgid "Do you want to save changes?"
+msgstr "Wil je de wijzigingen opslaan?"
+
+msgid "Do you want to start BootMii?"
+msgstr "Wil je BootMii starten?"
+
+msgid "Do you want to start the app?"
+msgstr "Wil je de app starten?"
+
+msgid "Do you want to start the channel?"
+msgstr "Wil je het kanaal starten?"
+
+msgid "Do you want to update now ?"
+msgstr "Wil je nu bijwerken?"
+
+msgid "Done"
+msgstr "Klaar"
+
+msgid "Down Button"
+msgstr "Omlaag Knop"
+
+msgid "Download Link"
+msgstr ""
+
+msgid "Downloading file..."
+msgstr "Bestand downloaden..."
+
+msgid "Downloading files..."
+msgstr "Bestanden downloaden..."
+
+msgid "Edit Textline Button"
+msgstr "Bewerk Tekstregel Knop"
+
+#, c-format
+msgid "Encountered %i error(s).\n"
+msgstr "%i fout(en) tegengekomen.\n"
+
+msgid "Enter"
+msgstr "Voer in"
+
+msgid "Error"
+msgstr "Fout"
+
+#, c-format
+msgid "Error - %s is not a file\n"
+msgstr "Fout - %s is geen bestand\n"
+
+#, c-format
+msgid "Error - Could not open file: %s\n"
+msgstr "Fout - Kan bestand niet openen: %s\n"
+
+#, c-format
+msgid "Error - Could not parse directory: %s\n"
+msgstr "Fout - Kan de map niet parsen: %s\n"
+
+#, c-format
+msgid "Error - Not enough memory on: %s\n"
+msgstr "Fout - Niet genoeg geheugen op: %s\n"
+
+#, c-format
+msgid "Error opening %s"
+msgstr ""
+
+#, c-format
+msgid "Error opening %s in %s"
+msgstr ""
+
+#, c-format
+msgid "Error received from %s in %s"
+msgstr ""
+
+msgid "Error while reading file."
+msgstr "Fout tijdens lezen bestand."
+
+msgid "Error:"
+msgstr "Fout:"
+
+msgid "Exit"
+msgstr "Sluiten"
+
+msgid "Exit WiiXplorer?"
+msgstr "WiiXplorer Sluiten?"
+
+msgid "Explorer Settings"
+msgstr "Verkenner Instellingen"
+
+msgid "Extract"
+msgstr "Uitpakken"
+
+msgid "Extract All"
+msgstr "Alles Uitpakken"
+
+msgid "Extract error code:"
+msgstr "Fout code uitpakken:"
+
+msgid "Extract file to temp path and execute?"
+msgstr "Bestand uitpakken naar tijdelijk pad en uitvoeren?"
+
+msgid "Extract full archive?"
+msgstr "Volledig archief uitpakken?"
+
+msgid "Extract the selected item(s)?"
+msgstr "De geselecteerde item(s) uitpakken?"
+
+msgid "Extracting file..."
+msgstr ""
+
+msgid "Extracting item(s):"
+msgstr "Bezig uitpakken item(s):"
+
+msgid "FAT32 must have at least 65536 clusters"
+msgstr "FAT32 moet minstens 65536 clusters zijn"
+
+msgid "FTP Client Settings"
+msgstr "FTP Cliënt Instellingen"
+
+msgid "FTP Path:"
+msgstr "FTP Pad:"
+
+msgid "FTP Port:"
+msgstr "FTP Poort:"
+
+msgid "FTP Server"
+msgstr ""
+
+msgid "FTP Server Settings"
+msgstr "FTP Server Instellingen"
+
+msgid "FTP Server is running and listening on port"
+msgstr "FTP Server draait en luistert naar poort"
+
+msgid "FTP Started.\n"
+msgstr "FTP Gestart.\n"
+
+msgid "Fade Speed"
+msgstr "Vervaag snelheid"
+
+msgid "Failed adding some item(s)."
+msgstr "Toevoegen item(s) is mislukt."
+
+msgid "Failed copying some item(s)."
+msgstr "Kopieren van item(s) is mislukt."
+
+msgid "Failed deleting some item(s)."
+msgstr "Verwijderen van item(s) is mislukt."
+
+msgid "Failed extracting some item(s)."
+msgstr ""
+
+msgid "Failed extracting the item(s)."
+msgstr "Uitpakken van item(s) is mislukt."
+
+msgid "Failed formatting the partition."
+msgstr "Formatteren van partitie is mislukt"
+
+msgid "Failed loading the file."
+msgstr "Laden bestand is mislukt."
+
+msgid "Failed moving some item(s)."
+msgstr "Verplaatsen enkele item(s) is mislukt"
+
+msgid "Failed reading from network"
+msgstr ""
+
+msgid "Failed renaming item"
+msgstr "Hernoemen item is mislukt"
+
+msgid "Failed to get the Changelog."
+msgstr "Verkrijgen Changelog is mislukt."
+
+msgid "Failed to initialize network."
+msgstr "Initialiseren netwerk mislukt."
+
+msgid "Failed to load the channel."
+msgstr "Laden Kanaal mislukt."
+
+msgid "Failed to read file data."
+msgstr "Lezen bestandsdata mislukt."
+
+msgid "Failed to write EBR."
+msgstr "Schrijven EBR mislukt."
+
+msgid "Failed to write MBR."
+msgstr "Schrijven MBR mislukt."
+
+#, c-format
+msgid "Fatal error: %i."
+msgstr ""
+
+msgid "File Extensions"
+msgstr "Bestands Extensies"
+
+msgid "File Extensions Settings"
+msgstr "Bestands Extensie Instellingen"
+
+msgid "File System:"
+msgstr "Bestandssysteem:"
+
+msgid "File already exists:"
+msgstr "Bestand bestaat al:"
+
+msgid "File could not be deleted."
+msgstr "Bestand kan niet worden verwijderd."
+
+msgid "File is corrupt (CRC mismatch)."
+msgstr "Bestand is corrupt (CRC klopt niet)."
+
+msgid "File is corrupt."
+msgstr "Bestand is corrupt."
+
+msgid "File is too big."
+msgstr "Bestand is te groot."
+
+msgid "File uses too high of compression settings (dictionary size is too large)."
+msgstr "Bestand gebruikt een te hoge compressie instelling (woordenboek is te groot)."
+
+msgid "File uses unsupported compression settings."
+msgstr "Bestand gebruikt een niet ondersteunde compressie instelling."
+
+msgid "File was edited."
+msgstr "Bestand is bewerkt."
+
+msgid "Filepath:"
+msgstr "Bestandspad:"
+
+#, c-format
+msgid "Filepath:  %s"
+msgstr "Bestandspad: %s"
+
+msgid "Files:"
+msgstr "Bestanden:"
+
+msgid "Filesize doesn't match."
+msgstr "Bestandsgrootte klopt niet."
+
+msgid "Filesize is 0 Byte."
+msgstr "Bestandsgrootte is 0 Byte."
+
+msgid "Filetype:"
+msgstr "Bestandstype:"
+
+msgid "Flip Mode"
+msgstr "Draai Modus"
+
+msgid "Folder"
+msgstr "Map"
+
+msgid "Folder(s)"
+msgstr "Map(pen)"
+
+msgid "Font Files"
+msgstr "Lettertype Bestanden"
+
+msgid "Fontpath changed."
+msgstr "Lettertype pad gewijzigd."
+
+msgid "Format"
+msgstr "Formatteer"
+
+msgid "Format Partition?"
+msgstr "Formatteer Partitie?"
+
+msgid "Formatter"
+msgstr "Formatteerder"
+
+msgid "Formatting partition!"
+msgstr "Formatteren partitie!"
+
+msgid "Free Space:"
+msgstr "Vrije Ruimte"
+
+msgid "GC Homebrew"
+msgstr ""
+
+msgid "GC PAD BUTTON A"
+msgstr "GC PAD KNOP A"
+
+msgid "GC PAD BUTTON B"
+msgstr "GC PAD KNOP B"
+
+msgid "GC PAD BUTTON DOWN"
+msgstr "GC PAD KNOP OMLAAG"
+
+msgid "GC PAD BUTTON LEFT"
+msgstr "GC PAD KNOP LINKS"
+
+msgid "GC PAD BUTTON NONE"
+msgstr "GC PAD KNOP GEEN"
+
+msgid "GC PAD BUTTON RIGHT"
+msgstr "GC PAD KNOP RECHTS"
+
+msgid "GC PAD BUTTON START"
+msgstr "GC PAD KNOP START"
+
+msgid "GC PAD BUTTON UP"
+msgstr "GC PAD KNOP OMHOOG"
+
+msgid "GC PAD BUTTON X"
+msgstr "GC PAD KNOP X"
+
+msgid "GC PAD BUTTON Y"
+msgstr "GC PAD KNOP Y"
+
+msgid "GC PAD TRIGGER L"
+msgstr "GC PAD SCHOUDERKNOP L"
+
+msgid "GC PAD TRIGGER R"
+msgstr "GC PAD SCHOUDERKNOP R"
+
+msgid "GC PAD TRIGGER Z"
+msgstr "GC PAD SCHOUDERKNOP Z"
+
+msgid "GC Pad Buttons Setup"
+msgstr ""
+
+msgid "GC-SD A"
+msgstr ""
+
+msgid "GC-SD B"
+msgstr ""
+
+msgid "GD2 Compression"
+msgstr "GD2 Compressie"
+
+msgid "GUID"
+msgstr ""
+
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+msgid "Getting Changelog..."
+msgstr ""
+
+msgid "Getting file list..."
+msgstr ""
+
+msgid "Go Back"
+msgstr "Terug"
+
+msgid "Green"
+msgstr "Groen"
+
+msgid "Hashing complete."
+msgstr "Hashen compleet."
+
+msgid "Hashing successfully finished."
+msgstr "Hashen successvol Afgerond"
+
+msgid "Hide System Files/Folders"
+msgstr "Verberg Systeem Bestanden/Mappen"
+
+msgid "High"
+msgstr "Hoog"
+
+msgid "Highest"
+msgstr "Hoogst"
+
+msgid "Home Button"
+msgstr "Home Knop"
+
+msgid "Home Menu"
+msgstr ""
+
+msgid "Homebrew Apps Path"
+msgstr ""
+
+msgid "Homebrew Channel"
+msgstr ""
+
+msgid "Homebrew Files"
+msgstr "Homebrew Bestanden"
+
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+msgid "Host:"
+msgstr "Gastheer:"
+
+msgid "How do you want to change the path?"
+msgstr "Hoe wil het pad wijzigen?"
+
+msgid "How do you want to launch this file?"
+msgstr "Hoe wil je dit bestand starten?"
+
+msgid "How do you want to load this language file?"
+msgstr "Hoe wil je dit taal bestand laden?"
+
+msgid "How do you want to open the file?"
+msgstr "Hoe wil je het bestand openen?"
+
+msgid "How do you want to proceed?"
+msgstr "Hoe wil je verder gaan?"
+
+msgid "How should this URL be opened?"
+msgstr "Hoe moet deze URL geopend worden?"
+
+msgid "Icon Mode"
+msgstr "Icoon Modus"
+
+msgid "Idle"
+msgstr "Inactief"
+
+msgid "Image Converter"
+msgstr "Converteren Afbeelding"
+
+msgid "Image Files"
+msgstr "Afbeeldingen"
+
+msgid "Image Heigth"
+msgstr "Hoogte Afbeelding"
+
+msgid "Image Settings"
+msgstr "Instellingen Afbeelding"
+
+msgid "Image Width"
+msgstr "Breedte Afbeelding"
+
+msgid "Image successfully converted."
+msgstr "Afbeelding successvol geconverteerd."
+
+msgid "ImageConverter"
+msgstr "Converteren Afbeelding"
+
+msgid "ImageViewer"
+msgstr "Bekijk Afbeelding"
+
+msgid "Incomming connection."
+msgstr "Inkomende verbinding."
+
+msgid "Input File"
+msgstr "Invoerbestand"
+
+msgid "Interlace"
+msgstr ""
+
+msgid "Internet Channel"
+msgstr "Internet Kanaal"
+
+msgid "JPEG Quality"
+msgstr "JPEG Kwaliteit"
+
+msgid "Keyboard Backspace Button"
+msgstr "Toetsenbord Backspace Knop"
+
+msgid "Keyboard Delete Delay"
+msgstr "Toetsenbord Verwijder Vertraging"
+
+msgid "Keyboard Shift Button"
+msgstr "Toetsenbord Shift Knop"
+
+msgid "Lang."
+msgstr "Taal"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Language Files"
+msgstr "Taal Bestanden"
+
+msgid "Language Path"
+msgstr ""
+
+msgid "Language Settings"
+msgstr "Taal Instellingen"
+
+msgid "Last access:"
+msgstr "Laatste toegang:"
+
+msgid "Last change:"
+msgstr "Laatste wijziging:"
+
+msgid "Last modified:"
+msgstr "Laatste bewerking:"
+
+msgid "Left Button"
+msgstr "Linker Knop"
+
+msgid "List Mode"
+msgstr "Lijst Modus"
+
+msgid "Listening on TCP port"
+msgstr "Luisteren naar TCP poort"
+
+msgid "Load"
+msgstr "Laden"
+
+msgid "Load Music to Memory"
+msgstr "Laad Muziek in Geheugen"
+
+msgid "Loading file:"
+msgstr "Bestand laden:"
+
+msgid "Log was saved in MD5.log"
+msgstr "Log is bewaard in MD5.log"
+
+msgid "Logical"
+msgstr "Logische"
+
+msgid "Loop"
+msgstr "Herhaal"
+
+msgid "Loop Playlist"
+msgstr "Herhaal Afspeellijst"
+
+msgid "Low"
+msgstr "Laag"
+
+msgid "MD5 Check"
+msgstr "MD5 Controle"
+
+msgid "MD5 log file can't be created."
+msgstr "MD5 log kan niet worden gemaakt."
+
+msgid "MPlayerCE"
+msgstr ""
+
+msgid "MPlayerCE DOL Path"
+msgstr ""
+
+msgid "Mark Item Button"
+msgstr "Makkeer Item Knop"
+
+msgid "Memory Buffer"
+msgstr "Geheugen Buffer"
+
+msgid "Menu"
+msgstr ""
+
+#, c-format
+msgid "Mount %i"
+msgstr ""
+
+msgid "Mount NAND (ISFS) on boot"
+msgstr ""
+
+msgid "Mounted as:"
+msgstr "Gekoppeld als:"
+
+msgid "Mounting DVD"
+msgstr ""
+
+msgid "Mountpoint:"
+msgstr "Koppelpunt:"
+
+msgid "Moving item(s):"
+msgstr "Verplaatsen item(s)"
+
+msgid "Multiple Items"
+msgstr "Meerdere Items"
+
+msgid "Music Loop Mode"
+msgstr "Herhaal modus"
+
+msgid "Music Volume"
+msgstr "Muziek Volume"
+
+msgid "NAND write access"
+msgstr ""
+
+msgid "NFS Settings"
+msgstr "NFS Instellingen"
+
+msgid "NONE"
+msgstr "GEEN"
+
+msgid "Name might already exists."
+msgstr "Naam bestaat misschien al."
+
+msgid "Network Settings"
+msgstr "Netwerk Instellingen"
+
+msgid "Network initialising..."
+msgstr "Netwerk Initialiseren..."
+
+msgid "New Folder"
+msgstr "Nieuwe map"
+
+msgid "NewZip.zip"
+msgstr "NieuweZip.zip"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No URL or Path specified."
+msgstr "Geen URL of pad opgegeven"
+
+msgid "No files found."
+msgstr "Geen bestanden gevonden."
+
+msgid "No homebrew in the zip."
+msgstr "Geen homebrew in de ZIP."
+
+msgid "No network connection."
+msgstr "Geen netwerk verbinding."
+
+msgid "No new updates available"
+msgstr "Geen nieuwe versies beschikbaar"
+
+msgid "No to all"
+msgstr "Nee op alles"
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "Not a valid URL"
+msgstr "Geen geldige URL"
+
+msgid "Not a valid URL path"
+msgstr "Geen geldig URL pad"
+
+msgid "Not a valid domain"
+msgstr "Geen geldig domein"
+
+msgid "Not enough memory"
+msgstr ""
+
+msgid "Not enough memory to resize."
+msgstr "Onvoldoende geheugen voor aanpassen grootte."
+
+msgid "Not enough memory to rotate."
+msgstr "Onvoldoende geheugen voor draaien."
+
+msgid "Not enough memory."
+msgstr "Onvoldoende geheugen."
+
+msgid "Not enought memory."
+msgstr ""
+
+msgid "Not mounted"
+msgstr "Niet gekoppeld"
+
+msgid "OFF"
+msgstr "UIT"
+
+msgid "OK"
+msgstr ""
+
+msgid "ON"
+msgstr "AAN"
+
+msgid "Open the file in the PDF Viewer?"
+msgstr "Open bestand in PDF Viewer?"
+
+msgid "Opera Channel not found on the system."
+msgstr "Opera Kanaal niet gevonden op systeem."
+
+msgid "Out of memory: too many files!"
+msgstr "Onvoldoende geheugen: te veel bestanden!"
+
+msgid "Output File"
+msgstr "Uitvoerbestand"
+
+msgid "Output Type"
+msgstr "Uitvoertype"
+
+msgid "Override Priiloader"
+msgstr ""
+
+msgid "PDF Files"
+msgstr "PDF Bestanden"
+
+msgid "PDF Processing Zoom"
+msgstr "PDF Standaard Zoom"
+
+msgid "Parse Directory"
+msgstr "Parsen Map"
+
+msgid "Partition"
+msgstr "Partitie"
+
+msgid "Partition Formatter"
+msgstr "Formatteer Partitie"
+
+msgid "Partition Nr."
+msgstr "Partitie Nr."
+
+msgid "Partition Size:"
+msgstr "Partitie Grootte:"
+
+msgid "Partition Type:"
+msgstr "Partitie Type:"
+
+msgid "Partition is too small."
+msgstr "Partitie is te klein."
+
+msgid "Passive Mode:"
+msgstr "Passive Modus:"
+
+msgid "Password is needed."
+msgstr "Wachtwoord is nodig."
+
+msgid "Password:"
+msgstr "Wachtwoord:"
+
+msgid "Paste"
+msgstr "Plakken"
+
+msgid "Paste item(s) into current directory?"
+msgstr "Item(s) in de huidige map plakken?"
+
+msgid "Paste the item(s) into this directory?"
+msgstr "Item(s) in deze map plakken?"
+
+msgid "Pasting files is currently only supported on ZIP archives."
+msgstr "Bestanden plakken kan op dit moment alleen in ZIP archieven."
+
+msgid "Path Settings"
+msgstr "Pad Instellingen"
+
+msgid "Path Setup"
+msgstr "Pad Instellen"
+
+msgid "Path changed."
+msgstr "Pad Gewijzigd."
+
+msgid "Play File"
+msgstr "Bestand Afspelen"
+
+msgid "Play Once"
+msgstr "Eenmalig Afspelen"
+
+msgid "Please enter a path."
+msgstr "Graag een pad invoeren."
+
+msgid "Please enter first the URL-Name."
+msgstr "Graag eerst de URL naam invoeren."
+
+msgid "Please enter now the URL."
+msgstr "Graag nu de URL invoeren."
+
+msgid "Please enter the password."
+msgstr "Graag het wachtwoord invoeren."
+
+msgid "Please wait..."
+msgstr "Wachten AUB..."
+
+msgid "Possible unsupported format."
+msgstr "Mogelijk onbekende indeling."
+
+msgid "Press Startup FTP to start the server on port"
+msgstr "Druk op 'FTP Starten' om de server te starten op poort"
+
+msgid "Press any button(s)"
+msgstr ""
+
+msgid "Primary"
+msgstr "Primaire"
+
+msgid "Process canceled."
+msgstr "Proces geannuleerd."
+
+msgid "ProgressBar Bottom/Left"
+msgstr "VoortgangsBalk Onder/Links"
+
+msgid "ProgressBar Bottom/Right"
+msgstr "VoortgangsBalk Onder/Rechts"
+
+msgid "ProgressBar Empty Bottom/Left"
+msgstr "VoortgangsBalk Leeg Onder/Links"
+
+msgid "ProgressBar Empty Bottom/Right"
+msgstr "VoortgangsBalk Leeg Onder/Rechts"
+
+msgid "ProgressBar Empty Upper/Left"
+msgstr "VoortgangsBalk Leeg Boven/Links"
+
+msgid "ProgressBar Empty Upper/Right"
+msgstr "VoortgangsBalk Leeg Boven/Rechts"
+
+msgid "ProgressBar Upper/Left"
+msgstr "VoortgangsBalk Boven/Links"
+
+msgid "ProgressBar Upper/Right"
+msgstr "VoortgangsBalk Boven/Rechts"
+
+msgid "Properties"
+msgstr "Eigenschappen"
+
+msgid "QWERTYUIOP{}|"
+msgstr ""
+
+#, c-format
+msgid "R: %i G: %i B: %i"
+msgstr ""
+
+msgid "Random"
+msgstr "Willekeurig"
+
+#, c-format
+msgid "Read Error in %s"
+msgstr ""
+
+#, c-format
+msgid "Read Error in file: %s"
+msgstr ""
+
+#, c-format
+msgid "Read error from %s in %s"
+msgstr ""
+
+msgid "Reading archive."
+msgstr "Lezen archief."
+
+msgid "Receiving file..."
+msgstr "Ontvangst bestand..."
+
+msgid "Reconnect FTP"
+msgstr "FTP Herverbinden"
+
+msgid "Reconnect NFS"
+msgstr ""
+
+msgid "Reconnect SMB"
+msgstr "SMB Herverbinden"
+
+msgid "Red"
+msgstr "Rood"
+
+msgid "Remount"
+msgstr "Opnieuw koppelen"
+
+msgid "Remounting FTP client."
+msgstr ""
+
+msgid "Remounting NFS client."
+msgstr ""
+
+msgid "Remounting SMB client."
+msgstr ""
+
+msgid "Remounting all devices."
+msgstr "Alle apparaten opnieuw koppelen."
+
+msgid "Remove Link"
+msgstr "Verwijder Link"
+
+msgid "Remove from list"
+msgstr "Verwijder van lijst"
+
+msgid "Rename"
+msgstr "Hernoemen"
+
+msgid "Resample to 48 kHz"
+msgstr ""
+
+msgid "Reset"
+msgstr "Herstellen"
+
+msgid "Restart"
+msgstr "Herstarten"
+
+msgid "Retry?"
+msgstr ""
+
+msgid "Right Button"
+msgstr "Rechter Knop"
+
+msgid "Rotate"
+msgstr "Draaien"
+
+msgid "Rumble"
+msgstr ""
+
+msgid "Running a Video could slowdown the process or freeze the app. Do you want to continue?"
+msgstr "Een Video afspelen kan vertraging veroorzaken of de app bevriezen. Wil je toch doorgaan?"
+
+msgid "SD-Card"
+msgstr "SD-Kaart"
+
+msgid "SMB Name:"
+msgstr "SMB Naam:"
+
+msgid "SMB Settings"
+msgstr "SMB Instellingen"
+
+msgid "Save Alpha"
+msgstr "Bewaar Alpha"
+
+msgid "Screen Pointer Speed"
+msgstr ""
+
+msgid "Screenshot Format"
+msgstr "Opmaak Schermafdruk"
+
+msgid "Screenshot Hold Button"
+msgstr "Inhouden voor Schermafdruk"
+
+msgid "Screenshot Path"
+msgstr "Pad Schermafdruk"
+
+msgid "Screenshot Press Button"
+msgstr "Drukken voor Schermafdruk"
+
+msgid "Scrolling Speed"
+msgstr "Blader snelheid"
+
+#, c-format
+msgid "Seek Error in %s"
+msgstr ""
+
+msgid "Server was shutdown...\n"
+msgstr "Server was uitgeschakeld...\n"
+
+msgid "Set Active"
+msgstr "Stel als Actief in"
+
+msgid "Set the pressed buttons?"
+msgstr ""
+
+msgid "Set this Partition as Active?"
+msgstr "Deze Partitie als Actief instellen?"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+#, c-format
+msgid "Share %i"
+msgstr "Delen %i"
+
+msgid "Share:"
+msgstr "Delen:"
+
+msgid "Shift"
+msgstr ""
+
+msgid "Show Changelog"
+msgstr "Toon Changelog"
+
+msgid "Show Partition Formatter"
+msgstr "Toon Formatteer Partitie"
+
+msgid "Shutdown"
+msgstr "Uitschakelen"
+
+msgid "Shutdown FTP"
+msgstr "Afsluiten FTP"
+
+msgid "Shutdown the Wii?"
+msgstr "Wii Uitschakelen?"
+
+msgid "Size:"
+msgstr "Grootte:"
+
+msgid "Slide Show Button"
+msgstr "Knop Diashow"
+
+msgid "Slideshow Delay"
+msgstr "Diashow vertraging"
+
+msgid "Sound Settings"
+msgstr "Geluidsinstellingen"
+
+msgid "Soundblock Size"
+msgstr "Geluidsblok grootte"
+
+msgid "Soundblocks"
+msgstr "Geluidsblokken"
+
+msgid "Special thanks to:"
+msgstr "Speciale dank aan:"
+
+msgid "Startup FTP"
+msgstr "FTP Starten"
+
+msgid "Successfully formated the partition."
+msgstr "De partitie is successvol geformatteerd."
+
+msgid "System error received"
+msgstr ""
+
+msgid "Tab"
+msgstr ""
+
+msgid "Temporary Path"
+msgstr "Tijdelijk Pad"
+
+msgid "Text Editor"
+msgstr "Tekst Bewerker"
+
+msgid "The buffer size is really high. If the app doesn't start after this delete your config files."
+msgstr "De buffergrootte is heel hoog. Als de app hierna niet start verwijder de configuratiebestanden."
+
+msgid "The developers cannot be hold responsible for any damage you do to your Wii by activating this option. Are you sure you want to continue?"
+msgstr ""
+
+msgid "The effect will take with next music load. It might break music playback."
+msgstr "Het effect is merkbaar bij het laden van nieuwe muziek. Afspelen kan misschien niet meer werken."
+
+msgid "The file will be downloaded to this path."
+msgstr "Het bestand wordt gedownload naar dit pad."
+
+msgid "The new font could not be loaded."
+msgstr "Nieuw lettertype wordt niet geladen."
+
+msgid "The new font is loaded."
+msgstr "Nieuw lettertype is geladen."
+
+msgid "The whole devkitPro & libogc staff."
+msgstr "De gehele devkitPro & libogc staf."
+
+msgid "This drive has more than 2^28 clusters. Partition might be too small."
+msgstr "Deze schijf heeft meer dan 2^28 clusters. Partities zijn misschien te klein."
+
+msgid "This drive is too big"
+msgstr "Deze schijf is te groot"
+
+msgid "This link will be used in Opera or as a Download Link."
+msgstr "Deze link zal worden gebruikt in Opera of als Download Link."
+
+msgid "This name will be shown in the Start Menu"
+msgstr "Deze naam is zichtbaar in het Start Menu"
+
+msgid "This option could mess up the pdf view."
+msgstr "Deze optie kan PDF view in de war gooien."
+
+msgid "This will delete all the data on this partition. Do you want to continue?"
+msgstr "Dit zal alle gegevens verwijderen op deze partitie. Wil je doorgaan?"
+
+msgid "Time left:"
+msgstr "Tijd over:"
+
+msgid "To Idle"
+msgstr "Naar Inactief"
+
+msgid "To Standby"
+msgstr "Naar Standby"
+
+msgid "Tooltip Delay"
+msgstr ""
+
+msgid "Total Space:"
+msgstr "Totale Ruimte:"
+
+msgid "Transfer cancelled."
+msgstr "Overdracht geannuleerd."
+
+msgid "Transfer failed"
+msgstr "Overdracht mislukt"
+
+msgid "Transfer failed."
+msgstr "Overdracht mislukt."
+
+msgid "URL List"
+msgstr "URL lijst"
+
+msgid "URL List Path"
+msgstr "URL Lijst Pad"
+
+msgid "URL is empty."
+msgstr "URL is leeg."
+
+msgid "USB Device Port 0"
+msgstr "USB Poort 0"
+
+msgid "USB Device Port 1"
+msgstr "USB Poort 1"
+
+msgid "Uknown format. Open this file in the TextEditor?"
+msgstr "Onbekende indeling. Openen in een Tekst Bewerker?"
+
+msgid "Unable to create folder."
+msgstr "Kan map niet aanmaken."
+
+msgid "Unknown"
+msgstr "Onbekend"
+
+msgid "Unsupported format!"
+msgstr "Onbekende indeling!"
+
+msgid "Up Button"
+msgstr "Knop Omhoog"
+
+msgid "Update (App) Path"
+msgstr "Bijwerken (App) Pad"
+
+msgid "Update App"
+msgstr "Bijwerken App"
+
+msgid "Update Icon.png"
+msgstr "Bijwerken Icon.png"
+
+msgid "Update Meta.xml"
+msgstr "Bijwerken Meta.xml"
+
+msgid "Update failed"
+msgstr "Bijwerken mislukt"
+
+msgid "Update successfully finished"
+msgstr "Bijwerken successvol afgerond"
+
+#, c-format
+msgid "Update to Rev%i available"
+msgstr "Bijwerken naar Rev%i mogelijk"
+
+msgid "Use Both USB Ports"
+msgstr "Gebruik Beide USB Poorten"
+
+msgid "Username:"
+msgstr "Gebruikersnaam:"
+
+msgid "Vertical"
+msgstr "Vertikaal"
+
+msgid "Video Files"
+msgstr "Video Bestanden"
+
+msgid "WARNING"
+msgstr "WAARSCHUWING"
+
+msgid "WARNING/DISCLAIMER"
+msgstr ""
+
+msgid "WARNING:"
+msgstr "WAARSCHUWING:"
+
+msgid "WPAD BUTTON 1"
+msgstr "WPAD KNOP 1"
+
+msgid "WPAD BUTTON 2"
+msgstr "WPAD KNOP 2"
+
+msgid "WPAD BUTTON A"
+msgstr "WPAD KNOP A"
+
+msgid "WPAD BUTTON B"
+msgstr "WPAD KNOP A"
+
+msgid "WPAD BUTTON DOWN"
+msgstr "WPAD KNOP OMLAAG"
+
+msgid "WPAD BUTTON HOME"
+msgstr "WPAD KNOP HOME"
+
+msgid "WPAD BUTTON LEFT"
+msgstr "WPAD KNOP LINKS"
+
+msgid "WPAD BUTTON MINUS"
+msgstr "WPAD KNOP MIN"
+
+msgid "WPAD BUTTON PLUS"
+msgstr "WPAD KNOP PLUS"
+
+msgid "WPAD BUTTON RIGHT"
+msgstr "WPAD KNOP RECHTS"
+
+msgid "WPAD BUTTON UP"
+msgstr "WPAD KNOP OMHOOG"
+
+msgid "WPAD CLASSIC BUTTON A"
+msgstr "WPAD CLASSIC KNOP A"
+
+msgid "WPAD CLASSIC BUTTON B"
+msgstr "WPAD CLASSIC KNOP B"
+
+msgid "WPAD CLASSIC BUTTON DOWN"
+msgstr "WPAD CLASSIC KNOP OMLAAG"
+
+msgid "WPAD CLASSIC BUTTON FULL L"
+msgstr "WPAD CLASSIC KNOP VOL L"
+
+msgid "WPAD CLASSIC BUTTON FULL R"
+msgstr "WPAD CLASSIC KNOP VOL L"
+
+msgid "WPAD CLASSIC BUTTON HOME"
+msgstr "WPAD CLASSIC KNOP HOME"
+
+msgid "WPAD CLASSIC BUTTON LEFT"
+msgstr "WPAD CLASSIC KNOP LINKS"
+
+msgid "WPAD CLASSIC BUTTON MINUS"
+msgstr "WPAD CLASSIC KNOP MIN"
+
+msgid "WPAD CLASSIC BUTTON PLUS"
+msgstr "WPAD CLASSIC KNOP PLUS"
+
+msgid "WPAD CLASSIC BUTTON RIGHT"
+msgstr "WPAD CLASSIC KNOP RECHTS"
+
+msgid "WPAD CLASSIC BUTTON UP"
+msgstr "WPAD CLASSIC KNOP OMHOOG"
+
+msgid "WPAD CLASSIC BUTTON X"
+msgstr "WPAD CLASSIC KNOP X"
+
+msgid "WPAD CLASSIC BUTTON Y"
+msgstr "WPAD CLASSIC KNOP Y"
+
+msgid "WPAD CLASSIC BUTTON ZL"
+msgstr "WPAD CLASSIC KNOP ZL"
+
+msgid "WPAD CLASSIC BUTTON ZR"
+msgstr "WPAD CLASSIC KNOP ZR"
+
+msgid "WPAD CLASSIC NONE BUTTON"
+msgstr "WPAD CLASSIC GEEN KNOP"
+
+msgid "WPAD NONE BUTTON"
+msgstr "WPAD GEEN KNOP"
+
+msgid "WPAD NUNCHUCK BUTTON C"
+msgstr ""
+
+msgid "WPAD NUNCHUCK BUTTON Z"
+msgstr ""
+
+msgid "Warning:"
+msgstr "Waarschuwing:"
+
+msgid "Wii Binary Files"
+msgstr "Wii Binaire Bestanden"
+
+msgid "Wii Classic Buttons Setup"
+msgstr ""
+
+msgid "Wii Homebrew"
+msgstr ""
+
+msgid "Wii Menu"
+msgstr ""
+
+msgid "WiiMC"
+msgstr ""
+
+msgid "WiiMC DOL Path"
+msgstr ""
+
+msgid "WiiMote Buttons Setup"
+msgstr ""
+
+msgid "WiiXplorer Default Music"
+msgstr "WiiXplorer Standaard Muziek"
+
+msgid "WiiXplorer MD5 Calculator\n"
+msgstr ""
+
+msgid "WiiXplorer Movies"
+msgstr "WiiXplorer Videos"
+
+msgid "Would you like to add/append the selected item(s) to a zip?"
+msgstr "Wil je geselecteerde item(s) toevoegen aan een ZIP bestand?"
+
+#, c-format
+msgid "Write Error from %s to %s"
+msgstr ""
+
+#, c-format
+msgid "Write Error in file: %s. %s"
+msgstr ""
+
+msgid "Write access to NAND is dangerous if you do not know what you do! Are you sure you want to activate NAND write access?"
+msgstr ""
+
+#, c-format
+msgid "Write error to %s in %s"
+msgstr ""
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Yes to all"
+msgstr "Ja op alles"
+
+msgid "You can't set a logical partition as active."
+msgstr "Je kan geen logische partitie als actief instellen."
+
+msgid "You can't set this partition as active."
+msgstr "Je kan deze partitie niet als actief instellen."
+
+msgid "You cant use this operation on:"
+msgstr "Je kan deze bewerking niet doen op:"
+
+msgid "You have a GUID Partition Table (GPT). Formatting partitions in a GPT is not supported yet."
+msgstr "Je Schijf gebruikt een GUID Partitie Tabel (GPT). Formatteren in een GPT is nog niet ondersteund."
+
+msgid "ZXCVBNM<>?"
+msgstr ""
+
+msgid "Zip Compression Mode"
+msgstr "Zip Compressie Modus"
+
+msgid "ZoomIn Button"
+msgstr "ZoomIn Knop"
+
+msgid "ZoomOut Button"
+msgstr "ZoomUit Knop"
+
+msgid "`1234567890-="
+msgstr ""
+
+msgid "and all the translators."
+msgstr "en alle vertalers."
+
+msgid "asdfghjkl;'"
+msgstr ""
+
+msgid "devices"
+msgstr "apparaten"
+
+msgid "files"
+msgstr "bestanden"
+
+msgid "for his FTP Server source."
+msgstr "voor zijn FTP Server bron."
+
+msgid "for his great tool libwiigui."
+msgstr "voor zijn libwiigui programma."
+
+msgid "qwertyuiop[]\\"
+msgstr ""
+
+msgid "requires d2x cIOS v9+"
+msgstr ""
+
+msgid "revs"
+msgstr ""
+
+msgid "zxcvbnm,./"
+msgstr ""
+
+msgid "~!@#$%^&*()_+"
+msgstr ""
+
+#~ msgid "Apps Path"
+#~ msgstr "Apps Pad"
+
+#~ msgid "Can not open the file."
+#~ msgstr "Kan bestand niet openen"
+
+#~ msgid "MPlayerCE Path"
+#~ msgstr "MPlayerCE Pad"
+
+#~ msgid "WiiMC Path"
+#~ msgstr "WiiMC Pad"
+
+#~ msgid "Can't load file"
+#~ msgstr "Kan bestand niet laden"
+
+#~ msgid "Reboot failed"
+#~ msgstr "Herstart mislukt"
+
+#~ msgid "Standard"
+#~ msgstr "Standaard"
+
+#~ msgid "Cannot open image"
+#~ msgstr "Kan afbeelding niet openen"
+
+#~ msgid "Could not extract file:"
+#~ msgstr "Kan bestand niet uitpakken:"
+
+#~ msgid "Downloaded %d files."
+#~ msgstr "%d bestanden Gedownload"
+
+#~ msgid "Extracting files..."
+#~ msgstr "Bezig uitpakken bestanden..."
+
+#~ msgid "FTP Client reconnected successfull."
+#~ msgstr "FTP Cliënt verbinding is hersteld."
+
+#~ msgid "Failed extracting the archive."
+#~ msgstr "Uitpakken van archief is mislukt."
+
+#~ msgid "Image Viewer"
+#~ msgstr "Bekijk Afbeelding"
+
+#~ msgid "Linebreak"
+#~ msgstr "Regelbreuk"
+
+#~ msgid "Loading image..."
+#~ msgstr "Afbeelding laden..."
+
+#~ msgid "No image found at index %d."
+#~ msgstr "Geen afbeelding bij index %d."
+
+#~ msgid "Reconnect failed. No client connected."
+#~ msgstr "Verbinding mislukt. Cliënt niet verbonden."
+
+#~ msgid "Reconnect failed. No share connected."
+#~ msgstr "Verbinding mislukt. Share niet verbonden."
+
+#~ msgid "Retry"
+#~ msgstr "Opnieuw"
+
+#~ msgid "SMB is connecting..."
+#~ msgstr "Verbinden SMB..."
+
+#~ msgid "SMB reconnected successfull."
+#~ msgstr "SMB is successvol verbonden."
+
+#~ msgid "To Loader"
+#~ msgstr "Naar Lader"
+
+#~ msgid "To Menu"
+#~ msgstr "Naar Menu"
+
+#~ msgid "Unable to load path:"
+#~ msgstr "Kan pad niet laden:"
+
+#~ msgid "1"
+#~ msgstr "1"
+
+#~ msgid "Deleting files:"
+#~ msgstr "Bestanden verwijderen:"
+
+#~ msgid "Directory couldn't be deleted."
+#~ msgstr "Locatie kon niet worden verwijderd."
+
+#~ msgid "File couldn't be deleted."
+#~ msgstr "Bestand kon niet worden verwijderd"
+
+#~ msgid "Transfering files:"
+#~ msgstr "Bestanden Overplaatsen:"
+
+#~ msgid "You can not cut into the directory itself."
+#~ msgstr "Je kan niet knippen in de locatie zelf."
+
+#~ msgid "No language files found."
+#~ msgstr "Geen taalbestanden gevonden."
+
+#~ msgid "Please wait:"
+#~ msgstr "Even geduld:"
+
+#~ msgid "The whole DevkitPro & libogc staff."
+#~ msgstr "Het hele Devkitpro en libogc team."
+
+#~ msgid "for his great tool LibWiiGui."
+#~ msgstr "voor de LibWiiGui"
+
+#~ msgid "User %i"
+#~ msgstr "Gebruiker: %i"
+
+#~ msgid "User:"
+#~ msgstr "Gebruiker:"
+
+#~ msgid "Do you want to reconnect the SMB?"
+#~ msgstr "Wil je terug met de SMB verbinden?"
+
+#~ msgid "Do you want to open this file in TextViewer?"
+#~ msgstr "Wil je dit bestand in een tekstverwerker openen?"
+
+#~ msgid "Do you want to load app default language ?"
+#~ msgstr "Wil je de toepassings standaardtaal laden?"
+
+#~ msgid "Do you want to load console default language."
+#~ msgstr "Wil je de console standaadtaal laden?"
+
+#~ msgid "Fontpath changed"
+#~ msgstr "Locatie lettertype gewijzigd"
+
+#~ msgid "Restart the app to load the new font."
+#~ msgstr "Herstart dit programma om het lettertype te wijzigen."
+
+#~ msgid "Do you want to open this file with ImageViewer?"
+#~ msgstr "Wil je dit bestand als afbeelding openen?"
+
+#~ msgid "You cannot read/write from/to the same file."
+#~ msgstr "Je kan niet lezen/schrijven van/naar hetzelfde bestand."
+
+#~ msgid "Failed copying file."
+#~ msgstr "Bestand kopieren mislukt."
+
+#~ msgid "Failed copying files."
+#~ msgstr "Bestanden kopieren mislukt."
+
+#~ msgid "Directory successfully deleted."
+#~ msgstr "Locatie verwijderd."
+
+#~ msgid "Copy directory?"
+#~ msgstr "Locatie kopieren?"
+
+#~ msgid "Copy file?"
+#~ msgstr "Bestand kopieren?"
+
+#~ msgid "Copying file:"
+#~ msgstr "Bestand kopieren:"
+
+#~ msgid "Copying files:"
+#~ msgstr "Bestanden kopieren:"
+
+#~ msgid "Cut directory?"
+#~ msgstr "Locatie knippen?"
+
+#~ msgid "Cut file?"
+#~ msgstr "Bestand knippen?"
+
+#~ msgid "Delete directory and its content?"
+#~ msgstr "Wil je de map met alle inhoud verwijderen?"
+
+#~ msgid "Delete this file?"
+#~ msgstr "Bestand verwijderen?"
+
+#~ msgid "Directory successfully copied."
+#~ msgstr "Locatie gekopieerd."
+
+#~ msgid "Directory successfully moved."
+#~ msgstr "Locatie verplaatst."
+
+#~ msgid "Failed renaming file"
+#~ msgstr "Bestand hernoemen mislukt"
+
+#~ msgid "File does not exist anymore!"
+#~ msgstr "Dit bestand bestaat niet meer!"
+
+#~ msgid "File successfully copied."
+#~ msgstr "Bestand gekopieerd"
+
+#~ msgid "File successfully moved."
+#~ msgstr "Bestand verplaatst."
+
+#~ msgid "Moving files:"
+#~ msgstr "Bestanden verplaatsen:"
+
+#~ msgid "Name already exists."
+#~ msgstr "Naam bestaat al."
+
+#~ msgid "Paste into current directory?"
+#~ msgstr "Plakken op deze locatie?"
+
+#~ msgid "Last status change:"
+#~ msgstr "Laatste statuswijziging:"
+
+#~ msgid "An error occured."
+#~ msgstr "Er is een fout opgetreden"
+
+#~ msgid "ERROR"
+#~ msgstr "FOUT"
+
+#~ msgid "This is no OGG/MP3 file"
+#~ msgstr "Dit is geen OGG/MP3 bestand"
+
+#~ msgid "Connect SMB"
+#~ msgstr "SMB verbinden"
+
+#~ msgid "SD"
+#~ msgstr "SD"
+
+#~ msgid "SMB1"
+#~ msgstr "SMB1"
+
+#~ msgid "SMB2"
+#~ msgstr "SMB2"
+
+#~ msgid "SMB3"
+#~ msgstr "SMB3"
+
+#~ msgid "SMB4"
+#~ msgstr "SMB4"
+
+#~ msgid "USB"
+#~ msgstr "USB"
+
+#~ msgid "Failed to extract files."
+#~ msgstr "Uitpakken gefaald."
+
+#~ msgid "Files successfully extracted."
+#~ msgstr "Uitpakken voltooid!"
+
+#~ msgid "Enter a directory where to extract the files to."
+#~ msgstr "Kies Waar je de bestanden wilt uitpakken."
+
+#~ msgid "Change Settings"
+#~ msgstr "Opties wijzigen"
+
+#~ msgid "Unable to load device."
+#~ msgstr "Kan apparaat niet laden."

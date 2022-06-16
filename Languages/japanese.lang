@@ -1,0 +1,2080 @@
+# WiiXplorer language source file.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WiiXplorer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-28 19:02+0200\n"
+"PO-Revision-Date: 2009-07-18 15:18+0200\n"
+"Last-Translator: Trickart \n"
+"Language-Team: Trickart \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, c-format
+msgid "%i error(s) encountered. Check MD5.log for more details."
+msgstr "%i個のエラーが発生しました。MD5.logに詳しい情報があります。"
+
+msgid "(Best compression)"
+msgstr "(最高圧縮)"
+
+msgid "(Best speed)"
+msgstr "(最高速)"
+
+msgid "(Default)"
+msgstr "(デフォルト)"
+
+msgid "(Store)"
+msgstr "(無圧縮)"
+
+msgid "(only this session)"
+msgstr "このセッションのみ"
+
+msgid "(read only)"
+msgstr "読み込み専用"
+
+msgid "--------------------------------------------------\n"
+msgstr ""
+
+msgid ""
+"--------------------------------------------------\n"
+"\n"
+msgstr ""
+
+msgid "12H"
+msgstr "12時間表示"
+
+msgid "24H"
+msgstr "24時間表示"
+
+msgid "7z decompression failed:"
+msgstr "7zの解凍に失敗しました"
+
+msgid "A task is in progress. Can't run update check right now."
+msgstr "タスクを実行中です。アップデートすることはできません"
+
+msgid "ASDFGHJKL:\""
+msgstr "ぱぴぷぺぽがぎぐげごゑゐ"
+
+msgid "Accept"
+msgstr ""
+
+msgid "Action cancelled."
+msgstr "キャンセルしました"
+
+msgid "Active (Bootable):"
+msgstr "アクティブ(起動可能):"
+
+msgid "Add Link"
+msgstr "リンクを追加"
+
+msgid "Add to Playlist"
+msgstr "再生リストに追加"
+
+msgid "Add to zip"
+msgstr "zipに追加"
+
+msgid "Alpha Blending"
+msgstr "アルファ合成"
+
+msgid "App Default"
+msgstr "英語"
+
+msgid "Apps"
+msgstr "アプリ"
+
+msgid "Archive Files"
+msgstr "書庫ファイル"
+
+msgid "Are you sure you have that IOS installed?"
+msgstr "このIOSをインストールしますか?"
+
+msgid "Audio Files"
+msgstr "音楽ファイル"
+
+msgid "Auto Connect"
+msgstr "自動接続"
+
+msgid "Auto Start:"
+msgstr "自動スタート:"
+
+msgid "BMP Compression"
+msgstr "BMP圧縮"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Back Button"
+msgstr "戻る"
+
+msgid "Back in Directory Button"
+msgstr "フォルダでの戻る"
+
+msgid "Background Bottom/Left"
+msgstr "背景の左下"
+
+msgid "Background Bottom/Right"
+msgstr "背景の右下"
+
+msgid "Background Upper/Left"
+msgstr "背景の左上"
+
+msgid "Background Upper/Right"
+msgstr "背景の右上"
+
+msgid "Blue"
+msgstr "青"
+
+msgid "Boot IOS"
+msgstr "起動IOS"
+
+msgid "Boot Settings"
+msgstr "起動設定"
+
+msgid "BootMii"
+msgstr ""
+
+msgid "Both"
+msgstr "両方"
+
+msgid "Browse"
+msgstr "ブラウズ"
+
+msgid "Browser Mode"
+msgstr "ブラウザのモード"
+
+msgid "Button Hold Scroll"
+msgstr "ボタンを押し続けるとスクロール"
+
+msgid "CRC of extracted file does not match. Wrong password?"
+msgstr "ファイルのCRCが一致しません(パスワードが間違っています)"
+
+msgid "Calculating MD5"
+msgstr "MD5を計算中"
+
+msgid "Calculating delete size..."
+msgstr "削除サイズを計算中..."
+
+msgid "Calculating extract size..."
+msgstr "解凍後のサイズを計算中..."
+
+msgid "Calculating total size..."
+msgstr "合計サイズを計算中です..."
+
+msgid "Calculating transfer size..."
+msgstr "転送サイズを計算中..."
+
+msgid "Can not open the file"
+msgstr "ファイルが開けません"
+
+msgid "Can't browse that path."
+msgstr "パスを開けませんでした"
+
+msgid "Can't connect to update server"
+msgstr "サーバーに接続出来ません"
+
+msgid "Can't find the right partition."
+msgstr "右の領域が見つかりません"
+
+msgid "Can't load page."
+msgstr "ページを読み込めません"
+
+msgid "Can't open file."
+msgstr "ファイルを開けません"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+#, c-format
+msgid "Cannot close file %s"
+msgstr "ファイル %sが閉じられません"
+
+msgid "Cannot create directory: "
+msgstr "フォルダを作成できませんでした"
+
+#, c-format
+msgid "Cannot open file %s"
+msgstr "ファイル %sが開けません"
+
+msgid "Cannot read from the drive."
+msgstr "ドライブから読み込めません"
+
+msgid "Cannot write to destination."
+msgstr "書き込めません"
+
+msgid "Cannot write to the drive."
+msgstr "ドライブに書き込めません"
+
+msgid "Cannot write to the file."
+msgstr "ファイルに書き込めませんでした"
+
+msgid "Cannot write to this path:"
+msgstr "このパスに書き込めませんでした:"
+
+msgid "Caps"
+msgstr ""
+
+msgid "Channels"
+msgstr "チャンネル"
+
+#, c-format
+msgid "Checked %i file(s) in %i folder(s).\n"
+msgstr "%i個のファイルをチェックしました(%i個のフォルダ内)\n"
+
+msgid "Checking directory:"
+msgstr "チェックしたディレクトリ:"
+
+msgid "Checking file:"
+msgstr "チェックしたファイル:"
+
+msgid "Checking for updates"
+msgstr "アップデートをチェック"
+
+msgid "Clear"
+msgstr "クリア"
+
+msgid "Clear List"
+msgstr "リストを消去"
+
+msgid "Click Button"
+msgstr "クリックボタン"
+
+#, c-format
+msgid "Client %i"
+msgstr "クライアント:%i"
+
+msgid "Client:"
+msgstr "クライアント:%i"
+
+msgid "Clock Mode"
+msgstr "時計の表示形式"
+
+msgid "Close"
+msgstr "とじる"
+
+msgid "Coders:"
+msgstr "制作:"
+
+msgid "Color Settings"
+msgstr "色設定"
+
+msgid "Compressed Size:"
+msgstr "圧縮サイズ:"
+
+msgid "Compressing item(s):"
+msgstr "圧縮中:"
+
+msgid "Console Default"
+msgstr "日本語"
+
+msgid "Context Menu Button"
+msgstr "コンテキストメニュー"
+
+msgid "Controls Settings"
+msgstr "操作設定"
+
+msgid "Convert"
+msgstr "変換"
+
+msgid "Converting image"
+msgstr "画像を変換"
+
+msgid "Converting image..."
+msgstr "画像を変換しています･･･"
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "Copy Thread Background Priority"
+msgstr "背景コピーのスレッドの優先度"
+
+msgid "Copy Thread Priority"
+msgstr "コピーのスレッドの優先度"
+
+msgid "Copy current marked item(s)?"
+msgstr "選択されたアイテムをコピーしますか?"
+
+msgid "Copy of "
+msgstr ""
+
+msgid "Copying item(s):"
+msgstr "コピーしています:"
+
+msgid "Could not connect to the server."
+msgstr "サーバーに接続できませんでした"
+
+msgid "Could not convert image."
+msgstr "画像を変換出来ませんでした"
+
+msgid "Could not decompress the file."
+msgstr "解凍できませんでした"
+
+msgid "Could not download file."
+msgstr "ダウンロードできませんでした"
+
+#, c-format
+msgid "Could not find IOS %i"
+msgstr "IOS %iがありません"
+
+msgid "Could not load file."
+msgstr "ファイルを読み込めませんでした"
+
+msgid "Could not load image."
+msgstr "画像を読み込めませんでした"
+
+msgid "Could not load text file."
+msgstr "テキストファイルを読み込めませんでした"
+
+msgid "Could not parse directory."
+msgstr "フォルダをリストに追加出来ませんでした"
+
+msgid "Credits"
+msgstr "提供･協力"
+
+msgid "Currently a process is running."
+msgstr "プロセスが動作中です"
+
+msgid "Customfont Path"
+msgstr "フォントのパス"
+
+msgid "Cut"
+msgstr "切り取り"
+
+msgid "Cut current marked item(s)?"
+msgstr "選択されたアイテムを切り取りますか?"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete Temp Path on Exit"
+msgstr "終了時に一時フォルダを削除する"
+
+msgid "Delete the selected item(s) and its content?"
+msgstr "選択されたアイテムと中身を削除しますか?"
+
+msgid "Deleting item(s):"
+msgstr "削除しています:"
+
+msgid "Demark All Items Button"
+msgstr "すべて選択を解除するボタン"
+
+msgid "Demark Item Button"
+msgstr "選択を解除する"
+
+msgid "Designer:"
+msgstr "デザイナー:"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Directory .."
+msgstr "ﾃﾞｨﾚｸﾄﾘ .."
+
+msgid "Disconnect Client"
+msgstr "クライアントを切断"
+
+msgid "Disconnect NFS"
+msgstr "NFSを切断"
+
+msgid "Disconnect SMB"
+msgstr "SMBを切断"
+
+msgid "Disk is Full"
+msgstr "ディスクがいっぱいです"
+
+msgid "Do you want to add an URL?"
+msgstr "URLを追加しますか?"
+
+msgid "Do you want to append this delete to the queue?"
+msgstr "削除キューに追加しますか?"
+
+msgid "Do you want to append this paste to the queue?"
+msgstr "キューにこの貼り付けを追加しますか?"
+
+msgid "Do you want to append this process to the queue?"
+msgstr "プロセスキューに追加しますか?"
+
+msgid "Do you want to boot file now?"
+msgstr "今すぐ起動しますか?"
+
+msgid "Do you want to boot:"
+msgstr "起動しますか?"
+
+msgid "Do you want to change the font?"
+msgstr "フォントを変更しますか?"
+
+msgid "Do you want to delete this file:"
+msgstr "このファイルを削除しますか?"
+
+msgid "Do you want to disconnect the FTP client?"
+msgstr "FTPクライアントを切断しますか?"
+
+msgid "Do you want to disconnect this NFS?"
+msgstr "NFSを切断しますか?"
+
+msgid "Do you want to disconnect this SMB?"
+msgstr "SMBを切断しますか?"
+
+msgid "Do you want to download new language files?"
+msgstr "新しい言語ファイルをダウンロードしますか?"
+
+msgid "Do you want to exit WiiXplorer?"
+msgstr "WiiXplorerを終了しますか?"
+
+#, c-format
+msgid "Do you want to load file from: %s ?"
+msgstr "%sからファイルを読み込みますか?"
+
+msgid "Do you want to load the default language?"
+msgstr "デフォルトの言語を読み込みますか?"
+
+msgid "Do you want to load this language ?"
+msgstr "この言語に設定しますか?"
+
+msgid "Do you want to open this file in TextEditor?"
+msgstr "テキストエディタで開きますか?"
+
+msgid "Do you want to playback this file?"
+msgstr "このファイルを再生しますか?"
+
+msgid "Do you want to reboot WiiXplorer?"
+msgstr "WiiXplorerを再起動しますか?"
+
+msgid "Do you want to reboot now ?"
+msgstr "今すぐ再起動しますか?"
+
+msgid "Do you want to reconnect this NFS?"
+msgstr "再接続しますか?"
+
+msgid "Do you want to reconnect this SMB?"
+msgstr "再接続しますか?"
+
+msgid "Do you want to reconnect to the FTP client?"
+msgstr "FTPクライアントに再接続しますか?"
+
+msgid "Do you want to remount all devices?"
+msgstr "すべてのデバイスを再マウントしますか?"
+
+msgid "Do you want to replace this file?"
+msgstr "このファイルを置き換えますか?"
+
+msgid "Do you want to reset the control settings?"
+msgstr "操作設定を初期化しますか?"
+
+msgid "Do you want to reset the settings?"
+msgstr "設定を初期化しますか?"
+
+msgid "Do you want to save changes?"
+msgstr "変更を保存しますか?"
+
+msgid "Do you want to start BootMii?"
+msgstr "BootMiiを起動しますか?"
+
+msgid "Do you want to start the app?"
+msgstr "アプリを始めますか?"
+
+msgid "Do you want to start the channel?"
+msgstr "チャンネルを始めますか?"
+
+msgid "Do you want to update now ?"
+msgstr "更新しますか?"
+
+msgid "Done"
+msgstr "完了"
+
+msgid "Down Button"
+msgstr "下"
+
+msgid "Download Link"
+msgstr "ダウンロードする"
+
+msgid "Downloading file..."
+msgstr "ダウンロード中…"
+
+msgid "Downloading files..."
+msgstr "ダウンロード中…"
+
+msgid "Edit Textline Button"
+msgstr "テキストの行編集"
+
+#, c-format
+msgid "Encountered %i error(s).\n"
+msgstr "%i個のエラーが発生しました\n"
+
+msgid "Enter"
+msgstr "手入力"
+
+msgid "Error"
+msgstr "エラー"
+
+#, c-format
+msgid "Error - %s is not a file\n"
+msgstr "エラー: %sはファイルではありません\n"
+
+#, c-format
+msgid "Error - Could not open file: %s\n"
+msgstr "エラー: ファイルを開けません: %s\n"
+
+#, c-format
+msgid "Error - Could not parse directory: %s\n"
+msgstr "エラー: ディレクトリを解析できません: %s\n"
+
+#, c-format
+msgid "Error - Not enough memory on: %s\n"
+msgstr "エラー: メモリが足りません: %s\n"
+
+#, c-format
+msgid "Error opening %s"
+msgstr "エラー: ファイルが開けません: %s"
+
+#, c-format
+msgid "Error opening %s in %s"
+msgstr "エラー: ファイルが開けません: %s %s中"
+
+#, c-format
+msgid "Error received from %s in %s"
+msgstr ""
+
+msgid "Error while reading file."
+msgstr "読み込み中にエラーが発生しました"
+
+msgid "Error:"
+msgstr "エラー"
+
+msgid "Exit"
+msgstr "終了"
+
+msgid "Exit WiiXplorer?"
+msgstr "WiiXplorerを終了しますか?"
+
+msgid "Explorer Settings"
+msgstr "エクスプローラの設定"
+
+msgid "Extract"
+msgstr "解凍"
+
+msgid "Extract All"
+msgstr "すべて解凍"
+
+msgid "Extract error code:"
+msgstr "解凍エラーコード:"
+
+msgid "Extract file to temp path and execute?"
+msgstr "一時フォルダに解凍して実行しますか?"
+
+msgid "Extract full archive?"
+msgstr "すべて解凍しますか?"
+
+msgid "Extract the selected item(s)?"
+msgstr "選択されたアイテムを解凍しますか?"
+
+msgid "Extracting file..."
+msgstr "解凍中"
+
+msgid "Extracting item(s):"
+msgstr "解凍中"
+
+msgid "FAT32 must have at least 65536 clusters"
+msgstr "FAT32は最低でも65536のクラスターがなければいけません"
+
+msgid "FTP Client Settings"
+msgstr "FTPクライアント設定"
+
+msgid "FTP Path:"
+msgstr "FTPのパス"
+
+msgid "FTP Port:"
+msgstr "FTPのポート"
+
+msgid "FTP Server"
+msgstr "FTPサーバー"
+
+msgid "FTP Server Settings"
+msgstr "FTPのサーバー設定"
+
+msgid "FTP Server is running and listening on port"
+msgstr "FTPサーバーは起動中で待ち受けています ポート:"
+
+msgid "FTP Started.\n"
+msgstr "FTPを開始しました\n"
+
+msgid "Fade Speed"
+msgstr "フェード速度"
+
+msgid "Failed adding some item(s)."
+msgstr "アイテムの追加に失敗しました"
+
+msgid "Failed copying some item(s)."
+msgstr "コピーに失敗しました"
+
+msgid "Failed deleting some item(s)."
+msgstr "削除に失敗しました"
+
+msgid "Failed extracting some item(s)."
+msgstr "解凍に失敗しました"
+
+msgid "Failed extracting the item(s)."
+msgstr "解凍に失敗しました"
+
+msgid "Failed formatting the partition."
+msgstr "パーティションのフォーマットに失敗しました"
+
+msgid "Failed loading the file."
+msgstr "ファイルの読み込みに失敗しました"
+
+msgid "Failed moving some item(s)."
+msgstr "移動に失敗しました"
+
+msgid "Failed reading from network"
+msgstr "ネットワークからの読み込みに失敗しました"
+
+msgid "Failed renaming item"
+msgstr "リネームに失敗しました"
+
+msgid "Failed to get the Changelog."
+msgstr "更新履歴を受信できませんでした"
+
+msgid "Failed to initialize network."
+msgstr "ネットワークの初期化に失敗しました"
+
+msgid "Failed to load the channel."
+msgstr "チャンネルを読み込めませんでした"
+
+msgid "Failed to read file data."
+msgstr "データの読み込みに失敗しました"
+
+msgid "Failed to write EBR."
+msgstr "EBRの書き込みに失敗しました"
+
+msgid "Failed to write MBR."
+msgstr "MBRの書き込みに失敗しました"
+
+#, c-format
+msgid "Fatal error: %i."
+msgstr "致命的なエラー: %i"
+
+msgid "File Extensions"
+msgstr "拡張子"
+
+msgid "File Extensions Settings"
+msgstr "拡張子設定"
+
+msgid "File System:"
+msgstr "ファイルシステム:"
+
+msgid "File already exists:"
+msgstr "ファイルが既に存在します"
+
+msgid "File could not be deleted."
+msgstr "ファイルを削除できませんでした"
+
+msgid "File is corrupt (CRC mismatch)."
+msgstr "ファイルのCRCが一致しません"
+
+msgid "File is corrupt."
+msgstr "ファイルが破損しています"
+
+msgid "File is too big."
+msgstr "ファイルが大きすぎです"
+
+msgid "File uses too high of compression settings (dictionary size is too large)."
+msgstr "書庫のサイズが大きすぎです"
+
+msgid "File uses unsupported compression settings."
+msgstr "未対応の書庫形式です"
+
+msgid "File was edited."
+msgstr "編集されています"
+
+msgid "Filepath:"
+msgstr "場所:"
+
+#, c-format
+msgid "Filepath:  %s"
+msgstr "場所:%s"
+
+msgid "Files:"
+msgstr "ファイル数:"
+
+msgid "Filesize doesn't match."
+msgstr "ファイルサイズが一致しません"
+
+msgid "Filesize is 0 Byte."
+msgstr "ファイルサイズが0バイトです"
+
+msgid "Filetype:"
+msgstr "種類:"
+
+msgid "Flip Mode"
+msgstr "反転"
+
+msgid "Folder"
+msgstr "フォルダ"
+
+msgid "Folder(s)"
+msgstr "フォルダ"
+
+msgid "Font Files"
+msgstr "フォントファイル"
+
+msgid "Fontpath changed."
+msgstr "フォントのパスを変更しました"
+
+msgid "Format"
+msgstr "初期化"
+
+msgid "Format Partition?"
+msgstr "領域を初期化しますか?"
+
+msgid "Formatter"
+msgstr "初期化ツール"
+
+msgid "Formatting partition!"
+msgstr "パーティションのフォーマット中!"
+
+msgid "Free Space:"
+msgstr "空き領域:"
+
+msgid "GC Homebrew"
+msgstr "GCのHomebrew"
+
+msgid "GC PAD BUTTON A"
+msgstr "GCコンのAボタン"
+
+msgid "GC PAD BUTTON B"
+msgstr "GCコンのBボタン"
+
+msgid "GC PAD BUTTON DOWN"
+msgstr "GCコンの下ボタン"
+
+msgid "GC PAD BUTTON LEFT"
+msgstr "GCコンの左ボタン"
+
+msgid "GC PAD BUTTON NONE"
+msgstr "GCコンのボタン無し"
+
+msgid "GC PAD BUTTON RIGHT"
+msgstr "GCコンの右ボタン"
+
+msgid "GC PAD BUTTON START"
+msgstr "GCコンのSTARTボタン"
+
+msgid "GC PAD BUTTON UP"
+msgstr "GCコンの上ボタン"
+
+msgid "GC PAD BUTTON X"
+msgstr "GCコンのXボタン"
+
+msgid "GC PAD BUTTON Y"
+msgstr "GCコンのYボタン"
+
+msgid "GC PAD TRIGGER L"
+msgstr "GCコンのLトリガー"
+
+msgid "GC PAD TRIGGER R"
+msgstr "GCコンのRトリガー"
+
+msgid "GC PAD TRIGGER Z"
+msgstr "GCコンのZトリガー"
+
+msgid "GC Pad Buttons Setup"
+msgstr "GCコンの設定"
+
+msgid "GC-SD A"
+msgstr "GCのSD A"
+
+msgid "GC-SD B"
+msgstr "GCのSD B"
+
+msgid "GD2 Compression"
+msgstr "GD2圧縮"
+
+msgid "GUID"
+msgstr ""
+
+msgid "General Settings"
+msgstr "基本設定"
+
+msgid "Getting Changelog..."
+msgstr "更新履歴を受信しています･･･"
+
+msgid "Getting file list..."
+msgstr "ファイルリストを取得中..."
+
+msgid "Go Back"
+msgstr "戻る"
+
+msgid "Green"
+msgstr "緑"
+
+msgid "Hashing complete."
+msgstr "計算が完了しました"
+
+msgid "Hashing successfully finished."
+msgstr "計算に成功しました"
+
+msgid "Hide System Files/Folders"
+msgstr "システムファイル/フォルダを非表示"
+
+msgid "High"
+msgstr "高"
+
+msgid "Highest"
+msgstr "最高"
+
+msgid "Home Button"
+msgstr "HOME"
+
+msgid "Home Menu"
+msgstr "HOMEボタンメニュー"
+
+msgid "Homebrew Apps Path"
+msgstr "Homebrewのパス"
+
+msgid "Homebrew Channel"
+msgstr "Homebrewチャンネル"
+
+msgid "Homebrew Files"
+msgstr "Homebrewファイル"
+
+msgid "Horizontal"
+msgstr "左右反転"
+
+msgid "Host:"
+msgstr "ホスト"
+
+msgid "How do you want to change the path?"
+msgstr "どのようにパスを変更しますか?"
+
+msgid "How do you want to launch this file?"
+msgstr "どちらで再生しますか?"
+
+msgid "How do you want to load this language file?"
+msgstr "どのように言語ファイルを開きますか?"
+
+msgid "How do you want to open the file?"
+msgstr "どのようにファイルを開きますか?"
+
+msgid "How do you want to proceed?"
+msgstr "何をしますか?"
+
+msgid "How should this URL be opened?"
+msgstr "URLをどう開きますか?"
+
+msgid "Icon Mode"
+msgstr "アイコン表示"
+
+msgid "Idle"
+msgstr "アイドル"
+
+msgid "Image Converter"
+msgstr "画像を変換"
+
+msgid "Image Files"
+msgstr "画像ファイル"
+
+msgid "Image Heigth"
+msgstr "画像の高さ"
+
+msgid "Image Settings"
+msgstr "画像の設定"
+
+msgid "Image Width"
+msgstr "画像の幅"
+
+msgid "Image successfully converted."
+msgstr "画像を変換しました"
+
+msgid "ImageConverter"
+msgstr "画像を変換"
+
+msgid "ImageViewer"
+msgstr "画像を閲覧"
+
+msgid "Incomming connection."
+msgstr "接続を着信しました"
+
+msgid "Input File"
+msgstr "入力ファイル"
+
+msgid "Interlace"
+msgstr "インターレース"
+
+msgid "Internet Channel"
+msgstr "ページを見る"
+
+msgid "JPEG Quality"
+msgstr "JPEGの品質"
+
+msgid "Keyboard Backspace Button"
+msgstr "キーボードのバックスペース"
+
+msgid "Keyboard Delete Delay"
+msgstr "キーボードの削除間隔"
+
+msgid "Keyboard Shift Button"
+msgstr "キーボードのシフト"
+
+msgid "Lang."
+msgstr "切替"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Language Files"
+msgstr "言語ファイル"
+
+msgid "Language Path"
+msgstr "言語ファイルのパス"
+
+msgid "Language Settings"
+msgstr "言語の設定"
+
+msgid "Last access:"
+msgstr "アクセス日時:"
+
+msgid "Last change:"
+msgstr "変更日時:"
+
+msgid "Last modified:"
+msgstr "更新日時:"
+
+msgid "Left Button"
+msgstr "左"
+
+msgid "List Mode"
+msgstr "リスト表示"
+
+msgid "Listening on TCP port"
+msgstr "待ち受け中 TCPポート:"
+
+msgid "Load"
+msgstr "読み込む"
+
+msgid "Load Music to Memory"
+msgstr "メモリに読み込む"
+
+msgid "Loading file:"
+msgstr "読み込んでいます"
+
+msgid "Log was saved in MD5.log"
+msgstr "MD5.logに保存されました"
+
+msgid "Logical"
+msgstr "倫理的"
+
+msgid "Loop"
+msgstr "ループ"
+
+msgid "Loop Playlist"
+msgstr "再生リストをループ"
+
+msgid "Low"
+msgstr "低"
+
+msgid "MD5 Check"
+msgstr "MD5チェック"
+
+msgid "MD5 log file can't be created."
+msgstr "MD5.logが作成できませんでした"
+
+msgid "MPlayerCE"
+msgstr ""
+
+msgid "MPlayerCE DOL Path"
+msgstr "MPlayerCEのパス"
+
+msgid "Mark Item Button"
+msgstr "選択する"
+
+msgid "Memory Buffer"
+msgstr "メモリバッファ"
+
+msgid "Menu"
+msgstr "Wiiメニューへ"
+
+#, c-format
+msgid "Mount %i"
+msgstr "%iをマウント"
+
+msgid "Mount NAND (ISFS) on boot"
+msgstr ""
+
+msgid "Mounted as:"
+msgstr "マウント中:"
+
+msgid "Mounting DVD"
+msgstr "DVDドライブをマウント中"
+
+msgid "Mountpoint:"
+msgstr "マウントポイント"
+
+msgid "Moving item(s):"
+msgstr "移動しています"
+
+msgid "Multiple Items"
+msgstr "複数のアイテム"
+
+msgid "Music Loop Mode"
+msgstr "音楽の再生"
+
+msgid "Music Volume"
+msgstr "音量"
+
+msgid "NAND write access"
+msgstr "NAND書き込み権限"
+
+msgid "NFS Settings"
+msgstr "NFS設定"
+
+msgid "NONE"
+msgstr "なし"
+
+msgid "Name might already exists."
+msgstr "同じ名前がすでにあります"
+
+msgid "Network Settings"
+msgstr "接続設定"
+
+msgid "Network initialising..."
+msgstr "接続中..."
+
+msgid "New Folder"
+msgstr "新しいフォルダ"
+
+msgid "NewZip.zip"
+msgstr "新しいzip.zip"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "No URL or Path specified."
+msgstr "URLやパスが指定されていません"
+
+msgid "No files found."
+msgstr "ファイルが見つかりません"
+
+msgid "No homebrew in the zip."
+msgstr "zip内にhomebrewが何もありません"
+
+msgid "No network connection."
+msgstr "ネットワーク接続がありません"
+
+msgid "No new updates available"
+msgstr "更新はありません"
+
+msgid "No to all"
+msgstr "全ていいえ"
+
+msgid "Normal"
+msgstr "普通"
+
+msgid "Not a valid URL"
+msgstr "URLが正しくありません"
+
+msgid "Not a valid URL path"
+msgstr "URLのパスが正しくありません"
+
+msgid "Not a valid domain"
+msgstr "ドメインが正しくありません"
+
+msgid "Not enough memory"
+msgstr "メモリが足りません"
+
+msgid "Not enough memory to resize."
+msgstr "リサイズするためのメモリが足りません"
+
+msgid "Not enough memory to rotate."
+msgstr "回転するためのメモリが足りません"
+
+msgid "Not enough memory."
+msgstr "メモリ不足です"
+
+msgid "Not enought memory."
+msgstr "メモリが足りません"
+
+msgid "Not mounted"
+msgstr "マウントしていません"
+
+msgid "OFF"
+msgstr "オフ"
+
+msgid "OK"
+msgstr "はい"
+
+msgid "ON"
+msgstr "オン"
+
+msgid "Open the file in the PDF Viewer?"
+msgstr "PDFビューアで開きますか?"
+
+msgid "Opera Channel not found on the system."
+msgstr "Operaチャネルが見つかりません"
+
+msgid "Out of memory: too many files!"
+msgstr "ファイルが多いためメモリ不足です"
+
+msgid "Output File"
+msgstr "出力ファイル"
+
+msgid "Output Type"
+msgstr "出力形式"
+
+msgid "Override Priiloader"
+msgstr ""
+
+msgid "PDF Files"
+msgstr "PDFファイル"
+
+msgid "PDF Processing Zoom"
+msgstr "PDFの拡大処理"
+
+msgid "Parse Directory"
+msgstr "フォルダを追加"
+
+msgid "Partition"
+msgstr "領域"
+
+msgid "Partition Formatter"
+msgstr "領域初期化ツール"
+
+msgid "Partition Nr."
+msgstr "領域番号:"
+
+msgid "Partition Size:"
+msgstr "領域サイズ:"
+
+msgid "Partition Type:"
+msgstr "領域タイプ:"
+
+msgid "Partition is too small."
+msgstr "領域が小さすぎます"
+
+msgid "Passive Mode:"
+msgstr "受信モード:"
+
+msgid "Password is needed."
+msgstr "パスワードが必要です"
+
+msgid "Password:"
+msgstr "パスワード"
+
+msgid "Paste"
+msgstr "貼り付け"
+
+msgid "Paste item(s) into current directory?"
+msgstr "このフォルダに貼り付けますか?"
+
+msgid "Paste the item(s) into this directory?"
+msgstr "このディレクトリに貼り付けますか?"
+
+msgid "Pasting files is currently only supported on ZIP archives."
+msgstr "ZIP書庫でのみファイルの貼り付けに対応しています"
+
+msgid "Path Settings"
+msgstr "パス設定"
+
+msgid "Path Setup"
+msgstr "パスの設定"
+
+msgid "Path changed."
+msgstr "パスを変更しました"
+
+msgid "Play File"
+msgstr "ファイルを再生"
+
+msgid "Play Once"
+msgstr "一度だけ再生"
+
+msgid "Please enter a path."
+msgstr "パスを入力してください。"
+
+msgid "Please enter first the URL-Name."
+msgstr "URLの名前を入力してください"
+
+msgid "Please enter now the URL."
+msgstr "URLを入力してください"
+
+msgid "Please enter the password."
+msgstr "パスワードを入力してください"
+
+msgid "Please wait..."
+msgstr "お待ちください…"
+
+msgid "Possible unsupported format."
+msgstr "対応していない形式です"
+
+msgid "Press Startup FTP to start the server on port"
+msgstr "サーバーを開始するためFTPを開始してください ポート:"
+
+msgid "Press any button(s)"
+msgstr "何かボタンを押してください"
+
+msgid "Primary"
+msgstr "先頭"
+
+msgid "Process canceled."
+msgstr "キャンセルしました"
+
+msgid "ProgressBar Bottom/Left"
+msgstr "進歩バーの左下"
+
+msgid "ProgressBar Bottom/Right"
+msgstr "進歩バーの右下"
+
+msgid "ProgressBar Empty Bottom/Left"
+msgstr "進歩バーの空の左下"
+
+msgid "ProgressBar Empty Bottom/Right"
+msgstr "進歩バーの空の右下"
+
+msgid "ProgressBar Empty Upper/Left"
+msgstr "進歩バーの空の左上"
+
+msgid "ProgressBar Empty Upper/Right"
+msgstr "進歩バーの空の右上"
+
+msgid "ProgressBar Upper/Left"
+msgstr "進歩バーの左上"
+
+msgid "ProgressBar Upper/Right"
+msgstr "進歩バーの右上"
+
+msgid "Properties"
+msgstr "プロパティ"
+
+msgid "QWERTYUIOP{}|"
+msgstr "ぁぃぅぇぉっゃゅょゎ!、。"
+
+#, c-format
+msgid "R: %i G: %i B: %i"
+msgstr "赤: %i 緑: %i 青: %i"
+
+msgid "Random"
+msgstr "ランダム再生"
+
+#, c-format
+msgid "Read Error in %s"
+msgstr "読み込みエラー: %s"
+
+#, c-format
+msgid "Read Error in file: %s"
+msgstr "読み込みエラー: ファイル %s"
+
+#, c-format
+msgid "Read error from %s in %s"
+msgstr "読み込みエラー: %s %s中"
+
+msgid "Reading archive."
+msgstr "アーカイブを読込中"
+
+msgid "Receiving file..."
+msgstr "ファイルを受信中･･･"
+
+msgid "Reconnect FTP"
+msgstr "FTPに再接続"
+
+msgid "Reconnect NFS"
+msgstr "NFSに再接続"
+
+msgid "Reconnect SMB"
+msgstr "SMBに再接続"
+
+msgid "Red"
+msgstr "赤"
+
+msgid "Remount"
+msgstr "再マウント"
+
+msgid "Remounting FTP client."
+msgstr "FTPクライアントを再接続中"
+
+msgid "Remounting NFS client."
+msgstr "NFSクライアントを再接続中"
+
+msgid "Remounting SMB client."
+msgstr "SMBクライアントを再接続中"
+
+msgid "Remounting all devices."
+msgstr "全てのデバイスを再マウントしています"
+
+msgid "Remove Link"
+msgstr "リンクを削除"
+
+msgid "Remove from list"
+msgstr "リストから外す"
+
+msgid "Rename"
+msgstr "名前の変更"
+
+msgid "Resample to 48 kHz"
+msgstr ""
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Restart"
+msgstr "再起動"
+
+msgid "Retry?"
+msgstr "再試行しますか?"
+
+msgid "Right Button"
+msgstr "右"
+
+msgid "Rotate"
+msgstr "回転"
+
+msgid "Rumble"
+msgstr "振動機能"
+
+msgid "Running a Video could slowdown the process or freeze the app. Do you want to continue?"
+msgstr "映像の再生はアプリに負荷がかかりますが続行しますか?"
+
+msgid "SD-Card"
+msgstr "SDカード"
+
+msgid "SMB Name:"
+msgstr "SMB名"
+
+msgid "SMB Settings"
+msgstr "SMBの設定"
+
+msgid "Save Alpha"
+msgstr "アルファの保存"
+
+msgid "Screen Pointer Speed"
+msgstr "ポインターの速度"
+
+msgid "Screenshot Format"
+msgstr "画面写真の形式"
+
+msgid "Screenshot Hold Button"
+msgstr "画面写真を撮る時の固定ボタン"
+
+msgid "Screenshot Path"
+msgstr "画面写真を保存するパス"
+
+msgid "Screenshot Press Button"
+msgstr "画面写真を撮るときに押すボタン"
+
+msgid "Scrolling Speed"
+msgstr "スクロール速度"
+
+#, c-format
+msgid "Seek Error in %s"
+msgstr "シークエラー: %s"
+
+msgid "Server was shutdown...\n"
+msgstr "サーバーは終了しました…\n"
+
+msgid "Set Active"
+msgstr "アクティブにする"
+
+msgid "Set the pressed buttons?"
+msgstr "押されたボタンを設定"
+
+msgid "Set this Partition as Active?"
+msgstr "パーティションをアクティブにしますか?"
+
+msgid "Settings"
+msgstr "設定"
+
+#, c-format
+msgid "Share %i"
+msgstr "共有%i"
+
+msgid "Share:"
+msgstr "共有:"
+
+msgid "Shift"
+msgstr ""
+
+msgid "Show Changelog"
+msgstr "更新履歴を見る"
+
+msgid "Show Partition Formatter"
+msgstr "初期化ツールの表示"
+
+msgid "Shutdown"
+msgstr "シャットダウン"
+
+msgid "Shutdown FTP"
+msgstr "FTPを終了"
+
+msgid "Shutdown the Wii?"
+msgstr "Wiiをシャットダウンしますか?"
+
+msgid "Size:"
+msgstr "サイズ"
+
+msgid "Slide Show Button"
+msgstr "スライドショー"
+
+msgid "Slideshow Delay"
+msgstr "スライドショーの間隔"
+
+msgid "Sound Settings"
+msgstr "音の設定"
+
+msgid "Soundblock Size"
+msgstr "サウンドブロックサイズ"
+
+msgid "Soundblocks"
+msgstr "サウンドブロック"
+
+msgid "Special thanks to:"
+msgstr "スペシャルサンクス:"
+
+msgid "Startup FTP"
+msgstr "FTPを開始"
+
+msgid "Successfully formated the partition."
+msgstr "領域を初期化しました"
+
+msgid "System error received"
+msgstr "システムエラーが返されました"
+
+msgid "Tab"
+msgstr "タブ"
+
+msgid "Temporary Path"
+msgstr "一時フォルダのパス"
+
+msgid "Text Editor"
+msgstr "テキスト編集"
+
+msgid "The buffer size is really high. If the app doesn't start after this delete your config files."
+msgstr "バッファサイズが大きすぎです。この後このアプリが起動しなければ設定ファイルを削除してください。"
+
+msgid "The developers cannot be hold responsible for any damage you do to your Wii by activating this option. Are you sure you want to continue?"
+msgstr "開発者はこのオプションを有効にして、あなたのWiiに起こるいかなる損害についても責任を負いません。続行してもよろしいですか？"
+
+msgid "The effect will take with next music load. It might break music playback."
+msgstr "次に音楽を読み込んだときに反映します。"
+
+msgid "The file will be downloaded to this path."
+msgstr "ファイルはこのパスに保存されます"
+
+msgid "The new font could not be loaded."
+msgstr "フォントを読み込めませんでした"
+
+msgid "The new font is loaded."
+msgstr "フォントを読み込みました"
+
+msgid "The whole devkitPro & libogc staff."
+msgstr "devkitPro&libogcの制作者の方々"
+
+msgid "This drive has more than 2^28 clusters. Partition might be too small."
+msgstr "このドライブは2^28以上のクラスタを持っています。領域が小さすぎです。"
+
+msgid "This drive is too big"
+msgstr "このドライブは大きすぎです"
+
+msgid "This link will be used in Opera or as a Download Link."
+msgstr "このリンクはOperaやダウンロードで使われます"
+
+msgid "This name will be shown in the Start Menu"
+msgstr "この名前はスタートメニューで表示されます"
+
+msgid "This option could mess up the pdf view."
+msgstr "PDFの表示が崩れる場合があります"
+
+msgid "This will delete all the data on this partition. Do you want to continue?"
+msgstr "この領域のデータを全て削除します。本当にしますか?"
+
+msgid "Time left:"
+msgstr "残り:"
+
+msgid "To Idle"
+msgstr "スタンバイ"
+
+msgid "To Standby"
+msgstr "シャットダウン"
+
+msgid "Tooltip Delay"
+msgstr "ツールチップの遅延"
+
+msgid "Total Space:"
+msgstr "使用領域:"
+
+msgid "Transfer cancelled."
+msgstr "転送を中止しました"
+
+msgid "Transfer failed"
+msgstr "転送に失敗しました"
+
+msgid "Transfer failed."
+msgstr "転送に失敗しました"
+
+msgid "URL List"
+msgstr "URLリスト"
+
+msgid "URL List Path"
+msgstr "URLリストのパス"
+
+msgid "URL is empty."
+msgstr "URLが空です"
+
+msgid "USB Device Port 0"
+msgstr "USBデバイス ポート0"
+
+msgid "USB Device Port 1"
+msgstr "USBデバイス ポート1"
+
+msgid "Uknown format. Open this file in the TextEditor?"
+msgstr "テキストエディタで開きますか?"
+
+msgid "Unable to create folder."
+msgstr "フォルダを作成できませんでした"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Unsupported format!"
+msgstr "対応していない形式です!"
+
+msgid "Up Button"
+msgstr "上"
+
+msgid "Update (App) Path"
+msgstr "WiiXplorerのパス"
+
+msgid "Update App"
+msgstr "更新"
+
+msgid "Update Icon.png"
+msgstr "アイコンの更新"
+
+msgid "Update Meta.xml"
+msgstr "XMLの更新"
+
+msgid "Update failed"
+msgstr "更新に失敗しました"
+
+msgid "Update successfully finished"
+msgstr "更新が完了しました"
+
+#, c-format
+msgid "Update to Rev%i available"
+msgstr "更新があります:Rev%i"
+
+msgid "Use Both USB Ports"
+msgstr "両方のUSBポートを使用"
+
+msgid "Username:"
+msgstr "ユーザー名"
+
+msgid "Vertical"
+msgstr "上下反転"
+
+msgid "Video Files"
+msgstr "映像ファイル"
+
+msgid "WARNING"
+msgstr "警告"
+
+msgid "WARNING/DISCLAIMER"
+msgstr "警告と免責事項"
+
+msgid "WARNING:"
+msgstr "警告:"
+
+msgid "WPAD BUTTON 1"
+msgstr "Wiiリモコンの1ボタン"
+
+msgid "WPAD BUTTON 2"
+msgstr "Wiiリモコンの2ボタン"
+
+msgid "WPAD BUTTON A"
+msgstr "WiiリモコンのAボタン"
+
+msgid "WPAD BUTTON B"
+msgstr "WiiリモコンのBボタン"
+
+msgid "WPAD BUTTON DOWN"
+msgstr "Wiiリモコンの下ボタン"
+
+msgid "WPAD BUTTON HOME"
+msgstr "WiiリモコンのHOMEボタン"
+
+msgid "WPAD BUTTON LEFT"
+msgstr "Wiiリモコンの左ボタン"
+
+msgid "WPAD BUTTON MINUS"
+msgstr "Wiiリモコンのマイナスボタン"
+
+msgid "WPAD BUTTON PLUS"
+msgstr "Wiiリモコンのプラスボタン"
+
+msgid "WPAD BUTTON RIGHT"
+msgstr "Wiiリモコンの右ボタン"
+
+msgid "WPAD BUTTON UP"
+msgstr "Wiiリモコンの上ボタン"
+
+msgid "WPAD CLASSIC BUTTON A"
+msgstr "クラコンのAボタン"
+
+msgid "WPAD CLASSIC BUTTON B"
+msgstr "クラコンのBボタン"
+
+msgid "WPAD CLASSIC BUTTON DOWN"
+msgstr "クラコンの下ボタン"
+
+msgid "WPAD CLASSIC BUTTON FULL L"
+msgstr "クラコンのLボタン"
+
+msgid "WPAD CLASSIC BUTTON FULL R"
+msgstr "クラコンのRボタン"
+
+msgid "WPAD CLASSIC BUTTON HOME"
+msgstr "クラコンのHOMEボタン"
+
+msgid "WPAD CLASSIC BUTTON LEFT"
+msgstr "クラコンの左ボタン"
+
+msgid "WPAD CLASSIC BUTTON MINUS"
+msgstr "クラコンのマイナスボタン"
+
+msgid "WPAD CLASSIC BUTTON PLUS"
+msgstr "クラコンのプラスボタン"
+
+msgid "WPAD CLASSIC BUTTON RIGHT"
+msgstr "クラコンの右ボタン"
+
+msgid "WPAD CLASSIC BUTTON UP"
+msgstr "クラコンの上ボタン"
+
+msgid "WPAD CLASSIC BUTTON X"
+msgstr "クラコンのXボタン"
+
+msgid "WPAD CLASSIC BUTTON Y"
+msgstr "クラコンのYボタン"
+
+msgid "WPAD CLASSIC BUTTON ZL"
+msgstr "クラコンのZLボタン"
+
+msgid "WPAD CLASSIC BUTTON ZR"
+msgstr "クラコンのZRボタン"
+
+msgid "WPAD CLASSIC NONE BUTTON"
+msgstr "クラコンのボタン無し"
+
+msgid "WPAD NONE BUTTON"
+msgstr "クラコンのボタン無し"
+
+msgid "WPAD NUNCHUCK BUTTON C"
+msgstr "クラコンのCボタン"
+
+msgid "WPAD NUNCHUCK BUTTON Z"
+msgstr "クラコンのZボタン"
+
+msgid "Warning:"
+msgstr "警告:"
+
+msgid "Wii Binary Files"
+msgstr "Wiiバイナリファイル"
+
+msgid "Wii Classic Buttons Setup"
+msgstr "クラコンのボタン設定"
+
+msgid "Wii Homebrew"
+msgstr "WiiのHomebrew"
+
+msgid "Wii Menu"
+msgstr "Wiiメニュー"
+
+msgid "WiiMC"
+msgstr ""
+
+msgid "WiiMC DOL Path"
+msgstr "WiiMCのパス"
+
+msgid "WiiMote Buttons Setup"
+msgstr "Wiiリモコンのボタン設定"
+
+msgid "WiiXplorer Default Music"
+msgstr "WiiXplorerのBGM"
+
+msgid "WiiXplorer MD5 Calculator\n"
+msgstr "WiiXplorer MD5チェック結果\n"
+
+msgid "WiiXplorer Movies"
+msgstr "WiiXplorer動画"
+
+msgid "Would you like to add/append the selected item(s) to a zip?"
+msgstr "選択したアイテムをzipに追加しますか?"
+
+#, c-format
+msgid "Write Error from %s to %s"
+msgstr "書き込みエラー: %s to %s"
+
+#, c-format
+msgid "Write Error in file: %s. %s"
+msgstr "書き込みエラー: ファイル %s. %s"
+
+msgid "Write access to NAND is dangerous if you do not know what you do! Are you sure you want to activate NAND write access?"
+msgstr ""
+
+#, c-format
+msgid "Write error to %s in %s"
+msgstr "書き込みエラー: %s in %s"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "Yes to all"
+msgstr "全てはい"
+
+msgid "You can't set a logical partition as active."
+msgstr "倫理的な領域はアクティブにできません"
+
+msgid "You can't set this partition as active."
+msgstr "この領域をアクティブにできません"
+
+msgid "You cant use this operation on:"
+msgstr "この操作は実行できません"
+
+msgid "You have a GUID Partition Table (GPT). Formatting partitions in a GPT is not supported yet."
+msgstr "GUIDパーティションテーブルでの初期化には対応していません"
+
+msgid "ZXCVBNM<>?"
+msgstr "ざじずぜぞだぢづでどをー"
+
+msgid "Zip Compression Mode"
+msgstr "zip圧縮方法"
+
+msgid "ZoomIn Button"
+msgstr "拡大"
+
+msgid "ZoomOut Button"
+msgstr "縮小"
+
+msgid "`1234567890-="
+msgstr "ぬふあうえおやゆよわほへ"
+
+msgid "and all the translators."
+msgstr ", K-M,Trickart…日本語への翻訳"
+
+msgid "asdfghjkl;'"
+msgstr "ちとしはきくまのりれけむ"
+
+msgid "devices"
+msgstr "デバイス"
+
+msgid "files"
+msgstr "ファイル"
+
+msgid "for his FTP Server source."
+msgstr "…FTPのソースを制作"
+
+msgid "for his great tool libwiigui."
+msgstr "…LibWiiGuiの制作者様"
+
+msgid "qwertyuiop[]\\"
+msgstr "たていすかんなにらせろん_"
+
+msgid "requires d2x cIOS v9+"
+msgstr "d2x cIOS v9以上が必要です"
+
+msgid "revs"
+msgstr "リビジョン　"
+
+msgid "zxcvbnm,./"
+msgstr "つさそひこみもねるめ"
+
+msgid "~!@#$%^&*()_+"
+msgstr "ばびぶべぼ\\=!?#～ー"
+
+#~ msgid "Apps Path"
+#~ msgstr "アプリのパス"
+
+#~ msgid "Can not open the file."
+#~ msgstr "ファイルを開けません"
+
+#~ msgid "MPlayerCE Path"
+#~ msgstr "MPlayerCEのパス"
+
+#~ msgid "WiiMC Path"
+#~ msgstr "WiiMCのパス"
+
+#~ msgid "Can't load file"
+#~ msgstr "ファイルを読めません"
+
+#~ msgid "Reboot failed"
+#~ msgstr "再起動に失敗しました"
+
+#~ msgid "Standard"
+#~ msgstr "標準"
+
+#~ msgid "ASDFGHJKL:\"+"
+#~ msgstr "ぱぴぷぺぽがぎぐげごゑゐ"
+
+#~ msgid "Cannot open image"
+#~ msgstr "画像を開けません"
+
+#~ msgid "Copy of"
+#~ msgstr "コピーされた"
+
+#~ msgid "Could not extract file:"
+#~ msgstr "解凍できませんでした"
+
+#~ msgid "Do you want to remount the devices?"
+#~ msgstr "デバイスをリマウントしますか?"
+
+#~ msgid "Downloaded %d files."
+#~ msgstr "%d個のファイルをダウンロードしました"
+
+#~ msgid "ERROR: %i"
+#~ msgstr "エラー: %i"
+
+#~ msgid "Extracting files..."
+#~ msgstr "解凍中･･･"
+
+#~ msgid "FTP Client reconnected successfull."
+#~ msgstr "FTPクライアントに再接続しました"
+
+#~ msgid "Failed adding the item(s)"
+#~ msgstr "追加に失敗しました"
+
+#~ msgid "Failed adding the item(s)."
+#~ msgstr "追加に失敗しました"
+
+#~ msgid "Failed extracting the archive."
+#~ msgstr "解凍に失敗しました"
+
+#~ msgid "Image Viewer"
+#~ msgstr "画像ビューア"
+
+#~ msgid "Linebreak"
+#~ msgstr "改行"
+
+#~ msgid "Listing files in"
+#~ msgstr "ファイルをリスト化中:"
+
+#~ msgid "Loading image..."
+#~ msgstr "画像を読み込んでいます･･･"
+
+#~ msgid "No image found at index %d."
+#~ msgstr "%dの階層に画像が見つかりませんでした"
+
+#~ msgid "Reconnect failed. No client connected."
+#~ msgstr "再接続できませんでした"
+
+#~ msgid "Reconnect failed. No share connected."
+#~ msgstr "再接続できませんでした"
+
+#~ msgid "Reloading file list..."
+#~ msgstr "ファイルリストを再読み込み中です…"
+
+#~ msgid "Remounting devices..."
+#~ msgstr "再マウント中です…"
+
+#~ msgid "Retry"
+#~ msgstr "再試行"
+
+#~ msgid "SMB is connecting..."
+#~ msgstr "接続中"
+
+#~ msgid "SMB reconnected successfull."
+#~ msgstr "SMBに再接続しました"
+
+#~ msgid "To Loader"
+#~ msgstr "ローダーへ"
+
+#~ msgid "To Menu"
+#~ msgstr "メニューへ"
+
+#~ msgid "Unable to load path."
+#~ msgstr "パスを読み込めませんでした"
+
+#~ msgid "Unknown error occured."
+#~ msgstr "原因不明のエラーが起きました"
+
+#~ msgid "`1234567890-"
+#~ msgstr "ぬふあうえおやゆよわほへ"
+
+#~ msgid "asdfghjkl;'="
+#~ msgstr "ちとしはきくまのりれけむ"
+
+#~ msgid "~!@#$%^&*()_"
+#~ msgstr "ばびぶべぼ\\=!?#～ー"
+
+#~ msgid "Error - Could not open directory: %s\n"
+#~ msgstr "エラー: ディレクトリを開けません: %s\n"
+
+#~ msgid "Deleting files:"
+#~ msgstr "削除しています:"
+
+#~ msgid "Directory couldn't be deleted."
+#~ msgstr "フォルダを削除できませんでした"
+
+#~ msgid "Failed copying item(s)."
+#~ msgstr "コピーに失敗しました"
+
+#~ msgid "Failed moving item(s)."
+#~ msgstr "移動に失敗しました"
+
+#~ msgid "File couldn't be deleted."
+#~ msgstr "ファイルを削除できませんでした"
+
+#~ msgid "Transfering files:"
+#~ msgstr "転送中です:"
+
+#~ msgid "You can not cut into the directory itself."
+#~ msgstr "ﾃﾞｨﾚｸﾄﾘ自体は削除できません"
+
+#~ msgid "AppPath changed"
+#~ msgstr "アプリのパスを変更しました"
+
+#~ msgid "Browsing for font files must be done in the main browser."
+#~ msgstr "メインブラウザでフォントを選択してください"
+
+#~ msgid "Calculating MD5..."
+#~ msgstr "MD5を計算中です…"
+
+#~ msgid "Change"
+#~ msgstr "変更"
+
+#~ msgid "Change Language Path?"
+#~ msgstr "言語のパスを変更しますか?"
+
+#~ msgid "Continue"
+#~ msgstr "続行"
+
+#~ msgid "Could not connect to the network"
+#~ msgstr "接続できませんでした"
+
+#~ msgid "Do you want to load the default language."
+#~ msgstr "デフォルトの言語を読み込みますか?"
+
+#~ msgid "Do you want to reset the color settings?"
+#~ msgstr "色設定を初期化しますか?"
+
+#~ msgid "File Extensions Assignment"
+#~ msgstr "拡張子の割り当て"
+
+#~ msgid "Formating partition..."
+#~ msgstr "領域を初期化中です…"
+
+#~ msgid "Language Path changed."
+#~ msgstr "言語のパスを変更しました"
+
+#~ msgid "MPlayerCE path changed"
+#~ msgstr "MPlayerCEのパスを変更しました"
+
+#~ msgid "Minimize"
+#~ msgstr "最小化"
+
+#~ msgid "Mounting disc"
+#~ msgstr "マウント中です"
+
+#~ msgid "No language files found."
+#~ msgstr "言語が見つかりませんでした"
+
+#~ msgid "Notice:"
+#~ msgstr "お知らせ:"
+
+#~ msgid "Please wait:"
+#~ msgstr "お待ちください"
+
+#~ msgid "Setting partition as active."
+#~ msgstr "アクティブにしています"
+
+#~ msgid "Update Path changed."
+#~ msgstr "WiiXplorerのパスを変更しました"
+
+#~ msgid "Updating/Downloading Languagefiles."
+#~ msgstr "言語ファイルを更新中です"
+
+#~ msgid "WiiMC path changed"
+#~ msgstr "WiiMCのパスを変更しました"
+
+#~ msgid "Reload"
+#~ msgstr "再読み込み"
+
+#~ msgid "You do not have BootMii installed!"
+#~ msgstr "BootMiiがインストールされていません!"
+
+#~ msgid "USB Device"
+#~ msgstr "USBデバイス"
+
+#~ msgid "Do you want to load this language file?"
+#~ msgstr "この言語ファイルを読み込みますか?"
+
+#~ msgid "Do you want to launch file with MPlayerCE?"
+#~ msgstr "MPlayerCEで再生しますか?"
+
+#~ msgid "MPlayerPath changed"
+#~ msgstr "MPlayerCEのパスを変更しました"
+
+#~ msgid "Mount NTFS"
+#~ msgstr "NTFSのマウント"
+
+#~ msgid "Do you want to open this URL?"
+#~ msgstr "このURLを開きますか?"
+
+#~ msgid "Please enter the a path."
+#~ msgstr "パスを入力してください"
+
+#~ msgid "This link will be used in Opera."
+#~ msgstr "このリンクはOperaで使われます"
+
+#~ msgid "Website Link"
+#~ msgstr "ウェブサイトリンク"
+
+#~ msgid "What kind of URL did you enter?"
+#~ msgstr "入力したURLはどちらの形式ですか?"
+
+#~ msgid "Do you want to start Opera with this URL?"
+#~ msgstr "Operaで開きますか?"
+
+#~ msgid "Bootup Mount"
+#~ msgstr "起動時のデバイス"
+
+#~ msgid "Unable to load the device."
+#~ msgstr "デバイスを読み込めませんでした"
+
+#~ msgid ""
+#~ "Checking directory: %s\n"
+#~ "\n"
+#~ msgstr ""
+#~ "チェックしたディレクトリ: %s\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "Checking file: %s\n"
+#~ "\n"
+#~ msgstr ""
+#~ "チェックしたファイル: %s\n"
+#~ "\n"
+
+#~ msgid "The whole DevkitPro & libogc staff."
+#~ msgstr "DevkitPro&libogcの制作者の方々"
+
+#~ msgid "for his great tool LibWiiGui."
+#~ msgstr "…LibWiiGuiの制作者様"
+
+#~ msgid "Download Files"
+#~ msgstr "ファイルをダウンロード"
+
+#~ msgid "Not enough memory 2."
+#~ msgstr "メモリ2が足りません"
+
+#~ msgid "Extract first and open than."
+#~ msgstr "解凍してから開いてください"
+
+#~ msgid "Open"
+#~ msgstr "開く"
+
+#~ msgid "Opening is not yet implemented"
+#~ msgstr "まだ実装されていません"
+
+#~ msgid "Can't read file:"
+#~ msgstr "ファイルを読めません"
