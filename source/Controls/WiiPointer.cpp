@@ -149,16 +149,38 @@ void WiiPointer::Update(GuiTrigger *t)
 			// y-axis
 			if(wpadY < -PADCAL)
 			{
-				posY -= (wpadY + PADCAL) * Settings.PointerSpeed;
+				posY -= (-wpadY + PADCAL) * Settings.PointerSpeed;
 				lastActivity = 0;
 			}
 			else if(wpadY > PADCAL)
 			{
-				posY -= (wpadY - PADCAL) * Settings.PointerSpeed;
+				posY -= (-wpadY - PADCAL) * Settings.PointerSpeed;
 				lastActivity = 0;
 			}
 
-			if(trig->pad.btns_h || trig->wpad.btns_h)
+			if (trig->wupc.stickX < -WUPCCAL)
+			{
+				posX += ((trig->wupc.stickX + WUPCCAL) / 96);
+				lastActivity = 0;
+			}
+			else if (trig->wupc.stickX > WUPCCAL)
+			{
+				posX += ((trig->wupc.stickX - WUPCCAL) / 96);
+				lastActivity = 0;
+			}
+
+			if (trig->wupc.stickY < -WUPCCAL)
+			{
+				posY -= ((trig->wupc.stickY + WUPCCAL) / 96);
+				lastActivity = 0;
+			}
+			else if (trig->wupc.stickY > WUPCCAL)
+			{
+				posY -= ((trig->wupc.stickY - WUPCCAL) / 96);
+				lastActivity = 0;
+			}
+
+			if(trig->pad.btns_h || trig->wpad.btns_h || trig->wupc.btns_h)
 				lastActivity = 0;
 
 			posX = LIMIT(posX, -50.0f, screenwidth+50.0f);

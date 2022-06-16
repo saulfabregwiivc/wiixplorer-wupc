@@ -54,12 +54,12 @@ DATA		:=	data/binary \
 CFLAGS		=	-g -ggdb -O3 -Wall -Wextra -Wno-multichar $(MACHDEP) $(INCLUDE) \
 				-DHAVE_LIBZ -DHAVE_LIBPNG -DHAVE_LIBJPEG -DHAVE_LIBTIFF
 CXXFLAGS	=	$(CFLAGS)
-LDFLAGS		=	-g -ggdb $(MACHDEP) -Wl,-Map,$(notdir $@).map,-wrap,malloc,-wrap,free,-wrap,memalign,-wrap,calloc,-wrap,realloc,-wrap,malloc_usable_size
+LDFLAGS		=	-g -ggdb $(MACHDEP) -Wl,-Map,$(notdir $@).map,-wrap,malloc,-wrap,free,-wrap,memalign,-wrap,calloc,-wrap,realloc,-wrap,malloc_usable_size,-wrap,wiiuse_register
 #---------------------------------------------------------------------------------
 # any extra libraries we wish to link with the project
 #---------------------------------------------------------------------------------
 LIBS := -lmupdf -lzip -lunrar -lsevenzip -ldi -lgd -ltiff -ljpeg -lpng -lz -lfat -lext2fs \
-		-lntfs -lnfs -ltinysmb -lwiikeyboard -lmad -lwiiuse -lbte -lasnd -logc -lvorbisidec \
+		-lntfs -lnfs -ltinysmb -lwiikeyboard -lmad -lwiiuse -lwupc -lbte -lasnd -logc -lvorbisidec \
 		-lfreetype -lmxml
 #---------------------------------------------------------------------------------
 # list of directories containing libraries, this must be the top level containing
@@ -83,7 +83,7 @@ export DEPSDIR		:=	$(CURDIR)/$(BUILD)
 # automatically build a list of object files for our project
 #---------------------------------------------------------------------------------
 FILELIST	:=	$(shell bash ./filelist.sh)
-SVNREV		:=	$(shell bash ./svnrev.sh)
+#SVNREV		:=	$(shell bash ./svnrev.sh)
 export CFILES	:=	$(foreach dir,$(SOURCES),$(notdir $(wildcard $(dir)/*.c)))
 export CPPFILES	:=	$(foreach dir,$(SOURCES),$(notdir $(wildcard $(dir)/*.cpp)))
 sFILES		:=	$(foreach dir,$(SOURCES),$(notdir $(wildcard $(dir)/*.s)))

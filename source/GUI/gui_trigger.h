@@ -39,6 +39,16 @@ typedef struct _paddata {
 	u8 triggerR;
 } PADData;
 
+typedef struct _wupcfulldata {
+	u32 btns_d;
+	u32 btns_u;
+	u32 btns_h;
+	s16 stickX;
+	s16 stickY;
+	s16 substickX;
+	s16 substickY;
+} WUPCFullData;
+
 //!Menu input trigger management. Determine if action is neccessary based on input data by comparing controller input data to a specific trigger element.
 class GuiTrigger
 {
@@ -85,6 +95,7 @@ class GuiTrigger
 		s32 chan; //!< Trigger controller channel (0-3, -1 for all)
 		WPADData wpad; //!< Wii controller trigger
 		PADData pad; //!< GameCube controller trigger data
+		WUPCFullData wupc;
 };
 
 class SimpleGuiTrigger : public GuiTrigger

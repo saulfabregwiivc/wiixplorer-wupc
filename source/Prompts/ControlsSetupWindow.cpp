@@ -34,6 +34,7 @@ ControlsSetupWindow::ControlsSetupWindow(int type, u16 * button)
 			SetTitle(tr("WiiMote Buttons Setup"));
 			break;
 
+		case AppControls::TypeWiiUPro:
 		case AppControls::TypeWiiClassic:
 			SetTitle(tr("Wii Classic Buttons Setup"));
 			break;
@@ -66,6 +67,11 @@ void ControlsSetupWindow::OnButtonClick(GuiTrigger *t)
 	{
 		buttons = t->wpad.btns_d >> 16;
 		controlText = AppControls::ControlButtonsToString(controlType, buttons << 16);
+	}
+	else if (controlType == AppControls::TypeWiiUPro && (t->wupc.btns_d >> 16) != 0)
+	{
+		buttons = t->wupc.btns_d >> 16;
+		controlText = AppControls::ControlButtonsToString(AppControls::TypeWiiClassic, buttons << 16);
 	}
 	else if(controlType == AppControls::TypeGCPad && t->pad.btns_d != 0)
 	{

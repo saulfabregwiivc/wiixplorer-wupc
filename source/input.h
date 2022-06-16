@@ -14,6 +14,7 @@
 
 #define PI 				3.14159265f
 #define PADCAL			50
+#define WUPCCAL			400
 
 void UpdatePads();
 void SetupPads();

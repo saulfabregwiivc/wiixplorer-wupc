@@ -164,7 +164,7 @@ std::string AppControls::ControlButtonsToString(int type, u32 button)
 		if(type == TypeWiiMote)
 			controlText = GetWPAD_ButtonName( button );
 
-		else if(type == TypeWiiClassic)
+		else if(type == TypeWiiClassic || type == TypeWiiUPro)
 			controlText = GetClassic_ButtonName( button );
 
 		else if(type == TypeGCPad)
@@ -185,7 +185,7 @@ std::string AppControls::ControlButtonsToString(int type, u32 button)
 			if(type == TypeWiiMote)
 				controlText += GetWPAD_ButtonName( Bit );
 
-			else if(type == TypeWiiClassic)
+			else if(type == TypeWiiClassic || type == TypeWiiUPro)
 				controlText += GetClassic_ButtonName( Bit );
 
 			else if(type == TypeGCPad)

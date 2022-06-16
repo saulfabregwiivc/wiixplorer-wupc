@@ -24,6 +24,7 @@ GuiTrigger userInput[4];
  ***************************************************************************/
 void UpdatePads()
 {
+	WUPC_UpdateButtonStats();
 	WPAD_ScanPads();
 	PAD_ScanPads();
 
@@ -40,6 +41,14 @@ void UpdatePads()
 		userInput[i].pad.substickY = PAD_SubStickY(i);
 		userInput[i].pad.triggerL = PAD_TriggerL(i);
 		userInput[i].pad.triggerR = PAD_TriggerR(i);
+
+		userInput[i].wupc.btns_d = WUPC_ButtonsDown(i);
+		userInput[i].wupc.btns_h = WUPC_ButtonsHeld(i);
+		userInput[i].wupc.btns_u = WUPC_ButtonsUp(i);
+		userInput[i].wupc.stickX = WUPC_lStickX(i);
+		userInput[i].wupc.stickY = WUPC_lStickY(i);
+		userInput[i].wupc.substickX = WUPC_rStickX(i);
+		userInput[i].wupc.substickY = WUPC_rStickY(i);
 
 		if(Settings.Rumble)
 			DoRumble(i);
@@ -67,6 +76,7 @@ extern "C" void __Wpad_PowerCallback(s32 chan UNUSED)
 void SetupPads()
 {
 	PAD_Init();
+	WUPC_Init();
 	WPAD_Init();
 
 	WPAD_SetPowerButtonCallback(__Wpad_PowerCallback);
@@ -85,6 +95,7 @@ void SetupPads()
 void ShutdownPads()
 {
 	ShutoffRumble();
+	WUPC_Shutdown();
 	WPAD_Shutdown();
 }
 
@@ -103,6 +114,7 @@ void DoRumble(int i)
 {
 	if(rumbleRequest[i] && rumbleCount[i] == 0)
 	{
+		WUPC_Rumble(i, 1);
 		WPAD_Rumble(i, 1); // rumble on
 		rumbleRequest[i] = 0;
 		rumbleCount[i] = 8;
@@ -126,6 +138,7 @@ void ShutoffRumble()
 {
 	for(int i=0;i<4;i++)
 	{
+		WUPC_Rumble(i, 0);
 		WPAD_Rumble(i, 0);
 		rumbleCount[i] = 0;
 	}

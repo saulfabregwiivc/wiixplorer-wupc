@@ -33,6 +33,7 @@ GuiTrigger::GuiTrigger()
 	chan = -1;
 	memset(&wpad, 0, sizeof(WPADData));
 	memset(&pad, 0, sizeof(PADData));
+	memset(&wupc, 0, sizeof(WUPCFullData));
 }
 
 /**
@@ -52,6 +53,7 @@ void GuiTrigger::SetSimpleTrigger(s32 ch, u32 wiibtns, u16 gcbtns)
 	type = TRIGGER_SIMPLE;
 	chan = ch;
 	wpad.btns_d = wiibtns;
+	wupc.btns_d = wiibtns;
 	pad.btns_d = gcbtns;
 }
 
@@ -66,6 +68,8 @@ void GuiTrigger::SetHeldTrigger(s32 ch, u32 wiibtns, u16 gcbtns)
 	chan = ch;
 	wpad.btns_d = wiibtns;
 	wpad.btns_h = wiibtns;
+	wupc.btns_d = wiibtns;
+	wupc.btns_h = wiibtns;
 	pad.btns_d = gcbtns;
 	pad.btns_h = gcbtns;
 }
@@ -79,6 +83,8 @@ void GuiTrigger::SetButtonOnlyHeldTrigger(s32 ch, u32 wiibtns, u16 gcbtns)
 	chan = ch;
 	wpad.btns_d = wiibtns;
 	wpad.btns_h = wiibtns;
+	wupc.btns_d = wiibtns;
+	wupc.btns_h = wiibtns;
 	pad.btns_d = gcbtns;
 	pad.btns_h = gcbtns;
 }
@@ -92,6 +98,7 @@ void GuiTrigger::SetButtonOnlyTrigger(s32 ch, u32 wiibtns, u16 gcbtns)
 	type = TRIGGER_BUTTON_ONLY;
 	chan = ch;
 	wpad.btns_d = wiibtns;
+	wupc.btns_d = wiibtns;
 	pad.btns_d = gcbtns;
 }
 
@@ -150,9 +157,9 @@ s8 GuiTrigger::WPAD_Stick(u8 right, int axis)
 bool GuiTrigger::Left()
 {
 	u32 wiibtn = WiiControls.LeftButton;
-
+	u32 wupcbtn = (wupc.btns_d | wupc.btns_h) & (ClassicControls.LeftButton << 16);
 	if(((wpad.btns_d | wpad.btns_h) & (wiibtn | (ClassicControls.LeftButton << 16)))
-			|| ((pad.btns_d | pad.btns_h) & GCControls.LeftButton))
+			|| ((pad.btns_d | pad.btns_h) & GCControls.LeftButton) || wupcbtn)
 	{
 		if((wpad.btns_d & (wiibtn | (ClassicControls.LeftButton << 16)))
 			|| (pad.btns_d & GCControls.LeftButton))
@@ -177,9 +184,10 @@ bool GuiTrigger::Left()
 bool GuiTrigger::Right()
 {
 	u32 wiibtn = WiiControls.RightButton;
+	u32 wupcbtn = (wupc.btns_d | wupc.btns_h) & (ClassicControls.RightButton << 16);
 
 	if(((wpad.btns_d | wpad.btns_h) & (wiibtn | (ClassicControls.RightButton << 16)))
-			|| ((pad.btns_d | pad.btns_h) & GCControls.RightButton))
+		|| ((pad.btns_d | pad.btns_h) & GCControls.RightButton) || wupcbtn)
 	{
 		if((wpad.btns_d & (wiibtn | (ClassicControls.RightButton << 16)))
 			|| (pad.btns_d & GCControls.RightButton))
@@ -204,9 +212,10 @@ bool GuiTrigger::Right()
 bool GuiTrigger::Up()
 {
 	u32 wiibtn = WiiControls.UpButton;
+	u32 wupcbtn = (wupc.btns_d | wupc.btns_h) & (ClassicControls.UpButton << 16);
 
 	if(((wpad.btns_d | wpad.btns_h) & (wiibtn | (ClassicControls.UpButton << 16)))
-			|| ((pad.btns_d | pad.btns_h) & GCControls.UpButton))
+		|| ((pad.btns_d | pad.btns_h) & GCControls.UpButton) || wupcbtn)
 	{
 		if((wpad.btns_d & (wiibtn | (ClassicControls.UpButton << 16)))
 			|| (pad.btns_d & GCControls.UpButton))
@@ -231,9 +240,10 @@ bool GuiTrigger::Up()
 bool GuiTrigger::Down()
 {
 	u32 wiibtn = WiiControls.DownButton;
+	u32 wupcbtn = (wupc.btns_d | wupc.btns_h) & (ClassicControls.DownButton << 16);
 
 	if(((wpad.btns_d | wpad.btns_h) & (wiibtn | (ClassicControls.DownButton << 16)))
-			|| ((pad.btns_d | pad.btns_h) & GCControls.DownButton))
+		|| ((pad.btns_d | pad.btns_h) & GCControls.DownButton) || wupcbtn)
 	{
 		if((wpad.btns_d & (wiibtn | (ClassicControls.DownButton << 16)))
 			|| (pad.btns_d & GCControls.DownButton))

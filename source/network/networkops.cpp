@@ -57,7 +57,7 @@ void Initialize_Network(void)
 
 	s32 result;
 
-	result = if_config(IP, NULL, NULL, true);
+	result = if_config(IP, NULL, NULL, true, 3);
 
 	if(result < 0) {
 		networkinit = false;

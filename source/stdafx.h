@@ -10,6 +10,7 @@
 #include <wchar.h>
 #include <math.h>
 #include <wiiuse/wpad.h>
+#include <wupc/wupc.h>
 #include <gd.h>
 #include "Tools/gecko.h"
 #include "Tools/wifi_gecko.h"

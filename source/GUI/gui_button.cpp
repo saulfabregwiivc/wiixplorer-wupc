@@ -277,7 +277,7 @@ void GuiButton::Update(GuiTrigger * t)
 		{
 			if(trigger[i] && (trigger[i]->chan == -1 || trigger[i]->chan == t->chan))
 			{
-				if((t->wpad.btns_d & trigger[i]->wpad.btns_d) || (t->pad.btns_d & trigger[i]->pad.btns_d))
+				if((t->wpad.btns_d & trigger[i]->wpad.btns_d) || (t->pad.btns_d & trigger[i]->pad.btns_d) || (t->wupc.btns_d & trigger[i]->wupc.btns_d))
 				{
 					if(state == STATE_SELECTED)
 					{
@@ -324,7 +324,7 @@ void GuiButton::Update(GuiTrigger * t)
 			if(held || !trigger[i])
 				continue;
 
-			if((t->wpad.btns_h & trigger[i]->wpad.btns_h) || (t->pad.btns_h & trigger[i]->pad.btns_h))
+			if((t->wpad.btns_h & trigger[i]->wpad.btns_h) || (t->pad.btns_h & trigger[i]->pad.btns_h) || (t->wupc.btns_h & trigger[i]->wupc.btns_h))
 			{
 				//! TRIGGER_BUTTON_ONLY_HELD is executed on every chan
 				if(trigger[i]->type == TRIGGER_BUTTON_ONLY_HELD)

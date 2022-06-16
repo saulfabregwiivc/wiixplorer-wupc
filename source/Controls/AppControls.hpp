@@ -74,6 +74,7 @@ class AppControls
 		{
 			TypeWiiMote,
 			TypeWiiClassic,
+			TypeWiiUPro,
 			TypeGCPad,
 		};
 	protected:

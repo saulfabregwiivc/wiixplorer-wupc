@@ -298,13 +298,24 @@ void HomeMenu::OnButtonClick(GuiButton *sender, int pointer UNUSED, const POINT 
 void HomeMenu::Draw()
 {
 	//! check if a WiiMote was connected every 60 frames = ~1s
+	struct WUPCData *wupc = NULL;
+
 	if((frameCount % 60) == 0)
 	{
 		for (int i = 0; i < 4; i++)
 		{
 			if (WPAD_Probe(i, NULL) == WPAD_ERR_NONE)
 			{
-				int level = ((WPAD_BatteryLevel(i) * 4) / 100) ;
+				int level = ((WPAD_BatteryLevel(i) * 4) / 100);
+				if (level > 4) level = 4;
+
+				BatteryImg[i]->SetTileHorizontal(level);
+				BatteryBtn[i]->SetAlpha(255);
+				PlayerText[i]->SetAlpha(255);
+			}
+			else if ((wupc = WUPC_Data(i)) != NULL)
+			{
+				int level = wupc->battery;
 				if (level > 4) level = 4;
 
 				BatteryImg[i]->SetTileHorizontal(level);
