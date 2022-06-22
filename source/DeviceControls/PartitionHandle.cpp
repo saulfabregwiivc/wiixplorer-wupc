@@ -238,7 +238,7 @@ int PartitionHandle::FindPartitions()
 	}
 
 	// If this is the devices master boot record
-	if (mbr->signature != MBR_SIGNATURE) {
+	if (mbr->signature != MBR_SIGNATURE && mbr->signature != MBR_SIGNATURE_MOD ) {
 		free(mbr);
 		return -1;
 	}
