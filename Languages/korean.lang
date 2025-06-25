@@ -1,4 +1,4 @@
-# WiiXplorer language source file.
+# WiiXplorer 언어 소스 파일.
 # 
 # don't delete this line (é).
 msgid ""
@@ -7,34 +7,34 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-28 19:02+0200\n"
 "PO-Revision-Date: 2009-07-18 15:18+0200\n"
-"Last-Translator: \n"
+"Last-Translator: DDinghoya\n"
 "Language-Team: \n"
-"Language: \n"
+"Language: Korean\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #, c-format
 msgid "%i error(s) encountered. Check MD5.log for more details."
-msgstr ""
+msgstr "%i에 오류(들)가 발생했습니다. 자세한 내용은 MD5.log을 확인바랍니다."
 
 msgid "(Best compression)"
-msgstr ""
+msgstr "(최대 압축)"
 
 msgid "(Best speed)"
-msgstr ""
+msgstr "(최고 속도)"
 
 msgid "(Default)"
-msgstr ""
+msgstr "(기본값)"
 
 msgid "(Store)"
-msgstr ""
+msgstr "(상점)"
 
 msgid "(only this session)"
-msgstr ""
+msgstr "(이 세션만)"
 
 msgid "(read only)"
-msgstr ""
+msgstr "(읽기 전용)"
 
 msgid "--------------------------------------------------\n"
 msgstr ""
@@ -45,1209 +45,1209 @@ msgid ""
 msgstr ""
 
 msgid "12H"
-msgstr ""
+msgstr "12시간"
 
 msgid "24H"
-msgstr ""
+msgstr "24시간"
 
 msgid "7z decompression failed:"
-msgstr ""
+msgstr "7z 압축 해제 실패:"
 
 msgid "A task is in progress. Can't run update check right now."
-msgstr ""
+msgstr "작업이 진행 중입니다. 지금 업데이트 확인을 실행할 수 없습니다."
 
 msgid "ASDFGHJKL:\""
 msgstr ""
 
 msgid "Accept"
-msgstr ""
+msgstr "동의"
 
 msgid "Action cancelled."
-msgstr ""
+msgstr "작업이 취소되었습니다."
 
 msgid "Active (Bootable):"
-msgstr ""
+msgstr "활성 (부팅):"
 
 msgid "Add Link"
-msgstr ""
+msgstr "링크 추가"
 
 msgid "Add to Playlist"
-msgstr ""
+msgstr "재생목록에서 추가"
 
 msgid "Add to zip"
-msgstr ""
+msgstr "Zip 파일에서 추가"
 
 msgid "Alpha Blending"
-msgstr ""
+msgstr "알파 블렌딩"
 
 msgid "App Default"
-msgstr ""
+msgstr "응용 프로그램 기본값"
 
 msgid "Apps"
-msgstr ""
+msgstr "응용 프로그램"
 
 msgid "Archive Files"
-msgstr ""
+msgstr "압축 파일들"
 
 msgid "Are you sure you have that IOS installed?"
-msgstr ""
+msgstr "IOS를 설치했는지 확실합니까?"
 
 msgid "Audio Files"
-msgstr ""
+msgstr "오디오 파일들"
 
 msgid "Auto Connect"
-msgstr ""
+msgstr "자동 접속"
 
 msgid "Auto Start:"
-msgstr ""
+msgstr "자동 시작:"
 
 msgid "BMP Compression"
-msgstr ""
+msgstr "BMP 압축"
 
 msgid "Back"
-msgstr ""
+msgstr "뒤로 가기"
 
 msgid "Back Button"
-msgstr ""
+msgstr "뒤로 가기 버튼"
 
 msgid "Back in Directory Button"
-msgstr ""
+msgstr "폴더에서 뒤로 가기 버튼"
 
 msgid "Background Bottom/Left"
-msgstr ""
+msgstr "배경 버튼/왼쪽"
 
 msgid "Background Bottom/Right"
-msgstr ""
+msgstr "배경 버튼/오른쪽"
 
 msgid "Background Upper/Left"
-msgstr ""
+msgstr "배경 위/왼쪽"
 
 msgid "Background Upper/Right"
-msgstr ""
+msgstr "배경 위/오른쪽"
 
 msgid "Blue"
-msgstr ""
+msgstr "파란"
 
 msgid "Boot IOS"
-msgstr ""
+msgstr "부팅 IOS"
 
 msgid "Boot Settings"
-msgstr ""
+msgstr "부팅 설정"
 
 msgid "BootMii"
 msgstr ""
 
 msgid "Both"
-msgstr ""
+msgstr "둘 다"
 
 msgid "Browse"
-msgstr ""
+msgstr "찾아보기"
 
 msgid "Browser Mode"
-msgstr ""
+msgstr "브라우저 모드"
 
 msgid "Button Hold Scroll"
-msgstr ""
+msgstr "버튼 홀드 스크롤"
 
 msgid "CRC of extracted file does not match. Wrong password?"
-msgstr ""
+msgstr "추출된 파일의 CRC가 일치하지 않습니다. 잘못된 비밀번호입니까?"
 
 msgid "Calculating MD5"
-msgstr ""
+msgstr "MD5 계산 중"
 
 msgid "Calculating delete size..."
-msgstr ""
+msgstr "삭제 크기 계산 중..."
 
 msgid "Calculating extract size..."
-msgstr ""
+msgstr "압축 해제 크기 계산 중..."
 
 msgid "Calculating total size..."
-msgstr ""
+msgstr "총 크기 계산 중..."
 
 msgid "Calculating transfer size..."
-msgstr ""
+msgstr "이동 크기 계산 중..."
 
 msgid "Can not open the file"
-msgstr ""
+msgstr "파일을 열 수 없습니다."
 
 msgid "Can't browse that path."
-msgstr ""
+msgstr "경로를 검색할 수 없습니다."
 
 msgid "Can't connect to update server"
-msgstr ""
+msgstr "업데이트 서버에 접속을 할 수 없습니다."
 
 msgid "Can't find the right partition."
-msgstr ""
+msgstr "올바른 파티션을 찾을 수 없습니다."
 
 msgid "Can't load page."
-msgstr ""
+msgstr "페이지를 불러올 수 없습니다."
 
 msgid "Can't open file."
-msgstr ""
+msgstr "파일을 열 수 없습니다."
 
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #, c-format
 msgid "Cannot close file %s"
-msgstr ""
+msgstr "%s 파일을 닫을 수 없습니다."
 
 msgid "Cannot create directory: "
-msgstr ""
+msgstr "폴더를 생성할 수 없음: "
 
 #, c-format
 msgid "Cannot open file %s"
-msgstr ""
+msgstr "%s 파일을 열 수 없습니다."
 
 msgid "Cannot read from the drive."
-msgstr ""
+msgstr "드라이브에서 읽을 수 없습니다."
 
 msgid "Cannot write to destination."
-msgstr ""
+msgstr "대상에 기록할 수 없습니다."
 
 msgid "Cannot write to the drive."
-msgstr ""
+msgstr "드라이브로 기록할 수 없습니다."
 
 msgid "Cannot write to the file."
-msgstr ""
+msgstr "파일에 기록할 수 없습니다."
 
 msgid "Cannot write to this path:"
-msgstr ""
+msgstr "이 경로에 기록할 수 없음:"
 
 msgid "Caps"
 msgstr ""
 
 msgid "Channels"
-msgstr ""
+msgstr "채널"
 
 #, c-format
 msgid "Checked %i file(s) in %i folder(s).\n"
-msgstr ""
+msgstr "%i 폴더(들)에 %i 파일들이 확인되었습니다.\n"
 
 msgid "Checking directory:"
-msgstr ""
+msgstr "폴더 확인 중:"
 
 msgid "Checking file:"
-msgstr ""
+msgstr "파일 확인 중:"
 
 msgid "Checking for updates"
-msgstr ""
+msgstr "업데이트 확인 중"
 
 msgid "Clear"
-msgstr ""
+msgstr "지움"
 
 msgid "Clear List"
-msgstr ""
+msgstr "목록 지움"
 
 msgid "Click Button"
-msgstr ""
+msgstr "클릭 버튼"
 
 #, c-format
 msgid "Client %i"
-msgstr ""
+msgstr "클라이언드 %i"
 
 msgid "Client:"
-msgstr ""
+msgstr "클라이언트:"
 
 msgid "Clock Mode"
-msgstr ""
+msgstr "시계 모드"
 
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 msgid "Coders:"
-msgstr ""
+msgstr "코더:"
 
 msgid "Color Settings"
-msgstr ""
+msgstr "색상 설정"
 
 msgid "Compressed Size:"
-msgstr ""
+msgstr "압축 크기:"
 
 msgid "Compressing item(s):"
-msgstr ""
+msgstr "아이템(들) 압축 중:"
 
 msgid "Console Default"
-msgstr ""
+msgstr "콘솔 기본값"
 
 msgid "Context Menu Button"
-msgstr ""
+msgstr "Context 메뉴 버튼"
 
 msgid "Controls Settings"
-msgstr ""
+msgstr "제어 설정"
 
 msgid "Convert"
-msgstr ""
+msgstr "변환"
 
 msgid "Converting image"
-msgstr ""
+msgstr "이미지 변환 중"
 
 msgid "Converting image..."
-msgstr ""
+msgstr "이미지 변환 중..."
 
 msgid "Copy"
-msgstr ""
+msgstr "복사"
 
 msgid "Copy Thread Background Priority"
-msgstr ""
+msgstr "배경 우선 순위 쓰레드 복사"
 
 msgid "Copy Thread Priority"
-msgstr ""
+msgstr "쓰레드 우선 순위 복사"
 
 msgid "Copy current marked item(s)?"
-msgstr ""
+msgstr "현재 표시된 아이템(들)을 복사합니까?"
 
 msgid "Copy of "
-msgstr ""
+msgstr "다른 이름으로 복사 "
 
 msgid "Copying item(s):"
-msgstr ""
+msgstr "아이템(들) 복사 중:"
 
 msgid "Could not connect to the server."
-msgstr ""
+msgstr "서버에 접속할 수 없습니다."
 
 msgid "Could not convert image."
-msgstr ""
+msgstr "이미지를 변환할 수 없습니다."
 
 msgid "Could not decompress the file."
-msgstr ""
+msgstr "파일을 압축 해제 할 수 없습니다."
 
 msgid "Could not download file."
-msgstr ""
+msgstr "파일을 다운로드 할 수 없습니다."
 
 #, c-format
 msgid "Could not find IOS %i"
-msgstr ""
+msgstr "%i IOS를 찾을 수 없습니다."
 
 msgid "Could not load file."
-msgstr ""
+msgstr "파일을 불러올 수 없습니다."
 
 msgid "Could not load image."
-msgstr ""
+msgstr "이미지를 불러올 수 없습니다."
 
 msgid "Could not load text file."
-msgstr ""
+msgstr "텍스트 파일을 불러올 수 없습니다."
 
 msgid "Could not parse directory."
-msgstr ""
+msgstr "폴더를 분석할 수 없습니다."
 
 msgid "Credits"
-msgstr ""
+msgstr "크레딧"
 
 msgid "Currently a process is running."
-msgstr ""
+msgstr "현재 프로세스가 실행 중 입니다."
 
 msgid "Customfont Path"
-msgstr ""
+msgstr "사용자 정의 폰트 경로"
 
 msgid "Cut"
-msgstr ""
+msgstr "잘라내기"
 
 msgid "Cut current marked item(s)?"
-msgstr ""
+msgstr "현재 표시된 아이템(들)을 잘라내겠습니까?"
 
 msgid "Default"
-msgstr ""
+msgstr "기본값"
 
 msgid "Delete"
-msgstr ""
+msgstr "삭제"
 
 msgid "Delete Temp Path on Exit"
-msgstr ""
+msgstr "종료 시 임시 경로 삭제"
 
 msgid "Delete the selected item(s) and its content?"
-msgstr ""
+msgstr "선택된 아이템(들)과 그 내용을 삭제하겠습니까?"
 
 msgid "Deleting item(s):"
-msgstr ""
+msgstr "아이템(들) 삭제 중:"
 
 msgid "Demark All Items Button"
-msgstr ""
+msgstr "모든 아이템 표시 해제 버튼"
 
 msgid "Demark Item Button"
-msgstr ""
+msgstr "아이템 표시 해제 버튼"
 
 msgid "Designer:"
-msgstr ""
+msgstr "디자이너:"
 
 msgid "Device"
-msgstr ""
+msgstr "장치"
 
 msgid "Directory .."
-msgstr ""
+msgstr "폴더 .."
 
 msgid "Disconnect Client"
-msgstr ""
+msgstr "클라이언트 연결 끊기"
 
 msgid "Disconnect NFS"
-msgstr ""
+msgstr "NFS 연결 끊기"
 
 msgid "Disconnect SMB"
-msgstr ""
+msgstr "SMB 연결 끊기"
 
 msgid "Disk is Full"
-msgstr ""
+msgstr "디스크가 가득 찼습니다."
 
 msgid "Do you want to add an URL?"
-msgstr ""
+msgstr "URL 추가 하시겠습니까?"
 
 msgid "Do you want to append this delete to the queue?"
-msgstr ""
+msgstr "대기열에 이 삭제하기를 추가 하겠습니까?"
 
 msgid "Do you want to append this paste to the queue?"
-msgstr ""
+msgstr "대기열에 이 붙여넣기를 추가 하겠습니까?"
 
 msgid "Do you want to append this process to the queue?"
-msgstr ""
+msgstr "대기열에 이 프로세스를 추가 하겠습니까?"
 
 msgid "Do you want to boot file now?"
-msgstr ""
+msgstr "지금 파일을 부팅하겠습니까?"
 
 msgid "Do you want to boot:"
-msgstr ""
+msgstr "부팅하겠습니까:"
 
 msgid "Do you want to change the font?"
-msgstr ""
+msgstr "폰트를 변경 하겠습니까?"
 
 msgid "Do you want to delete this file:"
-msgstr ""
+msgstr "이 파일을 삭제 하겠습니까?"
 
 msgid "Do you want to disconnect the FTP client?"
-msgstr ""
+msgstr "FTP 클라이언트를 연결 해제 하겠습니까?"
 
 msgid "Do you want to disconnect this NFS?"
-msgstr ""
+msgstr "이 NFS를 연결 해제 하겠습니까?"
 
 msgid "Do you want to disconnect this SMB?"
-msgstr ""
+msgstr "이 SMB를 연결 해제 하겠습니까?"
 
 msgid "Do you want to download new language files?"
-msgstr ""
+msgstr "새로운 언어 파일을 다운로드 하겠습니까?"
 
 msgid "Do you want to exit WiiXplorer?"
-msgstr ""
+msgstr "WiiXplorer를 종료 하겠습니까?"
 
 #, c-format
 msgid "Do you want to load file from: %s ?"
-msgstr ""
+msgstr "%s에서 파일을 불러오겠습니까?"
 
 msgid "Do you want to load the default language?"
-msgstr ""
+msgstr "기본 언어를 불러오겠습니까?"
 
 msgid "Do you want to load this language ?"
-msgstr ""
+msgstr "이 언어를 불러오겠습니까 ?"
 
 msgid "Do you want to open this file in TextEditor?"
-msgstr ""
+msgstr "문서편집기에 이 파일을 여시겠습니까?"
 
 msgid "Do you want to playback this file?"
-msgstr ""
+msgstr "이 파일을 재생 하겠습니까?"
 
 msgid "Do you want to reboot WiiXplorer?"
-msgstr ""
+msgstr "WiiXplorer를 재부팅 하겠습니까?"
 
 msgid "Do you want to reboot now ?"
-msgstr ""
+msgstr "지금 재부팅 하겠습니까 ?"
 
 msgid "Do you want to reconnect this NFS?"
-msgstr ""
+msgstr "이 NFS를 재접속 하겠습니까?"
 
 msgid "Do you want to reconnect this SMB?"
-msgstr ""
+msgstr "이 SMB를 재접속 하겠습니까?"
 
 msgid "Do you want to reconnect to the FTP client?"
-msgstr ""
+msgstr "FTP 클라이언트에 재접속 하겠습니까?"
 
 msgid "Do you want to remount all devices?"
-msgstr ""
+msgstr "모든 장치를 다시 마운트 하겠습니까?"
 
 msgid "Do you want to replace this file?"
-msgstr ""
+msgstr "이 파일을 대체 하겠습니까?"
 
 msgid "Do you want to reset the control settings?"
-msgstr ""
+msgstr "콘솔 설정을 리셋 하겠습니까?"
 
 msgid "Do you want to reset the settings?"
-msgstr ""
+msgstr "설정을 리셋 하겠습니까?"
 
 msgid "Do you want to save changes?"
-msgstr ""
+msgstr "저장을 변경 하겠습니까?"
 
 msgid "Do you want to start BootMii?"
-msgstr ""
+msgstr "BootMii를 시작 하겠습니까?"
 
 msgid "Do you want to start the app?"
-msgstr ""
+msgstr "응용 프로그램을 시작 하겠습니까?"
 
 msgid "Do you want to start the channel?"
-msgstr ""
+msgstr "채널을 시작 하겠습니까?"
 
 msgid "Do you want to update now ?"
-msgstr ""
+msgstr "지금 업데이트 하겠습니까?"
 
 msgid "Done"
-msgstr ""
+msgstr "완료"
 
 msgid "Down Button"
-msgstr ""
+msgstr "아래쪽 버튼"
 
 msgid "Download Link"
-msgstr ""
+msgstr "링크 다운로드"
 
 msgid "Downloading file..."
-msgstr ""
+msgstr "파일 다운로드 중..."
 
 msgid "Downloading files..."
-msgstr ""
+msgstr "파일들 다운로드 중..."
 
 msgid "Edit Textline Button"
-msgstr ""
+msgstr "텍스트라인 버튼 수정"
 
 #, c-format
 msgid "Encountered %i error(s).\n"
-msgstr ""
+msgstr "%i 오류(들)가 발생하였습니다.\n"
 
 msgid "Enter"
-msgstr ""
+msgstr "입력"
 
 msgid "Error"
-msgstr ""
+msgstr "오류"
 
 #, c-format
 msgid "Error - %s is not a file\n"
-msgstr ""
+msgstr "오류 - %s 는 파일이 아닙니다.\n"
 
 #, c-format
 msgid "Error - Could not open file: %s\n"
-msgstr ""
+msgstr "오류 - 파일을 열 수 없습니다: %s\n"
 
 #, c-format
 msgid "Error - Could not parse directory: %s\n"
-msgstr ""
+msgstr "오류 - 폴더를 검증할 수 없습니다: %s\n"
 
 #, c-format
 msgid "Error - Not enough memory on: %s\n"
-msgstr ""
+msgstr "오류 - 메모리가 충분하지 않습니다: %s\n"
 
 #, c-format
 msgid "Error opening %s"
-msgstr ""
+msgstr "%s 여는 중 오류 발생"
 
 #, c-format
 msgid "Error opening %s in %s"
-msgstr ""
+msgstr "%s에 %s를 여는 중 오류가 발생하였습니다."
 
 #, c-format
 msgid "Error received from %s in %s"
-msgstr ""
+msgstr "%s에 %s에서 오류를 접수하였습니다."
 
 msgid "Error while reading file."
-msgstr ""
+msgstr "파일 읽는 중 오류가 발생하였습니다."
 
 msgid "Error:"
-msgstr ""
+msgstr "오류:"
 
 msgid "Exit"
-msgstr ""
+msgstr "종료"
 
 msgid "Exit WiiXplorer?"
-msgstr ""
+msgstr "WiiXplorer를 종료하겠습니까?"
 
 msgid "Explorer Settings"
-msgstr ""
+msgstr "탐색기 설정"
 
 msgid "Extract"
-msgstr ""
+msgstr "압축 해제"
 
 msgid "Extract All"
-msgstr ""
+msgstr "모두 압축 해재"
 
 msgid "Extract error code:"
-msgstr ""
+msgstr "압축 오류 코드:"
 
 msgid "Extract file to temp path and execute?"
-msgstr ""
+msgstr "임시 경로에 파일을 압축 해제하고 실행하겠습니까?"
 
 msgid "Extract full archive?"
-msgstr ""
+msgstr "전체 아이템을 압축 해재하겠습니까?"
 
 msgid "Extract the selected item(s)?"
-msgstr ""
+msgstr "선택된 아이템(들)을 압축 해재하겠습니까?"
 
 msgid "Extracting file..."
-msgstr ""
+msgstr "파일 압축 해제 중..."
 
 msgid "Extracting item(s):"
-msgstr ""
+msgstr "아이템(들) 압축 해제:"
 
 msgid "FAT32 must have at least 65536 clusters"
-msgstr ""
+msgstr "FAT32는 적어도 65536 클러스트가 있어야 합니다."
 
 msgid "FTP Client Settings"
-msgstr ""
+msgstr "FTP 클라이언트 설정"
 
 msgid "FTP Path:"
-msgstr ""
+msgstr "FTP 경로:"
 
 msgid "FTP Port:"
-msgstr ""
+msgstr "FTP 포트:"
 
 msgid "FTP Server"
-msgstr ""
+msgstr "FTP 서버"
 
 msgid "FTP Server Settings"
-msgstr ""
+msgstr "FTP 서버 설정"
 
 msgid "FTP Server is running and listening on port"
-msgstr ""
+msgstr "FTP 서버는 포트에서 실행 및 수신대기"
 
 msgid "FTP Started.\n"
-msgstr ""
+msgstr "FTP가 시작되었습니다.\n"
 
 msgid "Fade Speed"
-msgstr ""
+msgstr "바래짐 속도"
 
 msgid "Failed adding some item(s)."
-msgstr ""
+msgstr "일부 아이템(들) 추가를 실패하였습니다."
 
 msgid "Failed copying some item(s)."
-msgstr ""
+msgstr "일부 아이템(들) 복사를 실패하였습니다."
 
 msgid "Failed deleting some item(s)."
-msgstr ""
+msgstr "일부 아이템(들) 삭제를 실패하였습니다."
 
 msgid "Failed extracting some item(s)."
-msgstr ""
+msgstr "일부 아이템(들) 압축 해제를 실패하였습니다."
 
 msgid "Failed extracting the item(s)."
-msgstr ""
+msgstr "아이템(들) 압축 해제를 실패하였습니다."
 
 msgid "Failed formatting the partition."
-msgstr ""
+msgstr "파티션 포맷을 실패하였습니다."
 
 msgid "Failed loading the file."
-msgstr ""
+msgstr "파일 불러오기를 실패하였습니다."
 
 msgid "Failed moving some item(s)."
-msgstr ""
+msgstr "일부 아이템(들) 이동이 실패하였습니다."
 
 msgid "Failed reading from network"
-msgstr ""
+msgstr "네트워크에서 읽기를 실패하였습니다."
 
 msgid "Failed renaming item"
-msgstr ""
+msgstr "아이템 이름 바꾸기를 실패하였습니다."
 
 msgid "Failed to get the Changelog."
-msgstr ""
+msgstr "변경사항 가져오기를 실패하였습니다."
 
 msgid "Failed to initialize network."
-msgstr ""
+msgstr "네트워크 초기화를 실패하였습니다."
 
 msgid "Failed to load the channel."
-msgstr ""
+msgstr "채널 불러오기를 실패하였습니다."
 
 msgid "Failed to read file data."
-msgstr ""
+msgstr "파일 데이터 읽기를 실패하였습니다."
 
 msgid "Failed to write EBR."
-msgstr ""
+msgstr "EBR 쓰기를 실패하였습니다."
 
 msgid "Failed to write MBR."
-msgstr ""
+msgstr "MBR 쓰기를 실패하였습니다."
 
 #, c-format
 msgid "Fatal error: %i."
-msgstr ""
+msgstr "치명적인 오류: %i."
 
 msgid "File Extensions"
-msgstr ""
+msgstr "파일 확장자"
 
 msgid "File Extensions Settings"
-msgstr ""
+msgstr "파일 확장자 설정"
 
 msgid "File System:"
-msgstr ""
+msgstr "파일 시스템:"
 
 msgid "File already exists:"
-msgstr ""
+msgstr "파일이 이미 존재:"
 
 msgid "File could not be deleted."
-msgstr ""
+msgstr "파일을 삭제할 수 없습니다."
 
 msgid "File is corrupt (CRC mismatch)."
-msgstr ""
+msgstr "파일이 손상되었습니다 (CRC 불일치). "
 
 msgid "File is corrupt."
-msgstr ""
+msgstr "파일이 손상되었습니다."
 
 msgid "File is too big."
-msgstr ""
+msgstr "파일이 너무 큽니다."
 
 msgid "File uses too high of compression settings (dictionary size is too large)."
-msgstr ""
+msgstr "파일 압축 설정을 너무 높게 사용합니다 (폴더 크기가 너무 큽니다)."
 
 msgid "File uses unsupported compression settings."
-msgstr ""
+msgstr "파일이 미지원 압축 설정을 사용합니다."
 
 msgid "File was edited."
-msgstr ""
+msgstr "파일이 수정되었습니다."
 
 msgid "Filepath:"
-msgstr ""
+msgstr "파일경로:"
 
 #, c-format
 msgid "Filepath:  %s"
-msgstr ""
+msgstr "파일경로:  %s"
 
 msgid "Files:"
-msgstr ""
+msgstr "파일들:"
 
 msgid "Filesize doesn't match."
-msgstr ""
+msgstr "파일크기가 일치하지 않습니다."
 
 msgid "Filesize is 0 Byte."
-msgstr ""
+msgstr "파일크기는 0 바이트 입니다."
 
 msgid "Filetype:"
-msgstr ""
+msgstr "파일타입:"
 
 msgid "Flip Mode"
-msgstr ""
+msgstr "뒤집기 모드"
 
 msgid "Folder"
-msgstr ""
+msgstr "폴더"
 
 msgid "Folder(s)"
-msgstr ""
+msgstr "폴더(들)"
 
 msgid "Font Files"
-msgstr ""
+msgstr "폰트 파일들"
 
 msgid "Fontpath changed."
-msgstr ""
+msgstr "폰트경로가 변경되었습니다."
 
 msgid "Format"
-msgstr ""
+msgstr "포맷"
 
 msgid "Format Partition?"
-msgstr ""
+msgstr "파티션을 포맷하겠습니까?"
 
 msgid "Formatter"
-msgstr ""
+msgstr "포맷터"
 
 msgid "Formatting partition!"
-msgstr ""
+msgstr "파티션 포맷 중!"
 
 msgid "Free Space:"
-msgstr ""
+msgstr "여유 공간:"
 
 msgid "GC Homebrew"
-msgstr ""
+msgstr "게임큐브 홈브류"
 
 msgid "GC PAD BUTTON A"
-msgstr ""
+msgstr "게임큐브 패드 A 버튼"
 
 msgid "GC PAD BUTTON B"
-msgstr ""
+msgstr "게임큐브 패드 B 버튼"
 
 msgid "GC PAD BUTTON DOWN"
-msgstr ""
+msgstr "게임큐브 패드 아래쪽 버튼"
 
 msgid "GC PAD BUTTON LEFT"
-msgstr ""
+msgstr "게임큐브 패드 왼쪽 버튼"
 
 msgid "GC PAD BUTTON NONE"
-msgstr ""
+msgstr "게임큐브 패드 버튼 없음"
 
 msgid "GC PAD BUTTON RIGHT"
-msgstr ""
+msgstr "게임큐브 패드 오른쪽 버튼"
 
 msgid "GC PAD BUTTON START"
-msgstr ""
+msgstr "게임큐브 패드 시작 버튼"
 
 msgid "GC PAD BUTTON UP"
-msgstr ""
+msgstr "게임큐브 패드 위쪽 버튼"
 
 msgid "GC PAD BUTTON X"
-msgstr ""
+msgstr "게임큐브 패드 X 버튼"
 
 msgid "GC PAD BUTTON Y"
-msgstr ""
+msgstr "게임큐브 패드 Y 버튼"
 
 msgid "GC PAD TRIGGER L"
-msgstr ""
+msgstr "게임큐브 패드 L 버튼"
 
 msgid "GC PAD TRIGGER R"
-msgstr ""
+msgstr "게임큐브 패드 트리거 R"
 
 msgid "GC PAD TRIGGER Z"
-msgstr ""
+msgstr "게임큐브 패드 트리거 Z"
 
 msgid "GC Pad Buttons Setup"
-msgstr ""
+msgstr "게임큐브 패드 설정"
 
 msgid "GC-SD A"
-msgstr ""
+msgstr "게임큐브 SD 카드 A"
 
 msgid "GC-SD B"
-msgstr ""
+msgstr "게임큐브 SD 카드 B"
 
 msgid "GD2 Compression"
-msgstr ""
+msgstr "GD2 압축"
 
 msgid "GUID"
 msgstr ""
 
 msgid "General Settings"
-msgstr ""
+msgstr "일반 설정"
 
 msgid "Getting Changelog..."
-msgstr ""
+msgstr "카탈로그 얻는 중..."
 
 msgid "Getting file list..."
-msgstr ""
+msgstr "파일 목록 얻는 중"
 
 msgid "Go Back"
-msgstr ""
+msgstr "뒤로 가기"
 
 msgid "Green"
-msgstr ""
+msgstr "초록"
 
 msgid "Hashing complete."
-msgstr ""
+msgstr "해쉬가 완료되었습니다."
 
 msgid "Hashing successfully finished."
-msgstr ""
+msgstr "해쉬가 성공적으로 종료되었습니다."
 
 msgid "Hide System Files/Folders"
-msgstr ""
+msgstr "시스템 파일들/폴더들 숨김"
 
 msgid "High"
-msgstr ""
+msgstr "높음"
 
 msgid "Highest"
-msgstr ""
+msgstr "가장 높음"
 
 msgid "Home Button"
-msgstr ""
+msgstr "홈 버튼"
 
 msgid "Home Menu"
-msgstr ""
+msgstr "홈 메뉴"
 
 msgid "Homebrew Apps Path"
-msgstr ""
+msgstr "홈브류 응용 프로그램 경로"
 
 msgid "Homebrew Channel"
-msgstr ""
+msgstr "홈브류 채널"
 
 msgid "Homebrew Files"
-msgstr ""
+msgstr "홈브류 파일"
 
 msgid "Horizontal"
-msgstr ""
+msgstr "수평"
 
 msgid "Host:"
-msgstr ""
+msgstr "호스트:"
 
 msgid "How do you want to change the path?"
-msgstr ""
+msgstr "경로를 어떻게 변경 하겠습니까?"
 
 msgid "How do you want to launch this file?"
-msgstr ""
+msgstr "이 파일을 어떻게 실행 하겠습니까?"
 
 msgid "How do you want to load this language file?"
-msgstr ""
+msgstr "이 언어 파일을 어떻게 불러오겠습니까?"
 
 msgid "How do you want to open the file?"
-msgstr ""
+msgstr "어떻게 파일을 열겠습니까?"
 
 msgid "How do you want to proceed?"
-msgstr ""
+msgstr "어떻게 진행 하겠습니까?"
 
 msgid "How should this URL be opened?"
-msgstr ""
+msgstr "이 URL을 어떻게 열겠습니까?"
 
 msgid "Icon Mode"
-msgstr ""
+msgstr "아이콘 모드"
 
 msgid "Idle"
-msgstr ""
+msgstr "대기"
 
 msgid "Image Converter"
-msgstr ""
+msgstr "이미지 컨버터"
 
 msgid "Image Files"
-msgstr ""
+msgstr "이미지 파일"
 
 msgid "Image Heigth"
-msgstr ""
+msgstr "이미지 높이"
 
 msgid "Image Settings"
-msgstr ""
+msgstr "이미지 설정"
 
 msgid "Image Width"
-msgstr ""
+msgstr "이미지 폭"
 
 msgid "Image successfully converted."
-msgstr ""
+msgstr "이미지가 성공적으로 변환되었습니다."
 
 msgid "ImageConverter"
-msgstr ""
+msgstr "이미지컨버터"
 
 msgid "ImageViewer"
-msgstr ""
+msgstr "이미지뷰어"
 
 msgid "Incomming connection."
-msgstr ""
+msgstr "연결되지 않았습니다."
 
 msgid "Input File"
-msgstr ""
+msgstr "입력 파일"
 
 msgid "Interlace"
-msgstr ""
+msgstr "꼬임"
 
 msgid "Internet Channel"
-msgstr ""
+msgstr "인터넷 채널"
 
 msgid "JPEG Quality"
-msgstr ""
+msgstr "JPEG 품질"
 
 msgid "Keyboard Backspace Button"
-msgstr ""
+msgstr "키보드 백스페이스 버튼"
 
 msgid "Keyboard Delete Delay"
-msgstr ""
+msgstr "키보드 삭제 딜레이"
 
 msgid "Keyboard Shift Button"
-msgstr ""
+msgstr "키보드 시프트 버튼"
 
 msgid "Lang."
-msgstr ""
+msgstr "언어."
 
 msgid "Language"
-msgstr ""
+msgstr "언어"
 
 msgid "Language Files"
-msgstr ""
+msgstr "언어 파일들"
 
 msgid "Language Path"
-msgstr ""
+msgstr "언어 경로"
 
 msgid "Language Settings"
-msgstr ""
+msgstr "언어 설정"
 
 msgid "Last access:"
-msgstr ""
+msgstr "마지막 접속:"
 
 msgid "Last change:"
-msgstr ""
+msgstr "마지막 변경:"
 
 msgid "Last modified:"
-msgstr ""
+msgstr "마지막 수정:"
 
 msgid "Left Button"
-msgstr ""
+msgstr "왼쪽 버튼"
 
 msgid "List Mode"
-msgstr ""
+msgstr "목록 모드"
 
 msgid "Listening on TCP port"
-msgstr ""
+msgstr "TCP 포트에서 수신 대기"
 
 msgid "Load"
-msgstr ""
+msgstr "불러오기"
 
 msgid "Load Music to Memory"
-msgstr ""
+msgstr "메모리에 음악 불러오기"
 
 msgid "Loading file:"
-msgstr ""
+msgstr "파일 불러오기:"
 
 msgid "Log was saved in MD5.log"
-msgstr ""
+msgstr "로그는 MD5.log에 저장되었습니다."
 
 msgid "Logical"
-msgstr ""
+msgstr "논리"
 
 msgid "Loop"
-msgstr ""
+msgstr "반복"
 
 msgid "Loop Playlist"
-msgstr ""
+msgstr "재생목록 반복"
 
 msgid "Low"
-msgstr ""
+msgstr "낮음"
 
 msgid "MD5 Check"
-msgstr ""
+msgstr "MD5 확인"
 
 msgid "MD5 log file can't be created."
-msgstr ""
+msgstr "MD5 로그 파일이 생성되지 않았습니다."
 
 msgid "MPlayerCE"
 msgstr ""
 
 msgid "MPlayerCE DOL Path"
-msgstr ""
+msgstr "MPlayerCE DOL 경로"
 
 msgid "Mark Item Button"
-msgstr ""
+msgstr "아이템 표시 버튼"
 
 msgid "Memory Buffer"
-msgstr ""
+msgstr "메모리 버터"
 
 msgid "Menu"
-msgstr ""
+msgstr "메뉴"
 
 #, c-format
 msgid "Mount %i"
-msgstr ""
+msgstr "%i 마운트"
 
 msgid "Mount NAND (ISFS) on boot"
-msgstr ""
+msgstr "부팅에서 NAND (ISFS) 마운트"
 
 msgid "Mounted as:"
-msgstr ""
+msgstr "마운트 되었습니다:"
 
 msgid "Mounting DVD"
-msgstr ""
+msgstr "DVD 마운트"
 
 msgid "Mountpoint:"
-msgstr ""
+msgstr "마운트포인트"
 
 msgid "Moving item(s):"
-msgstr ""
+msgstr "아이템(들) 이동:"
 
 msgid "Multiple Items"
-msgstr ""
+msgstr "여러 아이템들"
 
 msgid "Music Loop Mode"
-msgstr ""
+msgstr "음악 반복 모드"
 
 msgid "Music Volume"
-msgstr ""
+msgstr "음악 볼륨"
 
 msgid "NAND write access"
-msgstr ""
+msgstr "NAND 쓰기 권한"
 
 msgid "NFS Settings"
-msgstr ""
+msgstr "NFS 설정"
 
 msgid "NONE"
-msgstr ""
+msgstr "없음"
 
 msgid "Name might already exists."
-msgstr ""
+msgstr "이름이 이미 존재합니다."
 
 msgid "Network Settings"
-msgstr ""
+msgstr "네트워크 설정"
 
 msgid "Network initialising..."
-msgstr ""
+msgstr "네트워크 초기화 중..."
 
 msgid "New Folder"
-msgstr ""
+msgstr "새로운 폴더들"
 
 msgid "NewZip.zip"
 msgstr ""
 
 msgid "No"
-msgstr ""
+msgstr "아니오"
 
 msgid "No URL or Path specified."
-msgstr ""
+msgstr "URL 또는 지정된 경로가 없습니다."
 
 msgid "No files found."
-msgstr ""
+msgstr "파일을 찾을 수 없습니다."
 
 msgid "No homebrew in the zip."
-msgstr ""
+msgstr "Zip 파일에 홈브류가 없습니다."
 
 msgid "No network connection."
-msgstr ""
+msgstr "네트워크 연결이 없습니다."
 
 msgid "No new updates available"
-msgstr ""
+msgstr "가능한 새로운 업데이트가 없습니다."
 
 msgid "No to all"
-msgstr ""
+msgstr "모두 아니오"
 
 msgid "Normal"
-msgstr ""
+msgstr "기본"
 
 msgid "Not a valid URL"
-msgstr ""
+msgstr "유효한 URL이 아님"
 
 msgid "Not a valid URL path"
-msgstr ""
+msgstr "URL 경로가 아님"
 
 msgid "Not a valid domain"
-msgstr ""
+msgstr "유효한 도메인인 아님"
 
 msgid "Not enough memory"
-msgstr ""
+msgstr "메모리가 충분하지 않음"
 
 msgid "Not enough memory to resize."
-msgstr ""
+msgstr "부족한 메모리 크기를 조정합니다."
 
 msgid "Not enough memory to rotate."
-msgstr ""
+msgstr "부족한 메모리를 회전합니다."
 
 msgid "Not enough memory."
-msgstr ""
+msgstr "메모리가 부족합니다."
 
 msgid "Not enought memory."
-msgstr ""
+msgstr "메모리가 부족합니다."
 
 msgid "Not mounted"
-msgstr ""
+msgstr "마운트되지 않았습니다."
 
 msgid "OFF"
-msgstr ""
+msgstr "끄기"
 
 msgid "OK"
-msgstr ""
+msgstr "확인"
 
 msgid "ON"
-msgstr ""
+msgstr "켜기"
 
 msgid "Open the file in the PDF Viewer?"
-msgstr ""
+msgstr "PDF 뷰어에서 파일을 엽니까?"
 
 msgid "Opera Channel not found on the system."
-msgstr ""
+msgstr "오페라 채널은 시스템에서 찾을 수 없습니다."
 
 msgid "Out of memory: too many files!"
-msgstr ""
+msgstr "메모리 부족: 파일이 너무 많습니다!"
 
 msgid "Output File"
-msgstr ""
+msgstr "파일 출력"
 
 msgid "Output Type"
-msgstr ""
+msgstr "타입 출력"
 
 msgid "Override Priiloader"
-msgstr ""
+msgstr "프릴로더 무시"
 
 msgid "PDF Files"
-msgstr ""
+msgstr "PDF 파일들"
 
 msgid "PDF Processing Zoom"
-msgstr ""
+msgstr "PDF 확대 진행 중"
 
 msgid "Parse Directory"
-msgstr ""
+msgstr "검증 폴더"
 
 msgid "Partition"
-msgstr ""
+msgstr "파티션"
 
 msgid "Partition Formatter"
-msgstr ""
+msgstr "파티션 포맷터"
 
 msgid "Partition Nr."
-msgstr ""
+msgstr "파티션 Nr."
 
 msgid "Partition Size:"
-msgstr ""
+msgstr "파티션 크기:"
 
 msgid "Partition Type:"
-msgstr ""
+msgstr "파티션 타입:"
 
 msgid "Partition is too small."
-msgstr ""
+msgstr "파티션이 너무 작습니다."
 
 msgid "Passive Mode:"
-msgstr ""
+msgstr "수동 모드:"
 
 msgid "Password is needed."
-msgstr ""
+msgstr "비밀번호가 필요합니다."
 
 msgid "Password:"
-msgstr ""
+msgstr "비밀번호:"
 
 msgid "Paste"
-msgstr ""
+msgstr "붙여넣기"
 
 msgid "Paste item(s) into current directory?"
-msgstr ""
+msgstr "현재 폴더에 아이템(들)을 붙여넣겠습니까?"
 
 msgid "Paste the item(s) into this directory?"
-msgstr ""
+msgstr "이 폴더에 아이템(들)을 붙여넣겠습니까?"
 
 msgid "Pasting files is currently only supported on ZIP archives."
-msgstr ""
+msgstr "붙여넣기 파일은 현재 ZIP 압축파일만 지원됩니다."
 
 msgid "Path Settings"
-msgstr ""
+msgstr "경로 설정"
 
 msgid "Path Setup"
-msgstr ""
+msgstr "경로 구성"
 
 msgid "Path changed."
-msgstr ""
+msgstr "경로가 변경 되었습니다."
 
 msgid "Play File"
-msgstr ""
+msgstr "파일 실행"
 
 msgid "Play Once"
-msgstr ""
+msgstr "즉시 실행"
 
 msgid "Please enter a path."
-msgstr ""
+msgstr "경로를 입력하세요."
 
 msgid "Please enter first the URL-Name."
-msgstr ""
+msgstr "첫 URL 이름을 입력하세요."
 
 msgid "Please enter now the URL."
-msgstr ""
+msgstr "지금 URL을 입력하세요."
 
 msgid "Please enter the password."
-msgstr ""
+msgstr "비밀번호를 입력하세요."
 
 msgid "Please wait..."
-msgstr ""
+msgstr "잠시만 기다려 주세요."
 
 msgid "Possible unsupported format."
-msgstr ""
+msgstr "가능한 미지원 포맷"
 
 msgid "Press Startup FTP to start the server on port"
-msgstr ""
+msgstr "시작을 눌러 FTP 포트에 서버를 시작합니다."
 
 msgid "Press any button(s)"
-msgstr ""
+msgstr "아무 버튼(들)을 누르세요."
 
 msgid "Primary"
-msgstr ""
+msgstr "기본"
 
 msgid "Process canceled."
-msgstr ""
+msgstr "프로세스가 취소되었습니다."
 
 msgid "ProgressBar Bottom/Left"
-msgstr ""
+msgstr "진행바 아래/왼쪽"
 
 msgid "ProgressBar Bottom/Right"
-msgstr ""
+msgstr "진행바 아래/오른쪽"
 
 msgid "ProgressBar Empty Bottom/Left"
-msgstr ""
+msgstr "진행바 빈 아래/왼쪽"
 
 msgid "ProgressBar Empty Bottom/Right"
-msgstr ""
+msgstr "진행바 빈 아래/오른쪽"
 
 msgid "ProgressBar Empty Upper/Left"
-msgstr ""
+msgstr "진행바 빈 위/왼쪽"
 
 msgid "ProgressBar Empty Upper/Right"
-msgstr ""
+msgstr "진행바 빈 위/왼쪽"
 
 msgid "ProgressBar Upper/Left"
-msgstr ""
+msgstr "진행바 위/왼쪽"
 
 msgid "ProgressBar Upper/Right"
-msgstr ""
+msgstr "진행바 위/왼쪽"
 
 msgid "Properties"
-msgstr ""
+msgstr "속성"
 
 msgid "QWERTYUIOP{}|"
 msgstr ""
@@ -1257,532 +1257,532 @@ msgid "R: %i G: %i B: %i"
 msgstr ""
 
 msgid "Random"
-msgstr ""
+msgstr "무작위"
 
 #, c-format
 msgid "Read Error in %s"
-msgstr ""
+msgstr "%s에서 오류 읽음"
 
 #, c-format
 msgid "Read Error in file: %s"
-msgstr ""
+msgstr "파일에서 오류 읽임: %s"
 
 #, c-format
 msgid "Read error from %s in %s"
-msgstr ""
+msgstr "%s in %s에 %s에서 오류 읽음"
 
 msgid "Reading archive."
-msgstr ""
+msgstr "압축 파일을 읽고 있습니다."
 
 msgid "Receiving file..."
-msgstr ""
+msgstr "파일 받는 중..."
 
 msgid "Reconnect FTP"
-msgstr ""
+msgstr "FTP 재접속"
 
 msgid "Reconnect NFS"
-msgstr ""
+msgstr "NFS 재접속"
 
 msgid "Reconnect SMB"
-msgstr ""
+msgstr "SMB 재접속"
 
 msgid "Red"
-msgstr ""
+msgstr "빨간"
 
 msgid "Remount"
-msgstr ""
+msgstr "재마운트"
 
 msgid "Remounting FTP client."
-msgstr ""
+msgstr "FTP 클라이언트를 다시 마운트 합니다."
 
 msgid "Remounting NFS client."
-msgstr ""
+msgstr "NFS 클라이언트를 다시 마운트 합니다."
 
 msgid "Remounting SMB client."
-msgstr ""
+msgstr "SMB 클라이언트를 다시 마운트 합니다."
 
 msgid "Remounting all devices."
-msgstr ""
+msgstr "모든 장치를 다시 마운트 합니다."
 
 msgid "Remove Link"
-msgstr ""
+msgstr "링크 삭제"
 
 msgid "Remove from list"
-msgstr ""
+msgstr "목록에서 삭제"
 
 msgid "Rename"
-msgstr ""
+msgstr "이름 바꾸기"
 
 msgid "Resample to 48 kHz"
-msgstr ""
+msgstr "48 kHz에서 리샘플링"
 
 msgid "Reset"
-msgstr ""
+msgstr "리셋"
 
 msgid "Restart"
-msgstr ""
+msgstr "재시작"
 
 msgid "Retry?"
-msgstr ""
+msgstr "다시 시도 합니까?"
 
 msgid "Right Button"
-msgstr ""
+msgstr "오른쪽 버튼"
 
 msgid "Rotate"
-msgstr ""
+msgstr "회전"
 
 msgid "Rumble"
-msgstr ""
+msgstr "진동"
 
 msgid "Running a Video could slowdown the process or freeze the app. Do you want to continue?"
-msgstr ""
+msgstr "비디오를 실행하면 처리 속도를 느리게하거나 응용 프로그램을 동결할 수 있습니다. 계속 하겠습니까?"
 
 msgid "SD-Card"
-msgstr ""
+msgstr "SD 카드"
 
 msgid "SMB Name:"
-msgstr ""
+msgstr "SMB 이름:"
 
 msgid "SMB Settings"
-msgstr ""
+msgstr "SMB 설정"
 
 msgid "Save Alpha"
-msgstr ""
+msgstr "알파 저장"
 
 msgid "Screen Pointer Speed"
-msgstr ""
+msgstr "화면 포인터 속도"
 
 msgid "Screenshot Format"
-msgstr ""
+msgstr "스크린샷 포맷"
 
 msgid "Screenshot Hold Button"
-msgstr ""
+msgstr "스크린샷 홀드 버튼"
 
 msgid "Screenshot Path"
-msgstr ""
+msgstr "스크린샷 경로"
 
 msgid "Screenshot Press Button"
-msgstr ""
+msgstr "스크린샷 누름 버튼"
 
 msgid "Scrolling Speed"
-msgstr ""
+msgstr "스크롤 속도"
 
 #, c-format
 msgid "Seek Error in %s"
-msgstr ""
+msgstr "%s에서 오류 탐색"
 
 msgid "Server was shutdown...\n"
-msgstr ""
+msgstr "서버는 종료되었습니다...\n"
 
 msgid "Set Active"
-msgstr ""
+msgstr "활성화 설정"
 
 msgid "Set the pressed buttons?"
-msgstr ""
+msgstr "버튼응ㄹ 눌러서 설정합니까?"
 
 msgid "Set this Partition as Active?"
-msgstr ""
+msgstr "활성화 처럼 이 파티션을 설정합니까?"
 
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 #, c-format
 msgid "Share %i"
-msgstr ""
+msgstr "%i 공유"
 
 msgid "Share:"
-msgstr ""
+msgstr "공유:"
 
 msgid "Shift"
-msgstr ""
+msgstr "시프트"
 
 msgid "Show Changelog"
-msgstr ""
+msgstr "변경로그 보기"
 
 msgid "Show Partition Formatter"
-msgstr ""
+msgstr "파티션 포맷터 보기"
 
 msgid "Shutdown"
-msgstr ""
+msgstr "종료"
 
 msgid "Shutdown FTP"
-msgstr ""
+msgstr "FTP 종료"
 
 msgid "Shutdown the Wii?"
-msgstr ""
+msgstr "Wii를 종료합니까?"
 
 msgid "Size:"
-msgstr ""
+msgstr "크기:"
 
 msgid "Slide Show Button"
-msgstr ""
+msgstr "슬라이드 쇼 버튼"
 
 msgid "Slideshow Delay"
-msgstr ""
+msgstr "슬라이드쇼 지연"
 
 msgid "Sound Settings"
-msgstr ""
+msgstr "사운드 설정"
 
 msgid "Soundblock Size"
-msgstr ""
+msgstr "사운드블럭 크기"
 
 msgid "Soundblocks"
-msgstr ""
+msgstr "사운드블럭"
 
 msgid "Special thanks to:"
-msgstr ""
+msgstr "특별 감사"
 
 msgid "Startup FTP"
-msgstr ""
+msgstr "FTP 시작"
 
 msgid "Successfully formated the partition."
-msgstr ""
+msgstr "성공적으로 파티션이 포맷되었습니다."
 
 msgid "System error received"
-msgstr ""
+msgstr "시스템 오류가 접수 되었습니다."
 
 msgid "Tab"
-msgstr ""
+msgstr "탭"
 
 msgid "Temporary Path"
-msgstr ""
+msgstr "임시 경로"
 
 msgid "Text Editor"
-msgstr ""
+msgstr "문서 편집기"
 
 msgid "The buffer size is really high. If the app doesn't start after this delete your config files."
-msgstr ""
+msgstr "버퍼 크기는 실제로 높습니다. 응용 프로그램이 시작되지 않는 경우 이 구성 파일을 삭제합니다."
 
 msgid "The developers cannot be hold responsible for any damage you do to your Wii by activating this option. Are you sure you want to continue?"
-msgstr ""
+msgstr "개발자는이 옵션을 활성화하여 Wii 손상에 대한 책임을 질 수 없습니다. 계속 하겠습니까?"
 
 msgid "The effect will take with next music load. It might break music playback."
-msgstr ""
+msgstr "효과는 다음 음악을 불러오는데 부하가 걸립니다. 사운드가 깨질 수 있습니다."
 
 msgid "The file will be downloaded to this path."
-msgstr ""
+msgstr "파일은 이 경로에 다운로드 됩니다."
 
 msgid "The new font could not be loaded."
-msgstr ""
+msgstr "새로운 폰트를 불러오지 못 했습니다."
 
 msgid "The new font is loaded."
-msgstr ""
+msgstr "새로운 폰트를 불러왔습니다."
 
 msgid "The whole devkitPro & libogc staff."
-msgstr ""
+msgstr "전체 evkitPro & libogc 직원"
 
 msgid "This drive has more than 2^28 clusters. Partition might be too small."
-msgstr ""
+msgstr "이 드라이브는 2^28 클러스터 이상을 가지고 있습니다. 파티션이 너무 작을 수 있습니다."
 
 msgid "This drive is too big"
-msgstr ""
+msgstr "이 드라이브는 너무 큽니다."
 
 msgid "This link will be used in Opera or as a Download Link."
-msgstr ""
+msgstr "이 링크는 오페라나 다운로드 링크로 사용됩니다."
 
 msgid "This name will be shown in the Start Menu"
-msgstr ""
+msgstr "이 이름은 시작 메뉴에 표시됩니다."
 
 msgid "This option could mess up the pdf view."
-msgstr ""
+msgstr "이 옵션은 PDF 뷰를 엉망으로 만들 수 있습니다."
 
 msgid "This will delete all the data on this partition. Do you want to continue?"
-msgstr ""
+msgstr "이것은 이 파티션에있는 모든 데이터가 삭제됩니다, 계속 하겠습니까?"
 
 msgid "Time left:"
-msgstr ""
+msgstr "남은 시간"
 
 msgid "To Idle"
-msgstr ""
+msgstr "유휴"
 
 msgid "To Standby"
-msgstr ""
+msgstr "대기"
 
 msgid "Tooltip Delay"
-msgstr ""
+msgstr "툴팁 지연"
 
 msgid "Total Space:"
-msgstr ""
+msgstr "총 공간:"
 
 msgid "Transfer cancelled."
-msgstr ""
+msgstr "전송이 취소되었습니다."
 
 msgid "Transfer failed"
-msgstr ""
+msgstr "전송 실패"
 
 msgid "Transfer failed."
-msgstr ""
+msgstr "전송이 실패하였습니다."
 
 msgid "URL List"
-msgstr ""
+msgstr "URL 목록"
 
 msgid "URL List Path"
-msgstr ""
+msgstr "URL 목록 패치"
 
 msgid "URL is empty."
-msgstr ""
+msgstr "URL은 비었습니다."
 
 msgid "USB Device Port 0"
-msgstr ""
+msgstr "USB 장치 포트 0"
 
 msgid "USB Device Port 1"
-msgstr ""
+msgstr "USB 장치 포트 1"
 
 msgid "Uknown format. Open this file in the TextEditor?"
-msgstr ""
+msgstr "미확인 포맷입니다. 문서편집기에서 이 파일을 열겠습니까?"
 
 msgid "Unable to create folder."
-msgstr ""
+msgstr "폴더를 생성할 수 없습니다."
 
 msgid "Unknown"
-msgstr ""
+msgstr "미확인"
 
 msgid "Unsupported format!"
-msgstr ""
+msgstr "미지원 포맷!"
 
 msgid "Up Button"
-msgstr ""
+msgstr "위쪽 버튼"
 
 msgid "Update (App) Path"
-msgstr ""
+msgstr "업데이트 (응용 프로그램) 경로"
 
 msgid "Update App"
-msgstr ""
+msgstr "응용 프로그램 업데이트"
 
 msgid "Update Icon.png"
-msgstr ""
+msgstr "Icon.png 업데이트"
 
 msgid "Update Meta.xml"
-msgstr ""
+msgstr "Meta.xml 업데이트"
 
 msgid "Update failed"
-msgstr ""
+msgstr "업데이트 실패"
 
 msgid "Update successfully finished"
-msgstr ""
+msgstr "업데이트가 성공적으로 완료되었습니다."
 
 #, c-format
 msgid "Update to Rev%i available"
-msgstr ""
+msgstr "사용가능한 Rev%i 업데이트"
 
 msgid "Use Both USB Ports"
-msgstr ""
+msgstr "양쪽 USB 포트 사용"
 
 msgid "Username:"
-msgstr ""
+msgstr "사용자이름:"
 
 msgid "Vertical"
-msgstr ""
+msgstr "수직"
 
 msgid "Video Files"
-msgstr ""
+msgstr "비디오 파일"
 
 msgid "WARNING"
-msgstr ""
+msgstr "위험"
 
 msgid "WARNING/DISCLAIMER"
-msgstr ""
+msgstr "위험/면책조항"
 
 msgid "WARNING:"
-msgstr ""
+msgstr "위험:"
 
 msgid "WPAD BUTTON 1"
-msgstr ""
+msgstr "위패드 1 버튼"
 
 msgid "WPAD BUTTON 2"
-msgstr ""
+msgstr "위패드 2 버튼"
 
 msgid "WPAD BUTTON A"
-msgstr ""
+msgstr "위패드 A 버튼"
 
 msgid "WPAD BUTTON B"
-msgstr ""
+msgstr "위패드 B 버튼"
 
 msgid "WPAD BUTTON DOWN"
-msgstr ""
+msgstr "위패드 아래쪽 버튼"
 
 msgid "WPAD BUTTON HOME"
-msgstr ""
+msgstr "위패드 홈 버튼"
 
 msgid "WPAD BUTTON LEFT"
-msgstr ""
+msgstr "위패드 왼쪽 버튼"
 
 msgid "WPAD BUTTON MINUS"
-msgstr ""
+msgstr "위패드 빼기 버튼"
 
 msgid "WPAD BUTTON PLUS"
-msgstr ""
+msgstr "위패드 더하기 버튼"
 
 msgid "WPAD BUTTON RIGHT"
-msgstr ""
+msgstr "위패드 오른쪽 버튼"
 
 msgid "WPAD BUTTON UP"
-msgstr ""
+msgstr "위패드 위쪽 버튼"
 
 msgid "WPAD CLASSIC BUTTON A"
-msgstr ""
+msgstr "위패드 클래식 A 버튼"
 
 msgid "WPAD CLASSIC BUTTON B"
-msgstr ""
+msgstr "위패드 클래식 B 버튼"
 
 msgid "WPAD CLASSIC BUTTON DOWN"
-msgstr ""
+msgstr "위패드 클래식 아래쪽 버튼"
 
 msgid "WPAD CLASSIC BUTTON FULL L"
-msgstr ""
+msgstr "위패드 클래식 전체 L 버튼"
 
 msgid "WPAD CLASSIC BUTTON FULL R"
-msgstr ""
+msgstr "위패드 클래식 전체 R 버튼"
 
 msgid "WPAD CLASSIC BUTTON HOME"
-msgstr ""
+msgstr "위패드 클래식 홈 버튼"
 
 msgid "WPAD CLASSIC BUTTON LEFT"
-msgstr ""
+msgstr "위패드 클래식 왼쪽 버튼"
 
 msgid "WPAD CLASSIC BUTTON MINUS"
-msgstr ""
+msgstr "위패드 클래식 빼기 버튼"
 
 msgid "WPAD CLASSIC BUTTON PLUS"
-msgstr ""
+msgstr "위패드 클래식 더하기 버튼"
 
 msgid "WPAD CLASSIC BUTTON RIGHT"
-msgstr ""
+msgstr "위패드 클래식 오른쪽 버튼"
 
 msgid "WPAD CLASSIC BUTTON UP"
-msgstr ""
+msgstr "위패드 클래식 위쪽 버튼"
 
 msgid "WPAD CLASSIC BUTTON X"
-msgstr ""
+msgstr "위패드 클래식 X 버튼"
 
 msgid "WPAD CLASSIC BUTTON Y"
-msgstr ""
+msgstr "위패드 클래식 Y 버튼"
 
 msgid "WPAD CLASSIC BUTTON ZL"
-msgstr ""
+msgstr "위패드 클래식 ZL 버튼"
 
 msgid "WPAD CLASSIC BUTTON ZR"
-msgstr ""
+msgstr "위패드 클래식 ZR 버튼"
 
 msgid "WPAD CLASSIC NONE BUTTON"
-msgstr ""
+msgstr "위패드 클래식 버튼 없음"
 
 msgid "WPAD NONE BUTTON"
-msgstr ""
+msgstr "위패드 버튼 없음"
 
 msgid "WPAD NUNCHUCK BUTTON C"
-msgstr ""
+msgstr "위패드 눈챠크 C 버튼"
 
 msgid "WPAD NUNCHUCK BUTTON Z"
-msgstr ""
+msgstr "위패드 눈챠크 Z 버튼"
 
 msgid "Warning:"
-msgstr ""
+msgstr "위험:"
 
 msgid "Wii Binary Files"
-msgstr ""
+msgstr "Wii 바이너리 파일들"
 
 msgid "Wii Classic Buttons Setup"
-msgstr ""
+msgstr "Wii 클래식 버튼 구성"
 
 msgid "Wii Homebrew"
-msgstr ""
+msgstr "Wii 홈브류"
 
 msgid "Wii Menu"
-msgstr ""
+msgstr "Wii 메뉴"
 
 msgid "WiiMC"
 msgstr ""
 
 msgid "WiiMC DOL Path"
-msgstr ""
+msgstr "WiiMC DOL 경로"
 
 msgid "WiiMote Buttons Setup"
-msgstr ""
+msgstr "위모트 버튼 설정"
 
 msgid "WiiXplorer Default Music"
-msgstr ""
+msgstr "WiiXplorer 기본 음악"
 
 msgid "WiiXplorer MD5 Calculator\n"
-msgstr ""
+msgstr "WiiXplorer MD5 계산기\n"
 
 msgid "WiiXplorer Movies"
-msgstr ""
+msgstr "WiiXplorer 영화"
 
 msgid "Would you like to add/append the selected item(s) to a zip?"
-msgstr ""
+msgstr "Zip 파일로 추가/선택 아이템(들)을 추가 하겠습니까?"
 
 #, c-format
 msgid "Write Error from %s to %s"
-msgstr ""
+msgstr "%s에서 %s로 쓰기 오류"
 
 #, c-format
 msgid "Write Error in file: %s. %s"
-msgstr ""
+msgstr "파일에서 쓰기 오류: %s. %s"
 
 msgid "Write access to NAND is dangerous if you do not know what you do! Are you sure you want to activate NAND write access?"
-msgstr ""
+msgstr "NAND에 대한 쓰기 접속은 사용자가 무엇을 하는지 모른다면 위험합니다! NAND 쓰기 접속을 활성화하겠습니까?"
 
 #, c-format
 msgid "Write error to %s in %s"
-msgstr ""
+msgstr "%s에서 %s에 오류 쓰기"
 
 msgid "Yes"
-msgstr ""
+msgstr "예"
 
 msgid "Yes to all"
-msgstr ""
+msgstr "모두 예"
 
 msgid "You can't set a logical partition as active."
-msgstr ""
+msgstr "활성화로 논리 파티션을 설정할 수 없습니다."
 
 msgid "You can't set this partition as active."
-msgstr ""
+msgstr "활성화로 이 파티션을 설정할 수 없습니다."
 
 msgid "You cant use this operation on:"
-msgstr ""
+msgstr "이 작업을 사용하지 못함:"
 
 msgid "You have a GUID Partition Table (GPT). Formatting partitions in a GPT is not supported yet."
-msgstr ""
+msgstr "GUID 파티션 테이블 (GPT)가 있습니다. GPT에서 파티션 포맷은 아직 지원되지 않습니다."
 
 msgid "ZXCVBNM<>?"
 msgstr ""
 
 msgid "Zip Compression Mode"
-msgstr ""
+msgstr "Zip 압축 모드"
 
 msgid "ZoomIn Button"
-msgstr ""
+msgstr "확대 버튼"
 
 msgid "ZoomOut Button"
-msgstr ""
+msgstr "축소 버튼"
 
 msgid "`1234567890-="
 msgstr ""
 
 msgid "and all the translators."
-msgstr ""
+msgstr "그리고 모든 번역가들"
 
 msgid "asdfghjkl;'"
 msgstr ""
 
 msgid "devices"
-msgstr ""
+msgstr "장치들"
 
 msgid "files"
-msgstr ""
+msgstr "파일들"
 
 msgid "for his FTP Server source."
-msgstr ""
+msgstr FTP 서버 소스""
 
 msgid "for his great tool libwiigui."
-msgstr ""
+msgstr "훌륭한 도구 libwiigui"
 
 msgid "qwertyuiop[]\\"
 msgstr ""
 
 msgid "requires d2x cIOS v9+"
-msgstr ""
+msgstr "requires d2x cIOS v9 이상 요구"
 
 msgid "revs"
 msgstr ""
